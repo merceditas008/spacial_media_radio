@@ -1,0 +1,1690 @@
+Ttuiotest
+v4
+r1
+cCheck dependencies
+cProcessInfoPlistFile "/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/bin/tuiotestDebug.app/Contents/Info.plist" openFrameworks-Info.plist
+cProcessPCH++ /var/folders/np/bmm2m30923gfdvhs15zd484r0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-ftvuubpgcfqmybglgnzcrzixogyk/Carbon.h.gch /System/Library/Frameworks/Carbon.framework/Headers/Carbon.h normal i386 c++ com.apple.compilers.llvmgcc42
+cCompileC build/tuiotest.build/Debug/tuiotest.build/Objects-normal/i386/main.o "/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/main.cpp" normal i386 c++ com.apple.compilers.llvmgcc42
+cCompileC build/tuiotest.build/Debug/tuiotest.build/Objects-normal/i386/testApp.o "/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/testApp.cpp" normal i386 c++ com.apple.compilers.llvmgcc42
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/../../../libs/glut/lib/osx/GLUT.framework
+c000000004E99CACD00000000000000CC
+t1318701773
+s204
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/../../../libs/glut/lib/osx/GLUT.framework/GLUT
+c000000004D3258300000000000092A98
+t1295145008
+s600728
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/bin/tuiotestDebug.app
+t2
+s0
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/bin/tuiotestDebug.app/Contents/Frameworks/GLUT.framework
+t2
+s0
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/bin/tuiotestDebug.app/Contents/Info.plist
+t2
+s0
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/bin/tuiotestDebug.app/Contents/MacOS/tuiotestDebug
+t2
+s0
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/bin/tuiotestDebug.app/Contents/PkgInfo
+t2
+s0
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/build/tuiotest.build/Debug/tuiotest.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/build/tuiotest.build/Debug/tuiotest.build/Objects-normal/i386/ofxTuioClient.o
+t2
+s0
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/build/tuiotest.build/Debug/tuiotest.build/Objects-normal/i386/ofxTuioServer.o
+t2
+s0
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/build/tuiotest.build/Debug/tuiotest.build/Objects-normal/i386/testApp.o
+t2
+s0
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/build/tuiotest.build/Debug/tuiotest.build/Objects-normal/i386/tuiotestDebug.LinkFileList
+c000000004F4686020000000000000239
+t1330021890
+s569
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/build/tuiotest.build/Debug/tuiotest.build/Script-E4B6FFFD0C3F9AB9008CF71C.sh
+c000000004F4686020000000000000114
+t1330021890
+s276
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.cpp
+c000000004B44B2720000000000001475
+t1262793330
+s5237
+i"ofxTuioClient.h"
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h
+c000000004B44B272000000000000080A
+t1262793330
+s2058
+i"ofMain.h"
+i"TuioListener.h"
+i"TuioClient.h"
+i"TuioObject.h"
+i"TuioCursor.h"
+i"TuioPoint.h"
+i<list>
+i<math.h>
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioServer.cpp
+c000000004B44B272000000000000127B
+t1262793330
+s4731
+i"ofxTuioServer.h"
+i"UdpSender.h"
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioServer.h
+c000000004B44B27200000000000007E4
+t1262793330
+s2020
+i"ofMain.h"
+i"TuioServer.h"
+i"TuioCursor.h"
+i<list>
+i<math.h>
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/main.cpp
+c000000004B44B27200000000000001A0
+t1262793330
+s416
+i"ofMain.h"
+i"testApp.h"
+i"ofAppGlutWindow.h"
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/testApp.cpp
+c000000004B44B27200000000000007F6
+t1262793330
+s2038
+i"testApp.h"
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/testApp.h
+c000000004B44B2720000000000000261
+t1262793330
+s609
+i"ofMain.h"
+i"ofxTuioClient.h"
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/cairo/include/cairo/cairo-deprecated.h
+c000000004D55801800000000000021FA
+t1297448984
+s8698
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/cairo/include/cairo/cairo-features.h
+c000000004D558018000000000000031D
+t1297448984
+s797
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/cairo/include/cairo/cairo-pdf.h
+c000000004D5580180000000000000C24
+t1297448984
+s3108
+i"cairo.h"
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/cairo/include/cairo/cairo-svg.h
+c000000004D5580180000000000000ADD
+t1297448984
+s2781
+i"cairo.h"
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/cairo/include/cairo/cairo-version.h
+c000000004D5580180000000000000094
+t1297448984
+s148
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/cairo/include/cairo/cairo.h
+c000000004D5580180000000000016BCE
+t1297448984
+s93134
+i"cairo-version.h"
+i"cairo-features.h"
+i"cairo-deprecated.h"
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/fmodex/include/fmod.h
+c000000004D3258300000000000028E68
+t1295145008
+s167528
+i"fmod_codec.h"
+i"fmod_dsp.h"
+i"fmod_memoryinfo.h"
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/fmodex/include/fmod_codec.h
+c000000004B1F8992000000000000334A
+t1260358034
+s13130
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/fmodex/include/fmod_dsp.h
+c000000004B1F8992000000000000892F
+t1260358034
+s35119
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/fmodex/include/fmod_errors.h
+c000000004B1F89920000000000003408
+t1260358034
+s13320
+i"fmod.h"
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/fmodex/include/fmod_memoryinfo.h
+c000000004B1F89920000000000003C95
+t1260358034
+s15509
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/glew/include/GL/glew.h
+c000000004D455E0A00000000000C1916
+t1296391690
+s792854
+i<stddef.h>
+i<inttypes.h>
+i<stdint.h>
+i<inttypes.h>
+i<OpenGL/glu.h>
+i<GL/glu.h>
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/openFrameworks/3d/of3dUtils.h
+c000000004DBAFE04000000000000002B
+t1304100356
+s43
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/openFrameworks/3d/ofCamera.h
+c000000004DF297A40000000000000858
+t1307744164
+s2136
+i"ofRectangle.h"
+i"ofAppRunner.h"
+i"ofNode.h"
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/openFrameworks/3d/ofEasyCam.h
+c000000004D846164000000000000053C
+t1300521316
+s1340
+i"ofCamera.h"
+i"ofEvents.h"
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/openFrameworks/3d/ofMesh.h
+c000000004E15DFD600000000000010DD
+t1310056406
+s4317
+i"ofVec3f.h"
+i"ofVec2f.h"
+i"ofColor.h"
+i"ofUtils.h"
+i"ofConstants.h"
+i"ofGLUtils.h"
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/openFrameworks/3d/ofNode.h
+c000000004D597A7C000000000000143C
+t1297709692
+s5180
+i"ofVectorMath.h"
+i"of3dUtils.h"
+i"ofGraphics.h"
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/openFrameworks/app/ofAppBaseWindow.h
+c000000004E0F2BC00000000000000590
+t1309617088
+s1424
+i"ofPoint.h"
+i"ofTypes.h"
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/openFrameworks/app/ofAppGlutWindow.h
+c000000004E0F2BC000000000000006A5
+t1309617088
+s1701
+i"ofConstants.h"
+i"ofAppBaseWindow.h"
+i"ofEvents.h"
+i"ofTypes.h"
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/openFrameworks/app/ofAppRunner.h
+c000000004DD7B3E8000000000000075D
+t1305981928
+s1885
+i"ofConstants.h"
+i"ofPoint.h"
+i"ofRectangle.h"
+i"ofTypes.h"
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/openFrameworks/app/ofBaseApp.h
+c000000004DD7B3E80000000000000377
+t1305981928
+s887
+i"ofPoint.h"
+i"ofEvents.h"
+i"ofBaseTypes.h"
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/openFrameworks/communication/ofArduino.h
+c000000004D8461640000000000004200
+t1300521316
+s16896
+i<list>
+i<vector>
+i<string>
+i<iostream>
+i"ofEvents.h"
+i"ofSerial.h"
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/openFrameworks/communication/ofSerial.h
+c000000004DB2F58A0000000000000DA9
+t1303573898
+s3497
+i"ofConstants.h"
+i"ofTypes.h"
+i<termios.h>
+i<winbase.h>
+i<tchar.h>
+i<iostream>
+i<string.h>
+i<setupapi.h>
+i<regstr.h>
+i<winioctl.h>
+i<initguid.h>
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/openFrameworks/events/ofEventUtils.h
+c000000004DDA87260000000000000DAD
+t1306167078
+s3501
+i"ofConstants.h"
+i"Poco/FIFOEvent.h"
+i"Poco/Delegate.h"
+i<stdio.h>
+i<stdlib.h>
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/openFrameworks/events/ofEvents.h
+c000000004DB071120000000000001B97
+t1303408914
+s7063
+i"ofConstants.h"
+i"ofPoint.h"
+i"ofEventUtils.h"
+i"ofxEventUtils.h"
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/openFrameworks/gl/ofFbo.h
+c000000004E283BD60000000000000E23
+t1311259606
+s3619
+i"ofTexture.h"
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/openFrameworks/gl/ofGLRenderer.h
+c000000004E19BFA00000000000001109
+t1310310304
+s4361
+i"ofBaseTypes.h"
+i"ofPolyline.h"
+i<stack>
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/openFrameworks/gl/ofGLUtils.h
+c000000004E0E00180000000000000B79
+t1309540376
+s2937
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/openFrameworks/gl/ofLight.h
+c000000004E0F6A46000000000000084C
+t1309633094
+s2124
+i"ofNode.h"
+i"ofColor.h"
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/openFrameworks/gl/ofMaterial.h
+c000000004E0F6A460000000000000555
+t1309633094
+s1365
+i"ofColor.h"
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/openFrameworks/gl/ofShader.h
+c000000004E0E5BE00000000000000F82
+t1309563872
+s3970
+i"ofConstants.h"
+i"ofBaseTypes.h"
+i"ofTexture.h"
+i<map>
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/openFrameworks/gl/ofTexture.h
+c000000004E264F1400000000000010D0
+t1311133460
+s4304
+i"ofPoint.h"
+i"ofRectangle.h"
+i"ofBaseTypes.h"
+i"ofConstants.h"
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/openFrameworks/gl/ofVbo.h
+c000000004E0F6A460000000000000A19
+t1309633094
+s2585
+i"ofConstants.h"
+i"ofVec3f.h"
+i"ofColor.h"
+i"ofUtils.h"
+i"ofMesh.h"
+i"ofGLUtils.h"
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/openFrameworks/gl/ofVboMesh.h
+c000000004DF297A40000000000000114
+t1307744164
+s276
+i"ofMesh.h"
+i"ofVbo.h"
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/openFrameworks/graphics/ofCairoRenderer.h
+c000000004E25C43000000000000012BF
+t1311097904
+s4799
+i"cairo-features.h"
+i"cairo-pdf.h"
+i"cairo-svg.h"
+i"cairo.h"
+i<deque>
+i<stack>
+i"ofMatrix4x4.h"
+i"ofBaseTypes.h"
+i"ofPath.h"
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/openFrameworks/graphics/ofGraphics.h
+c000000004E1340520000000000001D95
+t1309884498
+s7573
+i"ofConstants.h"
+i"ofColor.h"
+i"ofPoint.h"
+i"ofMatrix4x4.h"
+i"ofRectangle.h"
+i"ofTypes.h"
+i"ofBaseTypes.h"
+i"ofGLRenderer.h"
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/openFrameworks/graphics/ofImage.h
+c000000004E15DFD80000000000002014
+t1310056408
+s8212
+i"ofFileUtils.h"
+i"ofTexture.h"
+i"ofPixels.h"
+i"ofBaseTypes.h"
+i"ofConstants.h"
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/openFrameworks/graphics/ofPath.h
+c000000004E19BFA0000000000000115A
+t1310310304
+s4442
+i"ofConstants.h"
+i"ofPoint.h"
+i"ofColor.h"
+i"ofPolyline.h"
+i"ofBaseTypes.h"
+i"ofMesh.h"
+i"ofTessellator.h"
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/openFrameworks/graphics/ofPixels.h
+c000000004E1622C400000000000012C3
+t1310073540
+s4803
+i"ofConstants.h"
+i"ofUtils.h"
+i"ofColor.h"
+i"ofMath.h"
+i<limits>
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/openFrameworks/graphics/ofPolyline.h
+c000000004E19BFA00000000000000E9D
+t1310310304
+s3741
+i"ofPoint.h"
+i"ofConstants.h"
+i<deque>
+i"ofRectangle.h"
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/openFrameworks/graphics/ofRendererCollection.h
+c000000004E19BFA000000000000027C6
+t1310310304
+s10182
+i"ofBaseTypes.h"
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/openFrameworks/graphics/ofTessellator.h
+c000000004DDA876A0000000000000459
+t1306167146
+s1113
+i"ofConstants.h"
+i"ofMesh.h"
+i"ofTypes.h"
+i"ofPolyline.h"
+i"tesselator.h"
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/openFrameworks/graphics/ofTrueTypeFont.h
+c000000004E2319EC00000000000009F5
+t1310923244
+s2549
+i<vector>
+i"ofPoint.h"
+i"ofRectangle.h"
+i"ofConstants.h"
+i"ofPath.h"
+i"ofTexture.h"
+i"ofMesh.h"
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/openFrameworks/math/ofMath.h
+c000000004E19BFA00000000000000B3D
+t1310310304
+s2877
+i"ofPoint.h"
+i"ofConstants.h"
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/openFrameworks/math/ofMatrix3x3.h
+c000000004D5575B80000000000000A4C
+t1297446328
+s2636
+i"ofConstants.h"
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/openFrameworks/math/ofMatrix4x4.h
+c000000004D8461640000000000006D64
+t1300521316
+s28004
+i"ofVec3f.h"
+i"ofVec4f.h"
+i"ofQuaternion.h"
+i"ofConstants.h"
+i<cmath>
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/openFrameworks/math/ofQuaternion.h
+c000000004D84616400000000000033BD
+t1300521316
+s13245
+i"ofConstants.h"
+i"ofVec3f.h"
+i"ofVec4f.h"
+i<cmath>
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/openFrameworks/math/ofVec2f.h
+c000000004D922FBC000000000000407D
+t1301426108
+s16509
+i"ofConstants.h"
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/openFrameworks/math/ofVec3f.h
+c000000004D84616400000000000061A8
+t1300521316
+s25000
+i"ofVec2f.h"
+i"ofVec4f.h"
+i"ofConstants.h"
+i<cmath>
+i<iostream>
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/openFrameworks/math/ofVec4f.h
+c000000004D5575B80000000000002EC3
+t1297446328
+s11971
+i"ofConstants.h"
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/openFrameworks/math/ofVectorMath.h
+c000000004D2F23840000000000000099
+t1294934916
+s153
+i"ofVec2f.h"
+i"ofVec3f.h"
+i"ofVec4f.h"
+i"ofMatrix3x3.h"
+i"ofMatrix4x4.h"
+i"ofQuaternion.h"
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/openFrameworks/ofMain.h
+c000000004E283BD60000000000000643
+t1311259606
+s1603
+i"ofConstants.h"
+i"ofFileUtils.h"
+i"ofLog.h"
+i"ofSystemUtils.h"
+i"ofThread.h"
+i"ofURLFileLoader.h"
+i"ofUtils.h"
+i"ofBaseTypes.h"
+i"ofTypes.h"
+i"ofColor.h"
+i"ofPoint.h"
+i"ofRectangle.h"
+i"ofMath.h"
+i"ofVectorMath.h"
+i"ofSerial.h"
+i"ofArduino.h"
+i"ofFbo.h"
+i"ofGLRenderer.h"
+i"ofGLUtils.h"
+i"ofLight.h"
+i"ofMaterial.h"
+i"ofShader.h"
+i"ofTexture.h"
+i"ofVbo.h"
+i"ofVboMesh.h"
+i"ofCairoRenderer.h"
+i"ofGraphics.h"
+i"ofImage.h"
+i"ofPath.h"
+i"ofPixels.h"
+i"ofPolyline.h"
+i"ofRendererCollection.h"
+i"ofTessellator.h"
+i"ofTrueTypeFont.h"
+i"ofBaseApp.h"
+i"ofAppRunner.h"
+i"ofSoundStream.h"
+i"ofSoundPlayer.h"
+i"ofVideoGrabber.h"
+i"ofVideoPlayer.h"
+i"ofEvents.h"
+i"of3dUtils.h"
+i"ofCamera.h"
+i"ofEasyCam.h"
+i"ofMesh.h"
+i"ofNode.h"
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/openFrameworks/sound/ofBaseSoundPlayer.h
+c000000004D5575B80000000000000366
+t1297446328
+s870
+i"ofConstants.h"
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/openFrameworks/sound/ofBaseSoundStream.h
+c000000004D8605E200000000000002D4
+t1300628962
+s724
+i"ofConstants.h"
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/openFrameworks/sound/ofFmodSoundPlayer.h
+c000000004E283BD600000000000006B8
+t1311259606
+s1720
+i"ofConstants.h"
+i"ofBaseSoundPlayer.h"
+i"fmod.h"
+i"fmod_errors.h"
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/openFrameworks/sound/ofOpenALSoundPlayer.h
+c000000004E283BD60000000000000E5E
+t1311259606
+s3678
+i"ofConstants.h"
+i"ofBaseSoundPlayer.h"
+i"ofEvents.h"
+i"ofThread.h"
+i<OpenAL/al.h>
+i<OpenAL/alc.h>
+i<AL/al.h>
+i<AL/alc.h>
+i"kiss_fft.h"
+i"kiss_fftr.h"
+i<sndfile.h>
+i<mpg123.h>
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/openFrameworks/sound/ofPASoundStream.h
+c000000004E25C430000000000000052D
+t1311097904
+s1325
+i"ofConstants.h"
+i"ofBaseSoundStream.h"
+i"ofTypes.h"
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/openFrameworks/sound/ofRtAudioSoundStream.h
+c000000004E283BD600000000000004A6
+t1311259606
+s1190
+i"ofConstants.h"
+i"ofBaseSoundStream.h"
+i"ofTypes.h"
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/openFrameworks/sound/ofSoundPlayer.h
+c000000004E283BD60000000000000637
+t1311259606
+s1591
+i"ofConstants.h"
+i"ofTypes.h"
+i"ofBaseTypes.h"
+i"ofBaseSoundPlayer.h"
+i"ofQuicktimeSoundPlayer.h"
+i"ofFmodSoundPlayer.h"
+i"ofOpenALSoundPlayer.h"
+i"ofxOpenALSoundPlayer.h"
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/openFrameworks/sound/ofSoundStream.h
+c000000004E2851A4000000000000067D
+t1311265188
+s1661
+i"ofConstants.h"
+i"ofBaseTypes.h"
+i"ofBaseApp.h"
+i"ofTypes.h"
+i"ofBaseSoundStream.h"
+i"ofRtAudioSoundStream.h"
+i"ofPASoundStream.h"
+i"ofxAndroidSoundStream.h"
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/openFrameworks/types/ofBaseTypes.h
+c000000004E19BFA00000000000002EFE
+t1310310304
+s12030
+i"ofPoint.h"
+i"ofRectangle.h"
+i"ofConstants.h"
+i"ofColor.h"
+i"ofMesh.h"
+i"ofPixels.h"
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/openFrameworks/types/ofColor.h
+c000000004E0F6A4600000000000013FD
+t1309633094
+s5117
+i<limits>
+i"ofMath.h"
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/openFrameworks/types/ofPoint.h
+c000000004D846164000000000000003D
+t1300521316
+s61
+i"ofVec3f.h"
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/openFrameworks/types/ofRectangle.h
+c000000004DB06E6E0000000000000454
+t1303408238
+s1108
+i"ofPoint.h"
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/openFrameworks/types/ofTypes.h
+c000000004E0F6A7A0000000000000D27
+t1309633146
+s3367
+i"ofConstants.h"
+i"ofColor.h"
+i<memory>
+i<tr1/memory>
+i"Poco/Mutex.h"
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/openFrameworks/utils/ofConstants.h
+c000000004E2851A400000000000034DF
+t1311265188
+s13535
+i<TargetConditionals.h>
+i<windows.h>
+i"GL\glew.h"
+i"GL\wglew.h"
+i"glu.h"
+i<unistd.h>
+i"GL/glew.h"
+i<OpenGL/gl.h>
+i<ApplicationServices/ApplicationServices.h>
+i<unistd.h>
+i<GL/glew.h>
+i<GL/gl.h>
+i<GL/glx.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i<unistd.h>
+i<GLES/gl.h>
+i<GLES/glext.h>
+i"glu.h"
+i"tesselator.h"
+i<cstdlib>
+i<cstdio>
+i<cstdarg>
+i<cmath>
+i<ctime>
+i<cstdlib>
+i<string>
+i<iostream>
+i<vector>
+i<cstring>
+i<sstream>
+i<iomanip>
+i<fstream>
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/openFrameworks/utils/ofFileUtils.h
+c000000004E25C4300000000000001D56
+t1311097904
+s7510
+i"ofConstants.h"
+i"Poco/File.h"
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/openFrameworks/utils/ofLog.h
+c000000004E19BFA000000000000014B0
+t1310310304
+s5296
+i"ofConstants.h"
+i"ofFileUtils.h"
+i"ofTypes.h"
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/openFrameworks/utils/ofSystemUtils.h
+c000000004DD7B3E200000000000001AC
+t1305981922
+s428
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/openFrameworks/utils/ofThread.h
+c000000004D325832000000000000050C
+t1295145010
+s1292
+i"ofConstants.h"
+i"ofTypes.h"
+i<process.h>
+i<pthread.h>
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/openFrameworks/utils/ofURLFileLoader.h
+c000000004E283BD600000000000008C4
+t1311259606
+s2244
+i<deque>
+i<queue>
+i"ofThread.h"
+i"ofEvents.h"
+i"ofFileUtils.h"
+i"Poco/Condition.h"
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/openFrameworks/utils/ofUtils.h
+c000000004E283BD60000000000001245
+t1311259606
+s4677
+i"ofConstants.h"
+i<bitset>
+i"ofLog.h"
+i<shellapi.h>
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/openFrameworks/video/ofDirectShowGrabber.h
+c000000004D55801A0000000000000475
+t1297448986
+s1141
+i"ofConstants.h"
+i"ofTexture.h"
+i"ofBaseTypes.h"
+i"ofPixels.h"
+i"videoInput.h"
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/openFrameworks/video/ofGstUtils.h
+c000000004DB06E6E0000000000000FA6
+t1303408238
+s4006
+i"ofConstants.h"
+i<gst/gst.h>
+i<gst/app/gstappsink.h>
+i"ofConstants.h"
+i"ofBaseTypes.h"
+i"ofPixels.h"
+i"ofTypes.h"
+i"ofEvents.h"
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/openFrameworks/video/ofGstVideoGrabber.h
+c000000004D55801A0000000000000542
+t1297448986
+s1346
+i"ofGstUtils.h"
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/openFrameworks/video/ofGstVideoPlayer.h
+c000000004DF297A4000000000000059F
+t1307744164
+s1439
+i"ofGstUtils.h"
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/openFrameworks/video/ofQtUtils.h
+c000000004D55801A00000000000006B5
+t1297448986
+s1717
+i"ofConstants.h"
+i<QuickTime/QuickTime.h>
+i<CoreServices/CoreServices.h>
+i<ApplicationServices/ApplicationServices.h>
+i<QTML.h>
+i<FixMath.h>
+i<QuickTimeComponents.h>
+i<TextUtils.h>
+i<MediaHandlers.h>
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/openFrameworks/video/ofQuickTimeGrabber.h
+c000000004D5829EC0000000000000648
+t1297623532
+s1608
+i"ofConstants.h"
+i"ofQtUtils.h"
+i"ofTexture.h"
+i"ofBaseTypes.h"
+i"ofPixels.h"
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/openFrameworks/video/ofQuickTimePlayer.h
+c000000004D55801A00000000000008B8
+t1297448986
+s2232
+i"ofConstants.h"
+i"ofBaseTypes.h"
+i"ofPixels.h"
+i"ofQtUtils.h"
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/openFrameworks/video/ofVideoGrabber.h
+c000000004E19BF3C00000000000009ED
+t1310310204
+s2541
+i"ofConstants.h"
+i"ofTexture.h"
+i"ofBaseTypes.h"
+i"ofPixels.h"
+i"ofTypes.h"
+i"ofiPhoneVideoGrabber.h"
+i"ofQuickTimeGrabber.h"
+i"ofDirectShowGrabber.h"
+i"ofGstVideoGrabber.h"
+i"ofxAndroidVideoGrabber.h"
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/openFrameworks/video/ofVideoPlayer.h
+c000000004E19BF3C0000000000000ABD
+t1310310204
+s2749
+i"ofConstants.h"
+i"ofTexture.h"
+i"ofBaseTypes.h"
+i"ofTypes.h"
+i"ofGstVideoPlayer.h"
+i"ofQuickTimePlayer.h"
+i"ofiPhoneVideoPlayer.h"
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/openFrameworks/video/ofiPhoneVideoGrabber.h
+c000000004E19BF3C000000000000032C
+t1310310204
+s812
+i"ofVideoGrabber.h"
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/openFrameworks/video/ofiPhoneVideoPlayer.h
+c000000004E19BF3C0000000000000612
+t1310310204
+s1554
+i"ofPixels.h"
+i"ofBaseTypes.h"
+i"ofTexture.h"
+i"ofVideoPlayer.h"
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a
+c000000004F45DAAE00000000016FE1B0
+t1329978030
+s24109488
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/poco/include/Poco/AbstractDelegate.h
+c000000004D2C9F7A0000000000000B59
+t1294770042
+s2905
+i"Poco/Foundation.h"
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/poco/include/Poco/AbstractEvent.h
+c000000004D2C9F7A0000000000002D7C
+t1294770042
+s11644
+i"Poco/Foundation.h"
+i"Poco/SingletonHolder.h"
+i"Poco/SharedPtr.h"
+i"Poco/ActiveResult.h"
+i"Poco/ActiveMethod.h"
+i"Poco/Mutex.h"
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/poco/include/Poco/ActiveMethod.h
+c000000004D2C9F7A0000000000001C64
+t1294770042
+s7268
+i"Poco/Foundation.h"
+i"Poco/ActiveResult.h"
+i"Poco/ActiveRunnable.h"
+i"Poco/ActiveStarter.h"
+i"Poco/AutoPtr.h"
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/poco/include/Poco/ActiveResult.h
+c000000004D2C9F7A0000000000002E66
+t1294770042
+s11878
+i"Poco/Foundation.h"
+i"Poco/Mutex.h"
+i"Poco/Event.h"
+i"Poco/RefCountedObject.h"
+i"Poco/Exception.h"
+i<algorithm>
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/poco/include/Poco/ActiveRunnable.h
+c000000004D2C9F7A0000000000001785
+t1294770042
+s6021
+i"Poco/Foundation.h"
+i"Poco/ActiveResult.h"
+i"Poco/Runnable.h"
+i"Poco/RefCountedObject.h"
+i"Poco/AutoPtr.h"
+i"Poco/Exception.h"
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/poco/include/Poco/ActiveStarter.h
+c000000004D2C9F7A0000000000000927
+t1294770042
+s2343
+i"Poco/Foundation.h"
+i"Poco/ThreadPool.h"
+i"Poco/ActiveRunnable.h"
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/poco/include/Poco/AtomicCounter.h
+c000000004D8461640000000000001D13
+t1300521316
+s7443
+i"Poco/Foundation.h"
+i"Poco/UnWindows.h"
+i<libkern/OSAtomic.h>
+i"Poco/Mutex.h"
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/poco/include/Poco/AutoPtr.h
+c000000004D2C9F7A0000000000001E0C
+t1294770042
+s7692
+i"Poco/Foundation.h"
+i"Poco/Exception.h"
+i<algorithm>
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/poco/include/Poco/Bugcheck.h
+c000000004D2C9F7A00000000000014A9
+t1294770042
+s5289
+i"Poco/Foundation.h"
+i<string>
+i<iostream>
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/poco/include/Poco/CompareFunctions.h
+c000000004D2C9F7A00000000000007EC
+t1294770042
+s2028
+i"Poco/Foundation.h"
+i<functional>
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/poco/include/Poco/Condition.h
+c000000004D2C9F7A0000000000001236
+t1294770042
+s4662
+i"Poco/Foundation.h"
+i"Poco/Mutex.h"
+i"Poco/ScopedUnlock.h"
+i"Poco/Event.h"
+i"Poco/Exception.h"
+i<deque>
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/poco/include/Poco/Config.h
+c000000004D2C9F7A0000000000000E22
+t1294770042
+s3618
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/poco/include/Poco/Delegate.h
+c000000004D2C9F7A0000000000001828
+t1294770042
+s6184
+i"Poco/Foundation.h"
+i"Poco/AbstractDelegate.h"
+i"Poco/FunctionDelegate.h"
+i"Poco/Expire.h"
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/poco/include/Poco/Event.h
+c000000004D2C9F7A0000000000000E21
+t1294770042
+s3617
+i"Poco/Foundation.h"
+i"Poco/Exception.h"
+i"Poco/Event_WIN32.h"
+i"Poco/Event_POSIX.h"
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/poco/include/Poco/Event_POSIX.h
+c000000004D2C9F7A0000000000000A91
+t1294770042
+s2705
+i"Poco/Foundation.h"
+i"Poco/Exception.h"
+i<pthread.h>
+i<errno.h>
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/poco/include/Poco/Event_WIN32.h
+c000000004D5575B8000000000000093F
+t1297446328
+s2367
+i"Poco/Foundation.h"
+i"Poco/Exception.h"
+i"Poco/UnWindows.h"
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/poco/include/Poco/Exception.h
+c000000004D5575B8000000000000283D
+t1297446328
+s10301
+i"Poco/Foundation.h"
+i<stdexcept>
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/poco/include/Poco/Expire.h
+c000000004D2C9F7A0000000000000D0D
+t1294770042
+s3341
+i"Poco/Foundation.h"
+i"Poco/AbstractDelegate.h"
+i"Poco/Timestamp.h"
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/poco/include/Poco/FIFOEvent.h
+c000000004D2C9F7A0000000000000B15
+t1294770042
+s2837
+i"Poco/AbstractEvent.h"
+i"Poco/FIFOStrategy.h"
+i"Poco/AbstractDelegate.h"
+i"Poco/CompareFunctions.h"
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/poco/include/Poco/FIFOStrategy.h
+c000000004D2C9F7A0000000000001116
+t1294770042
+s4374
+i"Poco/NotificationStrategy.h"
+i<map>
+i<list>
+i<memory>
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/poco/include/Poco/File.h
+c000000004D455E0A0000000000001F91
+t1296391690
+s8081
+i"Poco/Foundation.h"
+i"Poco/Timestamp.h"
+i<vector>
+i"File_WINCE.h"
+i"Poco/File_WIN32U.h"
+i"Poco/File_WIN32.h"
+i"Poco/File_UNIX.h"
+i"Poco/File_VMS.h"
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/poco/include/Poco/File_UNIX.h
+c000000004D2C9F7A0000000000000BC1
+t1294770042
+s3009
+i"Poco/Foundation.h"
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/poco/include/Poco/File_VMS.h
+c000000004D2C9F7A0000000000000BBC
+t1294770042
+s3004
+i"Poco/Foundation.h"
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/poco/include/Poco/File_WIN32.h
+c000000004D2C9F7A0000000000000C0C
+t1294770042
+s3084
+i"Poco/Foundation.h"
+i"Poco/Timestamp.h"
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/poco/include/Poco/File_WIN32U.h
+c000000004D2C9F7A0000000000000C2B
+t1294770042
+s3115
+i"Poco/Foundation.h"
+i"Poco/Timestamp.h"
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/poco/include/Poco/File_WINCE.h
+c000000004D2C9F7A0000000000000C2C
+t1294770042
+s3116
+i"Poco/Foundation.h"
+i"Poco/Timestamp.h"
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/poco/include/Poco/Foundation.h
+c000000004D5575B800000000000010BE
+t1297446328
+s4286
+i"Poco/Config.h"
+i"Poco/Platform.h"
+i"Poco/Platform_WIN32.h"
+i"Poco/Platform_VMS.h"
+i"Poco/Platform_POSIX.h"
+i"Poco/Bugcheck.h"
+i"Poco/Types.h"
+i<string>
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/poco/include/Poco/FunctionDelegate.h
+c000000004D2C9F7A00000000000013C8
+t1294770042
+s5064
+i"Poco/Foundation.h"
+i"Poco/AbstractDelegate.h"
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/poco/include/Poco/Mutex.h
+c000000004D2C9F7C0000000000001D9F
+t1294770044
+s7583
+i"Poco/Foundation.h"
+i"Poco/Exception.h"
+i"Poco/ScopedLock.h"
+i"Poco/Mutex_WINCE.h"
+i"Poco/Mutex_WIN32.h"
+i"Poco/Mutex_POSIX.h"
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/poco/include/Poco/Mutex_POSIX.h
+c000000004D5575B80000000000000AC3
+t1297446328
+s2755
+i"Poco/Foundation.h"
+i"Poco/Exception.h"
+i<pthread.h>
+i<errno.h>
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/poco/include/Poco/Mutex_WIN32.h
+c000000004D5575B80000000000000A04
+t1297446328
+s2564
+i"Poco/Foundation.h"
+i"Poco/Exception.h"
+i"Poco/UnWindows.h"
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/poco/include/Poco/Mutex_WINCE.h
+c000000004D2C9F7C0000000000000870
+t1294770044
+s2160
+i"Poco/Foundation.h"
+i"Poco/Exception.h"
+i"Poco/UnWindows.h"
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/poco/include/Poco/NotificationStrategy.h
+c000000004D2C9F7C0000000000000B48
+t1294770044
+s2888
+i"Poco/Foundation.h"
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/poco/include/Poco/Platform.h
+c000000004D5575B80000000000001AF7
+t1297446328
+s6903
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/poco/include/Poco/Platform_POSIX.h
+c000000004D2C9F7C0000000000000843
+t1294770044
+s2115
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/poco/include/Poco/Platform_VMS.h
+c000000004D5575B80000000000000BAA
+t1297446328
+s2986
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/poco/include/Poco/Platform_WIN32.h
+c000000004D5575B80000000000000DCF
+t1297446328
+s3535
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/poco/include/Poco/RefCountedObject.h
+c000000004D2C9F7C0000000000000BB1
+t1294770044
+s2993
+i"Poco/Foundation.h"
+i"Poco/AtomicCounter.h"
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/poco/include/Poco/Runnable.h
+c000000004D2C9F7C0000000000000861
+t1294770044
+s2145
+i"Poco/Foundation.h"
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/poco/include/Poco/ScopedLock.h
+c000000004D455E0A0000000000000B7F
+t1296391690
+s2943
+i"Poco/Foundation.h"
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/poco/include/Poco/ScopedUnlock.h
+c000000004D2C9F7C000000000000092B
+t1294770044
+s2347
+i"Poco/Foundation.h"
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/poco/include/Poco/SharedPtr.h
+c000000004D5575B80000000000002278
+t1297446328
+s8824
+i"Poco/Foundation.h"
+i"Poco/Exception.h"
+i"Poco/AtomicCounter.h"
+i<algorithm>
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/poco/include/Poco/SignalHandler.h
+c000000004D2C9F7C00000000000011EB
+t1294770044
+s4587
+i"Poco/Foundation.h"
+i<vector>
+i<setjmp.h>
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/poco/include/Poco/SingletonHolder.h
+c000000004D2C9F7C0000000000000A67
+t1294770044
+s2663
+i"Poco/Foundation.h"
+i"Poco/Mutex.h"
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/poco/include/Poco/Thread.h
+c000000004D2C9F7C0000000000001E10
+t1294770044
+s7696
+i"Poco/Foundation.h"
+i"Poco/Mutex.h"
+i"Poco/Thread_WINCE.h"
+i"Poco/Thread_WIN32.h"
+i"Poco/Thread_POSIX.h"
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/poco/include/Poco/ThreadPool.h
+c000000004D2C9F7C0000000000001C8A
+t1294770044
+s7306
+i"Poco/Foundation.h"
+i"Poco/Thread.h"
+i"Poco/Mutex.h"
+i<vector>
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/poco/include/Poco/Thread_POSIX.h
+c000000004D2C9F7C00000000000013B7
+t1294770044
+s5047
+i"Poco/Foundation.h"
+i"Poco/Runnable.h"
+i"Poco/SignalHandler.h"
+i"Poco/Event.h"
+i"Poco/RefCountedObject.h"
+i"Poco/AutoPtr.h"
+i<pthread.h>
+i<limits.h>
+i<sys/select.h>
+i<errno.h>
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/poco/include/Poco/Thread_WIN32.h
+c000000004D5575B80000000000001301
+t1297446328
+s4865
+i"Poco/Foundation.h"
+i"Poco/Runnable.h"
+i"Poco/UnWindows.h"
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/poco/include/Poco/Thread_WINCE.h
+c000000004D2C9F7C0000000000001276
+t1294770044
+s4726
+i"Poco/Foundation.h"
+i"Poco/Runnable.h"
+i"Poco/UnWindows.h"
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/poco/include/Poco/Timestamp.h
+c000000004D2C9F7C0000000000001A41
+t1294770044
+s6721
+i"Poco/Foundation.h"
+i<ctime>
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/poco/include/Poco/Types.h
+c000000004D5575B80000000000001926
+t1297446328
+s6438
+i"Poco/Foundation.h"
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/poco/include/Poco/UnWindows.h
+c000000004D2C9F7C0000000000000FC3
+t1294770044
+s4035
+i<windows.h>
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/libs/tess2/include/tesselator.h
+c000000004E0E166A0000000000001C63
+t1309546090
+s7267
+i<TargetConditionals.h>
+
+N/Developer/usr/llvm-gcc-4.2/lib/gcc/i686-apple-darwin11/4.2.1/include/limits.h
+c000000004E2F28B80000000000000D03
+t1311713464
+s3331
+i"syslimits.h"
+
+N/Developer/usr/llvm-gcc-4.2/lib/gcc/i686-apple-darwin11/4.2.1/include/stddef.h
+c000000004E2F28B70000000000003197
+t1311713463
+s12695
+i<machine/ansi.h>
+i<sys/_types.h>
+
+N/Developer/usr/llvm-gcc-4.2/lib/gcc/i686-apple-darwin11/4.2.1/include/syslimits.h
+c000000004E2F28290000000000000155
+t1311713321
+s341
+
+N/System/Library/Frameworks/AGL.framework/AGL
+c000000004E16C158000000000001BA20
+t1310114136
+s113184
+
+N/System/Library/Frameworks/AppKit.framework/AppKit
+c000000004E960535000000000234F4A0
+t1318454581
+s37024928
+
+N/System/Library/Frameworks/ApplicationServices.framework/ApplicationServices
+c000000004E16C113000000000000B750
+t1310114067
+s46928
+
+N/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.h
+c000000004DDD56550000000000000477
+t1306351189
+s1143
+
+N/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004E960531000000000039E5E0
+t1318454577
+s3794400
+
+N/System/Library/Frameworks/Carbon.framework/Carbon
+c000000004E16C1130000000000006530
+t1310114067
+s25904
+
+N/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h
+c000000004E7A9B9600000000000005FE
+t1316658070
+s1534
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004E16C1130000000000006560
+t1310114067
+s25952
+
+N/System/Library/Frameworks/CoreAudio.framework/CoreAudio
+c000000004E96053100000000001195D0
+t1318454577
+s1152464
+
+N/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c000000004E960532000000000060E710
+t1318454578
+s6350608
+
+N/System/Library/Frameworks/CoreServices.framework/CoreServices
+c000000004E960532000000000000B870
+t1318454578
+s47216
+
+N/System/Library/Frameworks/CoreServices.framework/Headers/CoreServices.h
+c000000004DDD49A70000000000000401
+t1306347943
+s1025
+
+N/System/Library/Frameworks/IOKit.framework/IOKit
+c000000004E960533000000000011FDA0
+t1318454579
+s1179040
+
+N/System/Library/Frameworks/OpenAL.framework/Headers/al.h
+c000000004E31BCDC00000000000064F9
+t1311882460
+s25849
+
+N/System/Library/Frameworks/OpenAL.framework/Headers/alc.h
+c000000004E31BCDC0000000000001F41
+t1311882460
+s8001
+
+N/System/Library/Frameworks/OpenGL.framework/Headers/gl.h
+c000000004E5454370000000000025633
+t1314149431
+s153139
+
+N/System/Library/Frameworks/OpenGL.framework/Headers/glu.h
+c000000004E5454370000000000003F84
+t1314149431
+s16260
+
+N/System/Library/Frameworks/OpenGL.framework/OpenGL
+c000000004E960535000000000002D2A0
+t1318454581
+s184992
+
+N/System/Library/Frameworks/QuickTime.framework/Headers/QuickTime.h
+c000000004E72B6870000000000000659
+t1316140679
+s1625
+
+N/System/Library/Frameworks/QuickTime.framework/QuickTime
+c000000004E960537000000000032B6C0
+t1318454583
+s3323584
+
+N/usr/include/TargetConditionals.h
+c000000004DDD44FB00000000000031E9
+t1306346747
+s12777
+
+N/usr/include/errno.h
+c000000004E360D4B00000000000003EB
+t1312165195
+s1003
+
+N/usr/include/inttypes.h
+c000000004E360D4B0000000000002674
+t1312165195
+s9844
+
+N/usr/include/libkern/OSAtomic.h
+c000000004E360D4B00000000000077C3
+t1312165195
+s30659
+
+N/usr/include/math.h
+c000000004DDD287300000000000004F1
+t1306339443
+s1265
+
+N/usr/include/pthread.h
+c000000004E360D4D0000000000003CF0
+t1312165197
+s15600
+
+N/usr/include/setjmp.h
+c000000004E360D4B0000000000000438
+t1312165195
+s1080
+
+N/usr/include/stdint.h
+c000000004E360D4B00000000000018EF
+t1312165195
+s6383
+
+N/usr/include/stdio.h
+c000000004E360D4E0000000000004763
+t1312165198
+s18275
+
+N/usr/include/stdlib.h
+c000000004E360D4E00000000000030A7
+t1312165198
+s12455
+
+N/usr/include/string.h
+c000000004E360D4E0000000000001A3A
+t1312165198
+s6714
+
+N/usr/include/sys/_types.h
+c000000004E41FFF40000000000001845
+t1312948212
+s6213
+
+N/usr/include/sys/select.h
+c000000004E41FFE900000000000016A2
+t1312948201
+s5794
+
+N/usr/include/termios.h
+c000000004E360D4B00000000000004D4
+t1312165195
+s1236
+
+N/usr/include/unistd.h
+c000000004E360D4E0000000000006662
+t1312165198
+s26210
+
+N/var/folders/np/bmm2m30923gfdvhs15zd484r0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-ftvuubpgcfqmybglgnzcrzixogyk/Carbon.h.gch
+t2
+s0
+
+NopenFrameworks-Info.plist
+c000000004E26C9240000000000000277
+t1311164708
+s631
+
+CBuild AST from "/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.cpp"
+r0
+
+CBuild AST from "/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioServer.cpp"
+r0
+
+CBuild AST from "/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/main.cpp"
+r0
+
+CBuild AST from "/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/testApp.cpp"
+r0
+
+CCheck dependencies
+r0
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies6bf18182bdf6b441^6ede9082bdf6b441^---0#1#0#--18"Check dependencies36"4FB1264B-9FD0-4ECE-B713-11186B89660A-
+
+CCompileC build/tuiotest.build/Debug/tuiotest.build/Objects-normal/i386/main.o "/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/main.cpp" normal i386 c++ com.apple.compilers.llvmgcc42
+s351714701.145756
+e351714705.732425
+r0
+xCompileC
+xbuild/tuiotest.build/Debug/tuiotest.build/Objects-normal/i386/main.o
+x/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/main.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvmgcc42
+oIn file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/testApp.h:5,
+o                 from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/main.cpp:2:
+o/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h:27:26: error: TuioListener.h: No such file or directory
+o/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h:28:24: error: TuioClient.h: No such file or directory
+o/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h:29:24: error: TuioObject.h: No such file or directory
+o/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h:30:24: error: TuioCursor.h: No such file or directory
+o/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h:31:23: error: TuioPoint.h: No such file or directory
+oIn file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/testApp.h:5,
+o                 from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/main.cpp:2:
+o/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h:36: error: 'TUIO' is not a namespace-name
+o/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h:36: error: expected namespace-name before ';' token
+o/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h:38: error: expected class-name before '{' token
+o/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h:49: error: 'TuioObject' has not been declared
+o/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h:50: error: 'TuioObject' has not been declared
+o/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h:51: error: 'TuioObject' has not been declared
+o/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h:53: error: 'TuioCursor' has not been declared
+o/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h:54: error: 'TuioCursor' has not been declared
+o/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h:55: error: 'TuioCursor' has not been declared
+o/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h:57: error: 'TuioBlob' has not been declared
+o/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h:58: error: 'TuioBlob' has not been declared
+o/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h:59: error: 'TuioBlob' has not been declared
+o/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h:61: error: 'TuioTime' has not been declared
+o/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h:69: error: 'TuioObject' was not declared in this scope
+o/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h:69: error: template argument 1 is invalid
+o/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h:70: error: 'TuioObject' was not declared in this scope
+o/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h:70: error: template argument 1 is invalid
+o/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h:71: error: 'TuioObject' was not declared in this scope
+o/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h:71: error: template argument 1 is invalid
+o/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h:73: error: ISO C++ forbids declaration of 'TuioClient' with no type
+o/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h:73: error: expected ';' before '*' token
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compile /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/main.cpp6a89258dbdf6b441^6c77bb91bdf6b441^-4369"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/testApp.h:5,                 from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/main.cpp:2:/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h:27:26: error: TuioListener.h: No such file or directory/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h:28:24: error: TuioClient.h: No such file or directory/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h:29:24: error: TuioObject.h: No such file or directory/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h:30:24: error: TuioCursor.h: No such file or directory/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h:31:23: error: TuioPoint.h: No such file or directoryIn file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/testApp.h:5,                 from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/main.cpp:2:/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h:36: error: 'TUIO' is not a namespace-name/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h:36: error: expected namespace-name before ';' token/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h:38: error: expected class-name before '{' token/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h:49: error: 'TuioObject' has not been declared/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h:50: error: 'TuioObject' has not been declared/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h:51: error: 'TuioObject' has not been declared/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h:53: error: 'TuioCursor' has not been declared/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h:54: error: 'TuioCursor' has not been declared/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h:55: error: 'TuioCursor' has not been declared/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h:57: error: 'TuioBlob' has not been declared/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h:58: error: 'TuioBlob' has not been declared/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h:59: error: 'TuioBlob' has not been declared/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h:61: error: 'TuioTime' has not been declared/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h:69: error: 'TuioObject' was not declared in this scope/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h:69: error: template argument 1 is invalid/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h:70: error: 'TuioObject' was not declared in this scope/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h:70: error: template argument 1 is invalid/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h:71: error: 'TuioObject' was not declared in this scope/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h:71: error: template argument 1 is invalid/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h:73: error: ISO C++ forbids declaration of 'TuioClient' with no type/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h:73: error: expected ';' before '*' token26(21%IDEActivityLogMessage2@41"TuioListener.h: No such file or directory-351714701#213#159#3(36%IDEActivityLogHeaderInclusionMessage3@102"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/main.cpp-351714701#18446744073709551615#0#-0#-23%DVTTextDocumentLocation4@98"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/src/main.cpp0000000000000000^1#18446744073709551615#1#18446744073709551615#18446744073709551615#0#---3@103"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/testApp.h-351714701#18446744073709551615#0#-0#-4@99"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/src/testApp.h0000000000000000^4#18446744073709551615#4#18446744073709551615#18446744073709551615#0#---2@147"TuioListener.h: No such file or directory in /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h-351714701#18446744073709551615#0#-0#-4@120"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/ofxTuioWrapper/src/ofxTuioClient.h0000000000000000^26#18446744073709551615#26#18446744073709551615#18446744073709551615#0#---2#-4@120"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/ofxTuioWrapper/src/ofxTuioClient.h0000000000000000^26#18446744073709551615#26#18446744073709551615#18446744073709551615#0#28"*: No such file or directory--2@39"TuioClient.h: No such file or directory-351714701#372#157#3(3@102"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/main.cpp-351714701#18446744073709551615#0#-0#-4@98"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/src/main.cpp0000000000000000^1#18446744073709551615#1#18446744073709551615#18446744073709551615#0#---3@103"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/testApp.h-351714701#18446744073709551615#0#-0#-4@99"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/src/testApp.h0000000000000000^4#18446744073709551615#4#18446744073709551615#18446744073709551615#0#---2@145"TuioClient.h: No such file or directory in /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h-351714701#18446744073709551615#0#-0#-4@120"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/ofxTuioWrapper/src/ofxTuioClient.h0000000000000000^27#18446744073709551615#27#18446744073709551615#18446744073709551615#0#---2#-4@120"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/ofxTuioWrapper/src/ofxTuioClient.h0000000000000000^27#18446744073709551615#27#18446744073709551615#18446744073709551615#0#28"*: No such file or directory--2@39"TuioObject.h: No such file or directory-351714701#529#157#3(3@102"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/main.cpp-351714701#18446744073709551615#0#-0#-4@98"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/src/main.cpp0000000000000000^1#18446744073709551615#1#18446744073709551615#18446744073709551615#0#---3@103"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/testApp.h-351714701#18446744073709551615#0#-0#-4@99"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/src/testApp.h0000000000000000^4#18446744073709551615#4#18446744073709551615#18446744073709551615#0#---2@145"TuioObject.h: No such file or directory in /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h-351714701#18446744073709551615#0#-0#-4@120"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/ofxTuioWrapper/src/ofxTuioClient.h0000000000000000^28#18446744073709551615#28#18446744073709551615#18446744073709551615#0#---2#-4@120"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/ofxTuioWrapper/src/ofxTuioClient.h0000000000000000^28#18446744073709551615#28#18446744073709551615#18446744073709551615#0#28"*: No such file or directory--2@39"TuioCursor.h: No such file or directory-351714701#686#157#3(3@102"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/main.cpp-351714701#18446744073709551615#0#-0#-4@98"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/src/main.cpp0000000000000000^1#18446744073709551615#1#18446744073709551615#18446744073709551615#0#---3@103"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/testApp.h-351714701#18446744073709551615#0#-0#-4@99"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/src/testApp.h0000000000000000^4#18446744073709551615#4#18446744073709551615#18446744073709551615#0#---2@145"TuioCursor.h: No such file or directory in /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h-351714701#18446744073709551615#0#-0#-4@120"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/ofxTuioWrapper/src/ofxTuioClient.h0000000000000000^29#18446744073709551615#29#18446744073709551615#18446744073709551615#0#---2#-4@120"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/ofxTuioWrapper/src/ofxTuioClient.h0000000000000000^29#18446744073709551615#29#18446744073709551615#18446744073709551615#0#28"*: No such file or directory--2@38"TuioPoint.h: No such file or directory-351714701#843#156#3(3@102"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/main.cpp-351714701#18446744073709551615#0#-0#-4@98"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/src/main.cpp0000000000000000^1#18446744073709551615#1#18446744073709551615#18446744073709551615#0#---3@103"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/testApp.h-351714701#18446744073709551615#0#-0#-4@99"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/src/testApp.h0000000000000000^4#18446744073709551615#4#18446744073709551615#18446744073709551615#0#---2@144"TuioPoint.h: No such file or directory in /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h-351714701#18446744073709551615#0#-0#-4@120"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/ofxTuioWrapper/src/ofxTuioClient.h0000000000000000^30#18446744073709551615#30#18446744073709551615#18446744073709551615#0#---2#-4@120"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/ofxTuioWrapper/src/ofxTuioClient.h0000000000000000^30#18446744073709551615#30#18446744073709551615#18446744073709551615#0#28"*: No such file or directory--2@30"'TUIO' is not a namespace-name-351714704#1212#145#3(3@102"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/main.cpp-351714704#18446744073709551615#0#-0#-4@98"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/src/main.cpp0000000000000000^1#18446744073709551615#1#18446744073709551615#18446744073709551615#0#---3@103"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/testApp.h-351714704#18446744073709551615#0#-0#-4@99"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/src/testApp.h0000000000000000^4#18446744073709551615#4#18446744073709551615#18446744073709551615#0#---2@136"'TUIO' is not a namespace-name in /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h-351714704#18446744073709551615#0#-0#-4@120"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/ofxTuioWrapper/src/ofxTuioClient.h0000000000000000^35#18446744073709551615#35#18446744073709551615#18446744073709551615#0#---2#-4@120"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/ofxTuioWrapper/src/ofxTuioClient.h0000000000000000^35#18446744073709551615#35#18446744073709551615#18446744073709551615#0#18"LLVM GCC 4.2 Error--2@40"Expected namespace-name before ';' token-351714704#1357#155#3(3@102"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/main.cpp-351714704#18446744073709551615#0#-0#-4@98"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/src/main.cpp0000000000000000^1#18446744073709551615#1#18446744073709551615#18446744073709551615#0#---3@103"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/testApp.h-351714704#18446744073709551615#0#-0#-4@99"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/src/testApp.h0000000000000000^4#18446744073709551615#4#18446744073709551615#18446744073709551615#0#---2@146"Expected namespace-name before ';' token in /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h-351714704#18446744073709551615#0#-0#-4@120"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/ofxTuioWrapper/src/ofxTuioClient.h0000000000000000^35#18446744073709551615#35#18446744073709551615#18446744073709551615#0#---2#-4@120"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/ofxTuioWrapper/src/ofxTuioClient.h0000000000000000^35#18446744073709551615#35#18446744073709551615#18446744073709551615#0#19"Expected * before *--2@36"Expected class-name before '{' token-351714704#1512#151#3(3@102"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/main.cpp-351714704#18446744073709551615#0#-0#-4@98"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/src/main.cpp0000000000000000^1#18446744073709551615#1#18446744073709551615#18446744073709551615#0#---3@103"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/testApp.h-351714704#18446744073709551615#0#-0#-4@99"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/src/testApp.h0000000000000000^4#18446744073709551615#4#18446744073709551615#18446744073709551615#0#---2@142"Expected class-name before '{' token in /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h-351714704#18446744073709551615#0#-0#-4@120"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/ofxTuioWrapper/src/ofxTuioClient.h0000000000000000^37#18446744073709551615#37#18446744073709551615#18446744073709551615#0#---2#-4@120"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/ofxTuioWrapper/src/ofxTuioClient.h0000000000000000^37#18446744073709551615#37#18446744073709551615#18446744073709551615#0#19"Expected * before *--2@34"'TuioObject' has not been declared-351714704#1663#149#3(3@102"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/main.cpp-351714704#18446744073709551615#0#-0#-4@98"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/src/main.cpp0000000000000000^1#18446744073709551615#1#18446744073709551615#18446744073709551615#0#---3@103"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/testApp.h-351714704#18446744073709551615#0#-0#-4@99"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/src/testApp.h0000000000000000^4#18446744073709551615#4#18446744073709551615#18446744073709551615#0#---2@140"'TuioObject' has not been declared in /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h-351714704#18446744073709551615#0#-0#-4@120"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/ofxTuioWrapper/src/ofxTuioClient.h0000000000000000^48#18446744073709551615#48#18446744073709551615#18446744073709551615#0#---2#-4@120"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/ofxTuioWrapper/src/ofxTuioClient.h0000000000000000^48#18446744073709551615#48#18446744073709551615#18446744073709551615#0#25"'*' has not been declared--2@34"'TuioObject' has not been declared-351714704#1812#149#3(3@102"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/main.cpp-351714704#18446744073709551615#0#-0#-4@98"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/src/main.cpp0000000000000000^1#18446744073709551615#1#18446744073709551615#18446744073709551615#0#---3@103"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/testApp.h-351714704#18446744073709551615#0#-0#-4@99"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/src/testApp.h0000000000000000^4#18446744073709551615#4#18446744073709551615#18446744073709551615#0#---2@140"'TuioObject' has not been declared in /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h-351714704#18446744073709551615#0#-0#-4@120"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/ofxTuioWrapper/src/ofxTuioClient.h0000000000000000^49#18446744073709551615#49#18446744073709551615#18446744073709551615#0#---2#-4@120"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/ofxTuioWrapper/src/ofxTuioClient.h0000000000000000^49#18446744073709551615#49#18446744073709551615#18446744073709551615#0#25"'*' has not been declared--2@34"'TuioObject' has not been declared-351714704#1961#149#3(3@102"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/main.cpp-351714704#18446744073709551615#0#-0#-4@98"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/src/main.cpp0000000000000000^1#18446744073709551615#1#18446744073709551615#18446744073709551615#0#---3@103"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/testApp.h-351714704#18446744073709551615#0#-0#-4@99"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/src/testApp.h0000000000000000^4#18446744073709551615#4#18446744073709551615#18446744073709551615#0#---2@140"'TuioObject' has not been declared in /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h-351714704#18446744073709551615#0#-0#-4@120"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/ofxTuioWrapper/src/ofxTuioClient.h0000000000000000^50#18446744073709551615#50#18446744073709551615#18446744073709551615#0#---2#-4@120"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/ofxTuioWrapper/src/ofxTuioClient.h0000000000000000^50#18446744073709551615#50#18446744073709551615#18446744073709551615#0#25"'*' has not been declared--2@34"'TuioCursor' has not been declared-351714704#2110#149#3(3@102"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/main.cpp-351714704#18446744073709551615#0#-0#-4@98"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/src/main.cpp0000000000000000^1#18446744073709551615#1#18446744073709551615#18446744073709551615#0#---3@103"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/testApp.h-351714704#18446744073709551615#0#-0#-4@99"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/src/testApp.h0000000000000000^4#18446744073709551615#4#18446744073709551615#18446744073709551615#0#---2@140"'TuioCursor' has not been declared in /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h-351714704#18446744073709551615#0#-0#-4@120"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/ofxTuioWrapper/src/ofxTuioClient.h0000000000000000^52#18446744073709551615#52#18446744073709551615#18446744073709551615#0#---2#-4@120"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/ofxTuioWrapper/src/ofxTuioClient.h0000000000000000^52#18446744073709551615#52#18446744073709551615#18446744073709551615#0#25"'*' has not been declared--2@34"'TuioCursor' has not been declared-351714704#2259#149#3(3@102"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/main.cpp-351714704#18446744073709551615#0#-0#-4@98"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/src/main.cpp0000000000000000^1#18446744073709551615#1#18446744073709551615#18446744073709551615#0#---3@103"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/testApp.h-351714704#18446744073709551615#0#-0#-4@99"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/src/testApp.h0000000000000000^4#18446744073709551615#4#18446744073709551615#18446744073709551615#0#---2@140"'TuioCursor' has not been declared in /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h-351714704#18446744073709551615#0#-0#-4@120"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/ofxTuioWrapper/src/ofxTuioClient.h0000000000000000^53#18446744073709551615#53#18446744073709551615#18446744073709551615#0#---2#-4@120"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/ofxTuioWrapper/src/ofxTuioClient.h0000000000000000^53#18446744073709551615#53#18446744073709551615#18446744073709551615#0#25"'*' has not been declared--2@34"'TuioCursor' has not been declared-351714704#2408#149#3(3@102"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/main.cpp-351714704#18446744073709551615#0#-0#-4@98"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/src/main.cpp0000000000000000^1#18446744073709551615#1#18446744073709551615#18446744073709551615#0#---3@103"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/testApp.h-351714704#18446744073709551615#0#-0#-4@99"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/src/testApp.h0000000000000000^4#18446744073709551615#4#18446744073709551615#18446744073709551615#0#---2@140"'TuioCursor' has not been declared in /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h-351714704#18446744073709551615#0#-0#-4@120"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/ofxTuioWrapper/src/ofxTuioClient.h0000000000000000^54#18446744073709551615#54#18446744073709551615#18446744073709551615#0#---2#-4@120"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/ofxTuioWrapper/src/ofxTuioClient.h0000000000000000^54#18446744073709551615#54#18446744073709551615#18446744073709551615#0#25"'*' has not been declared--2@32"'TuioBlob' has not been declared-351714704#2557#147#3(3@102"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/main.cpp-351714704#18446744073709551615#0#-0#-4@98"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/src/main.cpp0000000000000000^1#18446744073709551615#1#18446744073709551615#18446744073709551615#0#---3@103"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/testApp.h-351714704#18446744073709551615#0#-0#-4@99"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/src/testApp.h0000000000000000^4#18446744073709551615#4#18446744073709551615#18446744073709551615#0#---2@138"'TuioBlob' has not been declared in /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h-351714704#18446744073709551615#0#-0#-4@120"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/ofxTuioWrapper/src/ofxTuioClient.h0000000000000000^56#18446744073709551615#56#18446744073709551615#18446744073709551615#0#---2#-4@120"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/ofxTuioWrapper/src/ofxTuioClient.h0000000000000000^56#18446744073709551615#56#18446744073709551615#18446744073709551615#0#25"'*' has not been declared--2@32"'TuioBlob' has not been declared-351714704#2704#147#3(3@102"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/main.cpp-351714704#18446744073709551615#0#-0#-4@98"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/src/main.cpp0000000000000000^1#18446744073709551615#1#18446744073709551615#18446744073709551615#0#---3@103"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/testApp.h-351714704#18446744073709551615#0#-0#-4@99"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/src/testApp.h0000000000000000^4#18446744073709551615#4#18446744073709551615#18446744073709551615#0#---2@138"'TuioBlob' has not been declared in /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h-351714704#18446744073709551615#0#-0#-4@120"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/ofxTuioWrapper/src/ofxTuioClient.h0000000000000000^57#18446744073709551615#57#18446744073709551615#18446744073709551615#0#---2#-4@120"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/ofxTuioWrapper/src/ofxTuioClient.h0000000000000000^57#18446744073709551615#57#18446744073709551615#18446744073709551615#0#25"'*' has not been declared--2@32"'TuioBlob' has not been declared-351714704#2851#147#3(3@102"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/main.cpp-351714704#18446744073709551615#0#-0#-4@98"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/src/main.cpp0000000000000000^1#18446744073709551615#1#18446744073709551615#18446744073709551615#0#---3@103"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/testApp.h-351714704#18446744073709551615#0#-0#-4@99"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/src/testApp.h0000000000000000^4#18446744073709551615#4#18446744073709551615#18446744073709551615#0#---2@138"'TuioBlob' has not been declared in /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h-351714704#18446744073709551615#0#-0#-4@120"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/ofxTuioWrapper/src/ofxTuioClient.h0000000000000000^58#18446744073709551615#58#18446744073709551615#18446744073709551615#0#---2#-4@120"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/ofxTuioWrapper/src/ofxTuioClient.h0000000000000000^58#18446744073709551615#58#18446744073709551615#18446744073709551615#0#25"'*' has not been declared--2@32"'TuioTime' has not been declared-351714704#2998#147#3(3@102"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/main.cpp-351714704#18446744073709551615#0#-0#-4@98"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/src/main.cpp0000000000000000^1#18446744073709551615#1#18446744073709551615#18446744073709551615#0#---3@103"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/testApp.h-351714704#18446744073709551615#0#-0#-4@99"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/src/testApp.h0000000000000000^4#18446744073709551615#4#18446744073709551615#18446744073709551615#0#---2@138"'TuioTime' has not been declared in /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h-351714704#18446744073709551615#0#-0#-4@120"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/ofxTuioWrapper/src/ofxTuioClient.h0000000000000000^60#18446744073709551615#60#18446744073709551615#18446744073709551615#0#---2#-4@120"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/ofxTuioWrapper/src/ofxTuioClient.h0000000000000000^60#18446744073709551615#60#18446744073709551615#18446744073709551615#0#25"'*' has not been declared--2@43"'TuioObject' was not declared in this scope-351714704#3145#158#3(3@102"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/main.cpp-351714704#18446744073709551615#0#-0#-4@98"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/src/main.cpp0000000000000000^1#18446744073709551615#1#18446744073709551615#18446744073709551615#0#---3@103"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/testApp.h-351714704#18446744073709551615#0#-0#-4@99"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/src/testApp.h0000000000000000^4#18446744073709551615#4#18446744073709551615#18446744073709551615#0#---2@149"'TuioObject' was not declared in this scope in /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h-351714704#18446744073709551615#0#-0#-4@120"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/ofxTuioWrapper/src/ofxTuioClient.h0000000000000000^68#18446744073709551615#68#18446744073709551615#18446744073709551615#0#---2#-4@120"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/ofxTuioWrapper/src/ofxTuioClient.h0000000000000000^68#18446744073709551615#68#18446744073709551615#18446744073709551615#0#34"'*' was not declared in this scope--2@30"Template argument 1 is invalid-351714704#3303#145#3(3@102"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/main.cpp-351714704#18446744073709551615#0#-0#-4@98"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/src/main.cpp0000000000000000^1#18446744073709551615#1#18446744073709551615#18446744073709551615#0#---3@103"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/testApp.h-351714704#18446744073709551615#0#-0#-4@99"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/src/testApp.h0000000000000000^4#18446744073709551615#4#18446744073709551615#18446744073709551615#0#---2@136"Template argument 1 is invalid in /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h-351714704#18446744073709551615#0#-0#-4@120"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/ofxTuioWrapper/src/ofxTuioClient.h0000000000000000^68#18446744073709551615#68#18446744073709551615#18446744073709551615#0#---2#-4@120"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/ofxTuioWrapper/src/ofxTuioClient.h0000000000000000^68#18446744073709551615#68#18446744073709551615#18446744073709551615#0#18"LLVM GCC 4.2 Error--2@43"'TuioObject' was not declared in this scope-351714704#3448#158#3(3@102"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/main.cpp-351714704#18446744073709551615#0#-0#-4@98"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/src/main.cpp0000000000000000^1#18446744073709551615#1#18446744073709551615#18446744073709551615#0#---3@103"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/testApp.h-351714704#18446744073709551615#0#-0#-4@99"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/src/testApp.h0000000000000000^4#18446744073709551615#4#18446744073709551615#18446744073709551615#0#---2@149"'TuioObject' was not declared in this scope in /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h-351714704#18446744073709551615#0#-0#-4@120"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/ofxTuioWrapper/src/ofxTuioClient.h0000000000000000^69#18446744073709551615#69#18446744073709551615#18446744073709551615#0#---2#-4@120"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/ofxTuioWrapper/src/ofxTuioClient.h0000000000000000^69#18446744073709551615#69#18446744073709551615#18446744073709551615#0#34"'*' was not declared in this scope--2@30"Template argument 1 is invalid-351714704#3606#145#3(3@102"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/main.cpp-351714704#18446744073709551615#0#-0#-4@98"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/src/main.cpp0000000000000000^1#18446744073709551615#1#18446744073709551615#18446744073709551615#0#---3@103"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/testApp.h-351714704#18446744073709551615#0#-0#-4@99"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/src/testApp.h0000000000000000^4#18446744073709551615#4#18446744073709551615#18446744073709551615#0#---2@136"Template argument 1 is invalid in /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h-351714704#18446744073709551615#0#-0#-4@120"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/ofxTuioWrapper/src/ofxTuioClient.h0000000000000000^69#18446744073709551615#69#18446744073709551615#18446744073709551615#0#---2#-4@120"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/ofxTuioWrapper/src/ofxTuioClient.h0000000000000000^69#18446744073709551615#69#18446744073709551615#18446744073709551615#0#18"LLVM GCC 4.2 Error--2@43"'TuioObject' was not declared in this scope-351714704#3751#158#3(3@102"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/main.cpp-351714704#18446744073709551615#0#-0#-4@98"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/src/main.cpp0000000000000000^1#18446744073709551615#1#18446744073709551615#18446744073709551615#0#---3@103"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/testApp.h-351714704#18446744073709551615#0#-0#-4@99"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/src/testApp.h0000000000000000^4#18446744073709551615#4#18446744073709551615#18446744073709551615#0#---2@149"'TuioObject' was not declared in this scope in /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h-351714704#18446744073709551615#0#-0#-4@120"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/ofxTuioWrapper/src/ofxTuioClient.h0000000000000000^70#18446744073709551615#70#18446744073709551615#18446744073709551615#0#---2#-4@120"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/ofxTuioWrapper/src/ofxTuioClient.h0000000000000000^70#18446744073709551615#70#18446744073709551615#18446744073709551615#0#34"'*' was not declared in this scope--2@30"Template argument 1 is invalid-351714704#3909#145#3(3@102"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/main.cpp-351714704#18446744073709551615#0#-0#-4@98"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/src/main.cpp0000000000000000^1#18446744073709551615#1#18446744073709551615#18446744073709551615#0#---3@103"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/testApp.h-351714704#18446744073709551615#0#-0#-4@99"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/src/testApp.h0000000000000000^4#18446744073709551615#4#18446744073709551615#18446744073709551615#0#---2@136"Template argument 1 is invalid in /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h-351714704#18446744073709551615#0#-0#-4@120"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/ofxTuioWrapper/src/ofxTuioClient.h0000000000000000^70#18446744073709551615#70#18446744073709551615#18446744073709551615#0#---2#-4@120"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/ofxTuioWrapper/src/ofxTuioClient.h0000000000000000^70#18446744073709551615#70#18446744073709551615#18446744073709551615#0#18"LLVM GCC 4.2 Error--2@56"ISO C++ forbids declaration of 'TuioClient' with no type-351714704#4054#171#3(3@102"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/main.cpp-351714704#18446744073709551615#0#-0#-4@98"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/src/main.cpp0000000000000000^1#18446744073709551615#1#18446744073709551615#18446744073709551615#0#---3@103"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/testApp.h-351714704#18446744073709551615#0#-0#-4@99"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/src/testApp.h0000000000000000^4#18446744073709551615#4#18446744073709551615#18446744073709551615#0#---2@162"ISO C++ forbids declaration of 'TuioClient' with no type in /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h-351714704#18446744073709551615#0#-0#-4@120"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/ofxTuioWrapper/src/ofxTuioClient.h0000000000000000^72#18446744073709551615#72#18446744073709551615#18446744073709551615#0#---2#-4@120"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/ofxTuioWrapper/src/ofxTuioClient.h0000000000000000^72#18446744073709551615#72#18446744073709551615#18446744073709551615#0#47"ISO C++ forbids declaration of '*' with no type--2@29"Expected ';' before '*' token-351714704#4225#144#3(3@102"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/main.cpp-351714704#18446744073709551615#0#-0#-4@98"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/src/main.cpp0000000000000000^1#18446744073709551615#1#18446744073709551615#18446744073709551615#0#---3@103"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/testApp.h-351714704#18446744073709551615#0#-0#-4@99"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/src/testApp.h0000000000000000^4#18446744073709551615#4#18446744073709551615#18446744073709551615#0#---2@135"Expected ';' before '*' token in /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h-351714704#18446744073709551615#0#-0#-4@120"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/ofxTuioWrapper/src/ofxTuioClient.h0000000000000000^72#18446744073709551615#72#18446744073709551615#18446744073709551615#0#---2#-4@120"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/ofxTuioWrapper/src/ofxTuioClient.h0000000000000000^72#18446744073709551615#72#18446744073709551615#18446744073709551615#0#19"Expected * before *--0#0#0#-19%DVTDocumentLocation5@98"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/src/main.cpp0000000000000000^2246"CompileC build/tuiotest.build/Debug/tuiotest.build/Objects-normal/i386/main.o src/main.cpp normal i386 c++ com.apple.compilers.llvmgcc42    cd "/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -fasm-blocks -Wno-deprecated-declarations -Wno-invalid-offsetof -gdwarf-2 -msse3 -mssse3 "-I/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/build/tuiotest.build/Debug/tuiotest.build/tuiotestDebug.hmap" "-I/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/bin/include" -I../../../libs/openFrameworks -I../../../libs/openFrameworks/3d -I../../../libs/openFrameworks/app -I../../../libs/openFrameworks/communication -I../../../libs/openFrameworks/events -I../../../libs/openFrameworks/gl -I../../../libs/openFrameworks/graphics -I../../../libs/openFrameworks/math -I../../../libs/openFrameworks/sound -I../../../libs/openFrameworks/types -I../../../libs/openFrameworks/utils -I../../../libs/openFrameworks/video -I../../../libs/poco/include -I../../../libs/freetype/include -I../../../libs/freetype/include/freetype2 -I../../../libs/fmodex/include -I../../../libs/glew/include -I../../../libs/FreeImage/include -I../../../libs/tess2/include -I../../../libs/cairo/include/cairo -I../../../libs/rtaudio/include "-I/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/build/tuiotest.build/Debug/tuiotest.build/DerivedSources/i386" "-I/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/build/tuiotest.build/Debug/tuiotest.build/DerivedSources" "-F/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/bin" "-F/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/../../../libs/glut/lib/osx" -D__MACOSX_CORE__ -lpthread -include /var/folders/np/bmm2m30923gfdvhs15zd484r0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-ftvuubpgcfqmybglgnzcrzixogyk/Carbon.h -c "/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/main.cpp" -o "/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/build/tuiotest.build/Debug/tuiotest.build/Objects-normal/i386/main.o"36"2F09AA59-6302-49FA-9CAA-4590CE62EAC7-
+
+CCompileC build/tuiotest.build/Debug/tuiotest.build/Objects-normal/i386/ofxTuioClient.o "/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.cpp" normal i386 c++ com.apple.compilers.llvmgcc42
+r0
+
+CCompileC build/tuiotest.build/Debug/tuiotest.build/Objects-normal/i386/ofxTuioServer.o "/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioServer.cpp" normal i386 c++ com.apple.compilers.llvmgcc42
+r0
+
+CCompileC build/tuiotest.build/Debug/tuiotest.build/Objects-normal/i386/testApp.o "/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/testApp.cpp" normal i386 c++ com.apple.compilers.llvmgcc42
+s351714701.145828
+e351714705.934687
+r0
+xCompileC
+xbuild/tuiotest.build/Debug/tuiotest.build/Objects-normal/i386/testApp.o
+x/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/testApp.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvmgcc42
+oIn file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/testApp.h:5,
+o                 from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/testApp.cpp:1:
+o/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h:27:26: error: TuioListener.h: No such file or directory
+o/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h:28:24: error: TuioClient.h: No such file or directory
+o/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h:29:24: error: TuioObject.h: No such file or directory
+o/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h:30:24: error: TuioCursor.h: No such file or directory
+o/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h:31:23: error: TuioPoint.h: No such file or directory
+oIn file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/testApp.h:5,
+o                 from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/testApp.cpp:1:
+o/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h:36: error: 'TUIO' is not a namespace-name
+o/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h:36: error: expected namespace-name before ';' token
+o/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h:38: error: expected class-name before '{' token
+o/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h:49: error: 'TuioObject' has not been declared
+o/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h:50: error: 'TuioObject' has not been declared
+o/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h:51: error: 'TuioObject' has not been declared
+o/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h:53: error: 'TuioCursor' has not been declared
+o/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h:54: error: 'TuioCursor' has not been declared
+o/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h:55: error: 'TuioCursor' has not been declared
+o/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h:57: error: 'TuioBlob' has not been declared
+o/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h:58: error: 'TuioBlob' has not been declared
+o/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h:59: error: 'TuioBlob' has not been declared
+o/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h:61: error: 'TuioTime' has not been declared
+o/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h:69: error: 'TuioObject' was not declared in this scope
+o/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h:69: error: template argument 1 is invalid
+o/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h:70: error: 'TuioObject' was not declared in this scope
+o/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h:70: error: template argument 1 is invalid
+o/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h:71: error: 'TuioObject' was not declared in this scope
+o/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h:71: error: template argument 1 is invalid
+o/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h:73: error: ISO C++ forbids declaration of 'TuioClient' with no type
+o/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h:73: error: expected ';' before '*' token
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Compile /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/testApp.cppc380258dbdf6b441^d141ef91bdf6b441^-4375"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/testApp.h:5,                 from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/testApp.cpp:1:/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h:27:26: error: TuioListener.h: No such file or directory/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h:28:24: error: TuioClient.h: No such file or directory/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h:29:24: error: TuioObject.h: No such file or directory/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h:30:24: error: TuioCursor.h: No such file or directory/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h:31:23: error: TuioPoint.h: No such file or directoryIn file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/testApp.h:5,                 from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/testApp.cpp:1:/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h:36: error: 'TUIO' is not a namespace-name/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h:36: error: expected namespace-name before ';' token/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h:38: error: expected class-name before '{' token/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h:49: error: 'TuioObject' has not been declared/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h:50: error: 'TuioObject' has not been declared/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h:51: error: 'TuioObject' has not been declared/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h:53: error: 'TuioCursor' has not been declared/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h:54: error: 'TuioCursor' has not been declared/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h:55: error: 'TuioCursor' has not been declared/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h:57: error: 'TuioBlob' has not been declared/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h:58: error: 'TuioBlob' has not been declared/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h:59: error: 'TuioBlob' has not been declared/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h:61: error: 'TuioTime' has not been declared/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h:69: error: 'TuioObject' was not declared in this scope/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h:69: error: template argument 1 is invalid/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h:70: error: 'TuioObject' was not declared in this scope/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h:70: error: template argument 1 is invalid/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h:71: error: 'TuioObject' was not declared in this scope/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h:71: error: template argument 1 is invalid/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h:73: error: ISO C++ forbids declaration of 'TuioClient' with no type/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h:73: error: expected ';' before '*' token26(21%IDEActivityLogMessage2@41"TuioListener.h: No such file or directory-351714701#216#159#3(36%IDEActivityLogHeaderInclusionMessage3@105"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/testApp.cpp-351714701#18446744073709551615#0#-0#-23%DVTTextDocumentLocation4@101"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/src/testApp.cpp0000000000000000^0#18446744073709551615#0#18446744073709551615#18446744073709551615#0#---3@103"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/testApp.h-351714701#18446744073709551615#0#-0#-4@99"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/src/testApp.h0000000000000000^4#18446744073709551615#4#18446744073709551615#18446744073709551615#0#---2@147"TuioListener.h: No such file or directory in /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h-351714701#18446744073709551615#0#-0#-4@120"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/ofxTuioWrapper/src/ofxTuioClient.h0000000000000000^26#18446744073709551615#26#18446744073709551615#18446744073709551615#0#---2#-4@120"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/ofxTuioWrapper/src/ofxTuioClient.h0000000000000000^26#18446744073709551615#26#18446744073709551615#18446744073709551615#0#28"*: No such file or directory--2@39"TuioClient.h: No such file or directory-351714701#375#157#3(3@105"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/testApp.cpp-351714701#18446744073709551615#0#-0#-4@101"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/src/testApp.cpp0000000000000000^0#18446744073709551615#0#18446744073709551615#18446744073709551615#0#---3@103"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/testApp.h-351714701#18446744073709551615#0#-0#-4@99"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/src/testApp.h0000000000000000^4#18446744073709551615#4#18446744073709551615#18446744073709551615#0#---2@145"TuioClient.h: No such file or directory in /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h-351714701#18446744073709551615#0#-0#-4@120"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/ofxTuioWrapper/src/ofxTuioClient.h0000000000000000^27#18446744073709551615#27#18446744073709551615#18446744073709551615#0#---2#-4@120"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/ofxTuioWrapper/src/ofxTuioClient.h0000000000000000^27#18446744073709551615#27#18446744073709551615#18446744073709551615#0#28"*: No such file or directory--2@39"TuioObject.h: No such file or directory-351714701#532#157#3(3@105"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/testApp.cpp-351714701#18446744073709551615#0#-0#-4@101"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/src/testApp.cpp0000000000000000^0#18446744073709551615#0#18446744073709551615#18446744073709551615#0#---3@103"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/testApp.h-351714701#18446744073709551615#0#-0#-4@99"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/src/testApp.h0000000000000000^4#18446744073709551615#4#18446744073709551615#18446744073709551615#0#---2@145"TuioObject.h: No such file or directory in /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h-351714701#18446744073709551615#0#-0#-4@120"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/ofxTuioWrapper/src/ofxTuioClient.h0000000000000000^28#18446744073709551615#28#18446744073709551615#18446744073709551615#0#---2#-4@120"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/ofxTuioWrapper/src/ofxTuioClient.h0000000000000000^28#18446744073709551615#28#18446744073709551615#18446744073709551615#0#28"*: No such file or directory--2@39"TuioCursor.h: No such file or directory-351714701#689#157#3(3@105"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/testApp.cpp-351714701#18446744073709551615#0#-0#-4@101"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/src/testApp.cpp0000000000000000^0#18446744073709551615#0#18446744073709551615#18446744073709551615#0#---3@103"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/testApp.h-351714701#18446744073709551615#0#-0#-4@99"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/src/testApp.h0000000000000000^4#18446744073709551615#4#18446744073709551615#18446744073709551615#0#---2@145"TuioCursor.h: No such file or directory in /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h-351714701#18446744073709551615#0#-0#-4@120"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/ofxTuioWrapper/src/ofxTuioClient.h0000000000000000^29#18446744073709551615#29#18446744073709551615#18446744073709551615#0#---2#-4@120"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/ofxTuioWrapper/src/ofxTuioClient.h0000000000000000^29#18446744073709551615#29#18446744073709551615#18446744073709551615#0#28"*: No such file or directory--2@38"TuioPoint.h: No such file or directory-351714701#846#156#3(3@105"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/testApp.cpp-351714701#18446744073709551615#0#-0#-4@101"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/src/testApp.cpp0000000000000000^0#18446744073709551615#0#18446744073709551615#18446744073709551615#0#---3@103"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/testApp.h-351714701#18446744073709551615#0#-0#-4@99"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/src/testApp.h0000000000000000^4#18446744073709551615#4#18446744073709551615#18446744073709551615#0#---2@144"TuioPoint.h: No such file or directory in /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h-351714701#18446744073709551615#0#-0#-4@120"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/ofxTuioWrapper/src/ofxTuioClient.h0000000000000000^30#18446744073709551615#30#18446744073709551615#18446744073709551615#0#---2#-4@120"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/ofxTuioWrapper/src/ofxTuioClient.h0000000000000000^30#18446744073709551615#30#18446744073709551615#18446744073709551615#0#28"*: No such file or directory--2@30"'TUIO' is not a namespace-name-351714705#1218#145#3(3@105"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/testApp.cpp-351714705#18446744073709551615#0#-0#-4@101"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/src/testApp.cpp0000000000000000^0#18446744073709551615#0#18446744073709551615#18446744073709551615#0#---3@103"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/testApp.h-351714705#18446744073709551615#0#-0#-4@99"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/src/testApp.h0000000000000000^4#18446744073709551615#4#18446744073709551615#18446744073709551615#0#---2@136"'TUIO' is not a namespace-name in /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h-351714705#18446744073709551615#0#-0#-4@120"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/ofxTuioWrapper/src/ofxTuioClient.h0000000000000000^35#18446744073709551615#35#18446744073709551615#18446744073709551615#0#---2#-4@120"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/ofxTuioWrapper/src/ofxTuioClient.h0000000000000000^35#18446744073709551615#35#18446744073709551615#18446744073709551615#0#18"LLVM GCC 4.2 Error--2@40"Expected namespace-name before ';' token-351714705#1363#155#3(3@105"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/testApp.cpp-351714705#18446744073709551615#0#-0#-4@101"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/src/testApp.cpp0000000000000000^0#18446744073709551615#0#18446744073709551615#18446744073709551615#0#---3@103"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/testApp.h-351714705#18446744073709551615#0#-0#-4@99"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/src/testApp.h0000000000000000^4#18446744073709551615#4#18446744073709551615#18446744073709551615#0#---2@146"Expected namespace-name before ';' token in /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h-351714705#18446744073709551615#0#-0#-4@120"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/ofxTuioWrapper/src/ofxTuioClient.h0000000000000000^35#18446744073709551615#35#18446744073709551615#18446744073709551615#0#---2#-4@120"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/ofxTuioWrapper/src/ofxTuioClient.h0000000000000000^35#18446744073709551615#35#18446744073709551615#18446744073709551615#0#19"Expected * before *--2@36"Expected class-name before '{' token-351714705#1518#151#3(3@105"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/testApp.cpp-351714705#18446744073709551615#0#-0#-4@101"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/src/testApp.cpp0000000000000000^0#18446744073709551615#0#18446744073709551615#18446744073709551615#0#---3@103"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/testApp.h-351714705#18446744073709551615#0#-0#-4@99"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/src/testApp.h0000000000000000^4#18446744073709551615#4#18446744073709551615#18446744073709551615#0#---2@142"Expected class-name before '{' token in /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h-351714705#18446744073709551615#0#-0#-4@120"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/ofxTuioWrapper/src/ofxTuioClient.h0000000000000000^37#18446744073709551615#37#18446744073709551615#18446744073709551615#0#---2#-4@120"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/ofxTuioWrapper/src/ofxTuioClient.h0000000000000000^37#18446744073709551615#37#18446744073709551615#18446744073709551615#0#19"Expected * before *--2@34"'TuioObject' has not been declared-351714705#1669#149#3(3@105"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/testApp.cpp-351714705#18446744073709551615#0#-0#-4@101"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/src/testApp.cpp0000000000000000^0#18446744073709551615#0#18446744073709551615#18446744073709551615#0#---3@103"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/testApp.h-351714705#18446744073709551615#0#-0#-4@99"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/src/testApp.h0000000000000000^4#18446744073709551615#4#18446744073709551615#18446744073709551615#0#---2@140"'TuioObject' has not been declared in /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h-351714705#18446744073709551615#0#-0#-4@120"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/ofxTuioWrapper/src/ofxTuioClient.h0000000000000000^48#18446744073709551615#48#18446744073709551615#18446744073709551615#0#---2#-4@120"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/ofxTuioWrapper/src/ofxTuioClient.h0000000000000000^48#18446744073709551615#48#18446744073709551615#18446744073709551615#0#25"'*' has not been declared--2@34"'TuioObject' has not been declared-351714705#1818#149#3(3@105"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/testApp.cpp-351714705#18446744073709551615#0#-0#-4@101"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/src/testApp.cpp0000000000000000^0#18446744073709551615#0#18446744073709551615#18446744073709551615#0#---3@103"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/testApp.h-351714705#18446744073709551615#0#-0#-4@99"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/src/testApp.h0000000000000000^4#18446744073709551615#4#18446744073709551615#18446744073709551615#0#---2@140"'TuioObject' has not been declared in /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h-351714705#18446744073709551615#0#-0#-4@120"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/ofxTuioWrapper/src/ofxTuioClient.h0000000000000000^49#18446744073709551615#49#18446744073709551615#18446744073709551615#0#---2#-4@120"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/ofxTuioWrapper/src/ofxTuioClient.h0000000000000000^49#18446744073709551615#49#18446744073709551615#18446744073709551615#0#25"'*' has not been declared--2@34"'TuioObject' has not been declared-351714705#1967#149#3(3@105"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/testApp.cpp-351714705#18446744073709551615#0#-0#-4@101"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/src/testApp.cpp0000000000000000^0#18446744073709551615#0#18446744073709551615#18446744073709551615#0#---3@103"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/testApp.h-351714705#18446744073709551615#0#-0#-4@99"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/src/testApp.h0000000000000000^4#18446744073709551615#4#18446744073709551615#18446744073709551615#0#---2@140"'TuioObject' has not been declared in /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h-351714705#18446744073709551615#0#-0#-4@120"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/ofxTuioWrapper/src/ofxTuioClient.h0000000000000000^50#18446744073709551615#50#18446744073709551615#18446744073709551615#0#---2#-4@120"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/ofxTuioWrapper/src/ofxTuioClient.h0000000000000000^50#18446744073709551615#50#18446744073709551615#18446744073709551615#0#25"'*' has not been declared--2@34"'TuioCursor' has not been declared-351714705#2116#149#3(3@105"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/testApp.cpp-351714705#18446744073709551615#0#-0#-4@101"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/src/testApp.cpp0000000000000000^0#18446744073709551615#0#18446744073709551615#18446744073709551615#0#---3@103"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/testApp.h-351714705#18446744073709551615#0#-0#-4@99"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/src/testApp.h0000000000000000^4#18446744073709551615#4#18446744073709551615#18446744073709551615#0#---2@140"'TuioCursor' has not been declared in /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h-351714705#18446744073709551615#0#-0#-4@120"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/ofxTuioWrapper/src/ofxTuioClient.h0000000000000000^52#18446744073709551615#52#18446744073709551615#18446744073709551615#0#---2#-4@120"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/ofxTuioWrapper/src/ofxTuioClient.h0000000000000000^52#18446744073709551615#52#18446744073709551615#18446744073709551615#0#25"'*' has not been declared--2@34"'TuioCursor' has not been declared-351714705#2265#149#3(3@105"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/testApp.cpp-351714705#18446744073709551615#0#-0#-4@101"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/src/testApp.cpp0000000000000000^0#18446744073709551615#0#18446744073709551615#18446744073709551615#0#---3@103"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/testApp.h-351714705#18446744073709551615#0#-0#-4@99"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/src/testApp.h0000000000000000^4#18446744073709551615#4#18446744073709551615#18446744073709551615#0#---2@140"'TuioCursor' has not been declared in /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h-351714705#18446744073709551615#0#-0#-4@120"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/ofxTuioWrapper/src/ofxTuioClient.h0000000000000000^53#18446744073709551615#53#18446744073709551615#18446744073709551615#0#---2#-4@120"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/ofxTuioWrapper/src/ofxTuioClient.h0000000000000000^53#18446744073709551615#53#18446744073709551615#18446744073709551615#0#25"'*' has not been declared--2@34"'TuioCursor' has not been declared-351714705#2414#149#3(3@105"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/testApp.cpp-351714705#18446744073709551615#0#-0#-4@101"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/src/testApp.cpp0000000000000000^0#18446744073709551615#0#18446744073709551615#18446744073709551615#0#---3@103"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/testApp.h-351714705#18446744073709551615#0#-0#-4@99"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/src/testApp.h0000000000000000^4#18446744073709551615#4#18446744073709551615#18446744073709551615#0#---2@140"'TuioCursor' has not been declared in /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h-351714705#18446744073709551615#0#-0#-4@120"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/ofxTuioWrapper/src/ofxTuioClient.h0000000000000000^54#18446744073709551615#54#18446744073709551615#18446744073709551615#0#---2#-4@120"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/ofxTuioWrapper/src/ofxTuioClient.h0000000000000000^54#18446744073709551615#54#18446744073709551615#18446744073709551615#0#25"'*' has not been declared--2@32"'TuioBlob' has not been declared-351714705#2563#147#3(3@105"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/testApp.cpp-351714705#18446744073709551615#0#-0#-4@101"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/src/testApp.cpp0000000000000000^0#18446744073709551615#0#18446744073709551615#18446744073709551615#0#---3@103"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/testApp.h-351714705#18446744073709551615#0#-0#-4@99"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/src/testApp.h0000000000000000^4#18446744073709551615#4#18446744073709551615#18446744073709551615#0#---2@138"'TuioBlob' has not been declared in /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h-351714705#18446744073709551615#0#-0#-4@120"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/ofxTuioWrapper/src/ofxTuioClient.h0000000000000000^56#18446744073709551615#56#18446744073709551615#18446744073709551615#0#---2#-4@120"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/ofxTuioWrapper/src/ofxTuioClient.h0000000000000000^56#18446744073709551615#56#18446744073709551615#18446744073709551615#0#25"'*' has not been declared--2@32"'TuioBlob' has not been declared-351714705#2710#147#3(3@105"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/testApp.cpp-351714705#18446744073709551615#0#-0#-4@101"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/src/testApp.cpp0000000000000000^0#18446744073709551615#0#18446744073709551615#18446744073709551615#0#---3@103"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/testApp.h-351714705#18446744073709551615#0#-0#-4@99"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/src/testApp.h0000000000000000^4#18446744073709551615#4#18446744073709551615#18446744073709551615#0#---2@138"'TuioBlob' has not been declared in /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h-351714705#18446744073709551615#0#-0#-4@120"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/ofxTuioWrapper/src/ofxTuioClient.h0000000000000000^57#18446744073709551615#57#18446744073709551615#18446744073709551615#0#---2#-4@120"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/ofxTuioWrapper/src/ofxTuioClient.h0000000000000000^57#18446744073709551615#57#18446744073709551615#18446744073709551615#0#25"'*' has not been declared--2@32"'TuioBlob' has not been declared-351714705#2857#147#3(3@105"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/testApp.cpp-351714705#18446744073709551615#0#-0#-4@101"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/src/testApp.cpp0000000000000000^0#18446744073709551615#0#18446744073709551615#18446744073709551615#0#---3@103"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/testApp.h-351714705#18446744073709551615#0#-0#-4@99"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/src/testApp.h0000000000000000^4#18446744073709551615#4#18446744073709551615#18446744073709551615#0#---2@138"'TuioBlob' has not been declared in /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h-351714705#18446744073709551615#0#-0#-4@120"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/ofxTuioWrapper/src/ofxTuioClient.h0000000000000000^58#18446744073709551615#58#18446744073709551615#18446744073709551615#0#---2#-4@120"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/ofxTuioWrapper/src/ofxTuioClient.h0000000000000000^58#18446744073709551615#58#18446744073709551615#18446744073709551615#0#25"'*' has not been declared--2@32"'TuioTime' has not been declared-351714705#3004#147#3(3@105"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/testApp.cpp-351714705#18446744073709551615#0#-0#-4@101"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/src/testApp.cpp0000000000000000^0#18446744073709551615#0#18446744073709551615#18446744073709551615#0#---3@103"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/testApp.h-351714705#18446744073709551615#0#-0#-4@99"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/src/testApp.h0000000000000000^4#18446744073709551615#4#18446744073709551615#18446744073709551615#0#---2@138"'TuioTime' has not been declared in /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h-351714705#18446744073709551615#0#-0#-4@120"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/ofxTuioWrapper/src/ofxTuioClient.h0000000000000000^60#18446744073709551615#60#18446744073709551615#18446744073709551615#0#---2#-4@120"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/ofxTuioWrapper/src/ofxTuioClient.h0000000000000000^60#18446744073709551615#60#18446744073709551615#18446744073709551615#0#25"'*' has not been declared--2@43"'TuioObject' was not declared in this scope-351714705#3151#158#3(3@105"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/testApp.cpp-351714705#18446744073709551615#0#-0#-4@101"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/src/testApp.cpp0000000000000000^0#18446744073709551615#0#18446744073709551615#18446744073709551615#0#---3@103"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/testApp.h-351714705#18446744073709551615#0#-0#-4@99"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/src/testApp.h0000000000000000^4#18446744073709551615#4#18446744073709551615#18446744073709551615#0#---2@149"'TuioObject' was not declared in this scope in /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h-351714705#18446744073709551615#0#-0#-4@120"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/ofxTuioWrapper/src/ofxTuioClient.h0000000000000000^68#18446744073709551615#68#18446744073709551615#18446744073709551615#0#---2#-4@120"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/ofxTuioWrapper/src/ofxTuioClient.h0000000000000000^68#18446744073709551615#68#18446744073709551615#18446744073709551615#0#34"'*' was not declared in this scope--2@30"Template argument 1 is invalid-351714705#3309#145#3(3@105"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/testApp.cpp-351714705#18446744073709551615#0#-0#-4@101"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/src/testApp.cpp0000000000000000^0#18446744073709551615#0#18446744073709551615#18446744073709551615#0#---3@103"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/testApp.h-351714705#18446744073709551615#0#-0#-4@99"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/src/testApp.h0000000000000000^4#18446744073709551615#4#18446744073709551615#18446744073709551615#0#---2@136"Template argument 1 is invalid in /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h-351714705#18446744073709551615#0#-0#-4@120"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/ofxTuioWrapper/src/ofxTuioClient.h0000000000000000^68#18446744073709551615#68#18446744073709551615#18446744073709551615#0#---2#-4@120"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/ofxTuioWrapper/src/ofxTuioClient.h0000000000000000^68#18446744073709551615#68#18446744073709551615#18446744073709551615#0#18"LLVM GCC 4.2 Error--2@43"'TuioObject' was not declared in this scope-351714705#3454#158#3(3@105"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/testApp.cpp-351714705#18446744073709551615#0#-0#-4@101"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/src/testApp.cpp0000000000000000^0#18446744073709551615#0#18446744073709551615#18446744073709551615#0#---3@103"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/testApp.h-351714705#18446744073709551615#0#-0#-4@99"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/src/testApp.h0000000000000000^4#18446744073709551615#4#18446744073709551615#18446744073709551615#0#---2@149"'TuioObject' was not declared in this scope in /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h-351714705#18446744073709551615#0#-0#-4@120"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/ofxTuioWrapper/src/ofxTuioClient.h0000000000000000^69#18446744073709551615#69#18446744073709551615#18446744073709551615#0#---2#-4@120"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/ofxTuioWrapper/src/ofxTuioClient.h0000000000000000^69#18446744073709551615#69#18446744073709551615#18446744073709551615#0#34"'*' was not declared in this scope--2@30"Template argument 1 is invalid-351714705#3612#145#3(3@105"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/testApp.cpp-351714705#18446744073709551615#0#-0#-4@101"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/src/testApp.cpp0000000000000000^0#18446744073709551615#0#18446744073709551615#18446744073709551615#0#---3@103"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/testApp.h-351714705#18446744073709551615#0#-0#-4@99"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/src/testApp.h0000000000000000^4#18446744073709551615#4#18446744073709551615#18446744073709551615#0#---2@136"Template argument 1 is invalid in /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h-351714705#18446744073709551615#0#-0#-4@120"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/ofxTuioWrapper/src/ofxTuioClient.h0000000000000000^69#18446744073709551615#69#18446744073709551615#18446744073709551615#0#---2#-4@120"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/ofxTuioWrapper/src/ofxTuioClient.h0000000000000000^69#18446744073709551615#69#18446744073709551615#18446744073709551615#0#18"LLVM GCC 4.2 Error--2@43"'TuioObject' was not declared in this scope-351714705#3757#158#3(3@105"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/testApp.cpp-351714705#18446744073709551615#0#-0#-4@101"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/src/testApp.cpp0000000000000000^0#18446744073709551615#0#18446744073709551615#18446744073709551615#0#---3@103"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/testApp.h-351714705#18446744073709551615#0#-0#-4@99"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/src/testApp.h0000000000000000^4#18446744073709551615#4#18446744073709551615#18446744073709551615#0#---2@149"'TuioObject' was not declared in this scope in /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h-351714705#18446744073709551615#0#-0#-4@120"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/ofxTuioWrapper/src/ofxTuioClient.h0000000000000000^70#18446744073709551615#70#18446744073709551615#18446744073709551615#0#---2#-4@120"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/ofxTuioWrapper/src/ofxTuioClient.h0000000000000000^70#18446744073709551615#70#18446744073709551615#18446744073709551615#0#34"'*' was not declared in this scope--2@30"Template argument 1 is invalid-351714705#3915#145#3(3@105"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/testApp.cpp-351714705#18446744073709551615#0#-0#-4@101"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/src/testApp.cpp0000000000000000^0#18446744073709551615#0#18446744073709551615#18446744073709551615#0#---3@103"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/testApp.h-351714705#18446744073709551615#0#-0#-4@99"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/src/testApp.h0000000000000000^4#18446744073709551615#4#18446744073709551615#18446744073709551615#0#---2@136"Template argument 1 is invalid in /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h-351714705#18446744073709551615#0#-0#-4@120"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/ofxTuioWrapper/src/ofxTuioClient.h0000000000000000^70#18446744073709551615#70#18446744073709551615#18446744073709551615#0#---2#-4@120"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/ofxTuioWrapper/src/ofxTuioClient.h0000000000000000^70#18446744073709551615#70#18446744073709551615#18446744073709551615#0#18"LLVM GCC 4.2 Error--2@56"ISO C++ forbids declaration of 'TuioClient' with no type-351714705#4060#171#3(3@105"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/testApp.cpp-351714705#18446744073709551615#0#-0#-4@101"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/src/testApp.cpp0000000000000000^0#18446744073709551615#0#18446744073709551615#18446744073709551615#0#---3@103"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/testApp.h-351714705#18446744073709551615#0#-0#-4@99"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/src/testApp.h0000000000000000^4#18446744073709551615#4#18446744073709551615#18446744073709551615#0#---2@162"ISO C++ forbids declaration of 'TuioClient' with no type in /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h-351714705#18446744073709551615#0#-0#-4@120"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/ofxTuioWrapper/src/ofxTuioClient.h0000000000000000^72#18446744073709551615#72#18446744073709551615#18446744073709551615#0#---2#-4@120"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/ofxTuioWrapper/src/ofxTuioClient.h0000000000000000^72#18446744073709551615#72#18446744073709551615#18446744073709551615#0#47"ISO C++ forbids declaration of '*' with no type--2@29"Expected ';' before '*' token-351714705#4231#144#3(3@105"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/testApp.cpp-351714705#18446744073709551615#0#-0#-4@101"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/src/testApp.cpp0000000000000000^0#18446744073709551615#0#18446744073709551615#18446744073709551615#0#---3@103"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/testApp.h-351714705#18446744073709551615#0#-0#-4@99"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/src/testApp.h0000000000000000^4#18446744073709551615#4#18446744073709551615#18446744073709551615#0#---2@135"Expected ';' before '*' token in /Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/ofxTuioWrapper/src/ofxTuioClient.h-351714705#18446744073709551615#0#-0#-4@120"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/ofxTuioWrapper/src/ofxTuioClient.h0000000000000000^72#18446744073709551615#72#18446744073709551615#18446744073709551615#0#---2#-4@120"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/ofxTuioWrapper/src/ofxTuioClient.h0000000000000000^72#18446744073709551615#72#18446744073709551615#18446744073709551615#0#19"Expected * before *--0#0#0#-19%DVTDocumentLocation5@101"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/src/testApp.cpp0000000000000000^2258"CompileC build/tuiotest.build/Debug/tuiotest.build/Objects-normal/i386/testApp.o src/testApp.cpp normal i386 c++ com.apple.compilers.llvmgcc42    cd "/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -fasm-blocks -Wno-deprecated-declarations -Wno-invalid-offsetof -gdwarf-2 -msse3 -mssse3 "-I/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/build/tuiotest.build/Debug/tuiotest.build/tuiotestDebug.hmap" "-I/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/bin/include" -I../../../libs/openFrameworks -I../../../libs/openFrameworks/3d -I../../../libs/openFrameworks/app -I../../../libs/openFrameworks/communication -I../../../libs/openFrameworks/events -I../../../libs/openFrameworks/gl -I../../../libs/openFrameworks/graphics -I../../../libs/openFrameworks/math -I../../../libs/openFrameworks/sound -I../../../libs/openFrameworks/types -I../../../libs/openFrameworks/utils -I../../../libs/openFrameworks/video -I../../../libs/poco/include -I../../../libs/freetype/include -I../../../libs/freetype/include/freetype2 -I../../../libs/fmodex/include -I../../../libs/glew/include -I../../../libs/FreeImage/include -I../../../libs/tess2/include -I../../../libs/cairo/include/cairo -I../../../libs/rtaudio/include "-I/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/build/tuiotest.build/Debug/tuiotest.build/DerivedSources/i386" "-I/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/build/tuiotest.build/Debug/tuiotest.build/DerivedSources" "-F/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/bin" "-F/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/../../../libs/glut/lib/osx" -D__MACOSX_CORE__ -lpthread -include /var/folders/np/bmm2m30923gfdvhs15zd484r0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-ftvuubpgcfqmybglgnzcrzixogyk/Carbon.h -c "/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/src/testApp.cpp" -o "/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/build/tuiotest.build/Debug/tuiotest.build/Objects-normal/i386/testApp.o"36"46EF7E3F-1350-4BF4-AE4C-98B864C95796-
+
+CLd "/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/bin/tuiotestDebug.app/Contents/MacOS/tuiotestDebug" normal i386
+r0
+
+CPBXCp ../../../libs/glut/lib/osx/GLUT.framework bin/tuiotestDebug.app/Contents/Frameworks/GLUT.framework
+r0
+
+CPhaseScriptExecution "Run Script" "/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/build/tuiotest.build/Debug/tuiotest.build/Script-E4B6FFFD0C3F9AB9008CF71C.sh"
+r0
+
+CProcessInfoPlistFile "/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/bin/tuiotestDebug.app/Contents/Info.plist" openFrameworks-Info.plist
+s351714690.609800
+e351714690.632177
+r1
+xProcessInfoPlistFile
+x/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/bin/tuiotestDebug.app/Contents/Info.plist
+xopenFrameworks-Info.plist
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection33"Process openFrameworks-Info.plist3c11a082bdf6b441^edd7a182bdf6b441^---0#0#0#-19%DVTDocumentLocation2@111"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio%20test/openFrameworks-Info.plist0000000000000000^495"ProcessInfoPlistFile bin/tuiotestDebug.app/Contents/Info.plist openFrameworks-Info.plist    cd "/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test"    builtin-infoPlistUtility openFrameworks-Info.plist -genpkginfo "/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/bin/tuiotestDebug.app/Contents/PkgInfo" -expandbuildsettings -platform macosx -o "/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/bin/tuiotestDebug.app/Contents/Info.plist"36"55239755-9913-4B35-B2DA-CA9DCCF954EA-
+
+CProcessPCH++ /Users/lia/Library/Developer/Xcode/DerivedData/tuiotest-ceyxkfibbbecdfbzoyqfswvzkbye/Index/PrecompiledHeaders/Carbon-eybungtvikdccremyrtivkehnqxj_ast/Carbon.h.pth /System/Library/Frameworks/Carbon.framework/Headers/Carbon.h normal i386 c++ com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH++ /var/folders/np/bmm2m30923gfdvhs15zd484r0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-ftvuubpgcfqmybglgnzcrzixogyk/Carbon.h.gch /System/Library/Frameworks/Carbon.framework/Headers/Carbon.h normal i386 c++ com.apple.compilers.llvmgcc42
+s351714690.640279
+e351714701.139345
+r1
+xProcessPCH++
+x/var/folders/np/bmm2m30923gfdvhs15zd484r0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-ftvuubpgcfqmybglgnzcrzixogyk/Carbon.h.gch
+x/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvmgcc42
+oi686-apple-darwin11-llvm-gcc-4.2: -lpthread: linker input file unused because linking not done
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Precompile /System/Library/Frameworks/Carbon.framework/Headers/Carbon.h5a0ea482bdf6b441^b4ac238dbdf6b441^---0#0#0#-19%DVTDocumentLocation2@76"file://localhost/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h0000000000000000^2213"ProcessPCH++ /var/folders/np/bmm2m30923gfdvhs15zd484r0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-ftvuubpgcfqmybglgnzcrzixogyk/Carbon.h.gch /System/Library/Frameworks/Carbon.framework/Headers/Carbon.h normal i386 c++ com.apple.compilers.llvmgcc42    cd "/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x c++-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -fasm-blocks -Wno-deprecated-declarations -Wno-invalid-offsetof -gdwarf-2 -msse3 -mssse3 "-I/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/build/tuiotest.build/Debug/tuiotest.build/tuiotestDebug.hmap" "-I/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/bin/include" -I../../../libs/openFrameworks -I../../../libs/openFrameworks/3d -I../../../libs/openFrameworks/app -I../../../libs/openFrameworks/communication -I../../../libs/openFrameworks/events -I../../../libs/openFrameworks/gl -I../../../libs/openFrameworks/graphics -I../../../libs/openFrameworks/math -I../../../libs/openFrameworks/sound -I../../../libs/openFrameworks/types -I../../../libs/openFrameworks/utils -I../../../libs/openFrameworks/video -I../../../libs/poco/include -I../../../libs/freetype/include -I../../../libs/freetype/include/freetype2 -I../../../libs/fmodex/include -I../../../libs/glew/include -I../../../libs/FreeImage/include -I../../../libs/tess2/include -I../../../libs/cairo/include/cairo -I../../../libs/rtaudio/include "-I/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/build/tuiotest.build/Debug/tuiotest.build/DerivedSources/i386" "-I/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/build/tuiotest.build/Debug/tuiotest.build/DerivedSources" "-F/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/bin" "-F/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/../../../libs/glut/lib/osx" -D__MACOSX_CORE__ -lpthread -c /System/Library/Frameworks/Carbon.framework/Headers/Carbon.h -o /var/folders/np/bmm2m30923gfdvhs15zd484r0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-ftvuubpgcfqmybglgnzcrzixogyk/Carbon.h.gch36"E54081ED-F0A0-4FFC-91CB-3DD466F8A8C7-
+
+CTouch "/Code/oF/OpenFrameworks/of_preRelease_v007_osx/apps/Radio/tuio test/bin/tuiotestDebug.app"
+r0
+
