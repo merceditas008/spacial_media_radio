@@ -4,7 +4,7 @@
 //--------------------------------------------------------------
 void testApp::setup(){
 	ofBackground(255,255,255);
-    map.loadImage("main_cities.png");
+    map.loadImage("radio_2.png");
     int tagNum=0;
 
 }
