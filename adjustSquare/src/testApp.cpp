@@ -3,7 +3,7 @@
 //--------------------------------------------------------------
 void testApp::setup(){
     
-    ofBackground(100, 100, 100);
+    ofBackground(70, 70, 70);
     
     gridX = 0; 
     gridY = 0; 
@@ -64,8 +64,20 @@ void testApp::draw(){
     
     ofSetColor(255, 255, 255);
     //ofRect (gridX, gridY, gridWidth, gridHeight);
+    ofNoFill(); 
     ofRect (0, 0, gridWidth, gridHeight);
-
+    
+    
+    for (int i = 0; i < gridWidth ; i += 20) {
+        ofLine(i, 0, i, gridHeight);
+    }
+    
+    for (int i = 0; i < gridHeight; i +=20) {
+        ofLine(0, i, gridWidth, i);
+    }
+    
+    
+    ofFill(); 
     //ofRect(100, 200, 500, 500);
     
     //cities
@@ -76,6 +88,7 @@ void testApp::draw(){
     ofCircle(400, 420, 10);
     ofCircle(450, 420, 10);
     
+    /*
     //buttonScale
     if (buttonScaleOn) {
         ofSetColor(active);
@@ -83,8 +96,9 @@ void testApp::draw(){
         ofSetColor(inactive);
     }
     ofCircle(gridWidth, gridHeight, buttonSize);
+     */
     
-
+    
     //buttonCorner
     if (buttonCornerOn) {
     ofSetColor(active);
@@ -92,6 +106,7 @@ void testApp::draw(){
      ofSetColor(inactive);
     }
     ofCircle(0, 0, buttonSize);
+     
 
 }
 
