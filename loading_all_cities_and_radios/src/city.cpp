@@ -8,6 +8,7 @@
 
 #include <iostream>
 #include "city.h"
+#include "testApp.h"
 
 using namespace std; 
 
@@ -17,11 +18,21 @@ City::City () {
 }
 
 void City::display() {
-    ofCircle( loc, 5);
     
+
+    ofCircle( loc, 5);
+
 }
 
 void City::play() {
 
 
 }
+
+ofPoint City::getLocation () {
+    
+    ofPoint locay = loc; 
+    return locay; 
+    
+}
+

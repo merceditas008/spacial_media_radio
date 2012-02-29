@@ -17,17 +17,24 @@ class City {
 
     public:
     City ();
-    ofPoint loc; 
+    ofVec2f loc; 
     string station;
     string name;
     
     void adjustVol(); 
     void display(); 
+    ofPoint getLocation(); 
+    
     void play(); 
     bool isNear; 
     bool isPlaying; 
     
     int volume; 
+    
+    float scaleFactor; 
+    float scaleTotalX, scaleTotalY; 
+    float degreesFactor; 
+    int gridX, gridY; 
     
 
 };

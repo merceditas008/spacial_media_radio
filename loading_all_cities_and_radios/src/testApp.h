@@ -42,9 +42,13 @@ class testApp : public ofBaseApp{
     int buttonSize; 
     bool buttonCornerOn; 
     ofColor active, inactive; 
+    int mouseX, mouseY; 
     
     float scaleFactor; 
+    float scaleTotalX, scaleTotalY; 
     float degreesFactor; 
+    
+    ofVec3f newLoc;
 
     //bool playing; 
 };

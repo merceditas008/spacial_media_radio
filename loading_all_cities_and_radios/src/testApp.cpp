@@ -4,7 +4,7 @@
 void testApp::setup(){
     
     ofBackground(190, 220, 230 );
-    vlc.setup("/Users/meR/vlc.sock"); 
+    vlc.setup("/Users/lia/vlc.sock"); 
     
     //we load the xml file with all the data from the cities : x,y,name city, radio station
     XML.loadFile("new_radios.xml");
@@ -26,20 +26,6 @@ void testApp::setup(){
         cout <<cities[i].station<<endl;
     }
     XML.popTag();
-    /*int num_cities=XML.getNumTags("PT:X");
-    cout <<num_cities<<endl;
-    for (int i=0; i<num_cities; i++){
-        cities[i].loc.x= XML.getValue("PT:X",0,i);
-        cout <<cities[i].loc.x<<endl;
-        cities[i].loc.y= XML.getValue("PT:Y",0,i);
-        cout <<cities[i].loc.y<<endl;
-        cities[i].isPlaying = false; 
-        cities[i].name= XML.getValue("PT:CITY","",i);
-        cout <<cities[i].name<<endl;
-        cities[i].station= XML.getValue("PT:Radio"," ",i);
-        cout <<cities[i].station<<endl;
-        
-    }*/
     
     //setup calibration
     gridWidth = 720; 
@@ -67,55 +53,25 @@ void testApp::setup(){
 
 //--------------------------------------------------------------
 void testApp::update(){
-    for (int i = 0; i < 129; i++) {
-        float d = ofDist(cities[i].loc.x, cities[i].loc.y,mouseLoc.x, mouseLoc.y); //magnitude
-        d = ofClamp(d, 0, 150);
-        
-
-        if (d < 15) {
-            int vol = ofMap(d, 0, 15, 100, 0);
-            cities[i].volume = vol; 
-            string setVol = "volume " + cities[i].volume;
-            //cout << setVol << endl; 
-           // cout << cities[i].name << endl;
-            //vlc.run(setVol);
-            
-            
-           cities[i].isNear = true;  
-           
-            if (!cities[i].isPlaying) {
-                string command = "add " + cities[i].station;
-                vlc.run(command); 
-                cities[i].isPlaying = true; 
-            }
-             } else {
-            cities[i].isNear = false;  
-            //vlc.run("stop"); 
-            cities[i].isPlaying = false;              
-        }
-
-    }
     
-    if (calibrateOn) calibrate(); 
-    
-
 }
 
 //--------------------------------------------------------------
 void testApp::draw(){
+        
+    glPushMatrix(); 
+    ofTranslate(gridX,gridY);
+    scaleTotalX = gridScaleX + scaleFactor;
+    scaleTotalY = gridScaleY + scaleFactor;
+    ofScale(scaleTotalX, scaleTotalY);
+    ofRotateZ(degreesFactor);
     
     if (calibrateOn) drawGrid(); 
-    
-    ofPushMatrix(); 
-    ofTranslate(gridX,gridY);
-    ofScale(gridScaleX + scaleFactor, gridScaleY + scaleFactor);
-    ofRotateZ(degreesFactor);
+    if (calibrateOn) calibrate(); 
     
     //cities
     ofEnableSmoothing();
     ofFill();
-    //ofSetColor(200);
-	//ofSetHexColor(0xe0be21);
     for (int i = 0; i < 129; i++) {
         if (cities[i].isNear) {
             ofSetHexColor(0xe0be21);
@@ -125,9 +81,55 @@ void testApp::draw(){
         cities[i].display(); 
     }
     
+    //check distance
+    for (int i = 0; i < 129; i++) {
+        //cities[i].setLocation(gridX, gridY, scaleTotalX, scaleTotalY, degreesFactor); 
+
+        //float d = ofDist((cities[i].loc.x*(scaleFactor)+gridX), (cities[i].loc.y*(scaleFactor)+gridY),mouseX, mouseY);
+        float d = ofDist(cities[i].loc.x, cities[i].loc.y,mouseX, mouseY); //magnitude
+        //float d = ofDist(cities[i].getLocation().x, cities[i].getLocation().y,mouseX, mouseY); //magnitude
+        cout << "city location" <<  cities[5].getLocation().x << endl; 
+        d = ofClamp(d, 0, 15);
+            
+        if (d < 15) {
+            int vol = ofMap(d, 0, 15, 100, 0);
+            cities[i].volume = vol; 
+            string setVol = "volume " + cities[i].volume;
+            
+            cities[i].isNear = true;  
+            
+            if (!cities[i].isPlaying) {
+                string command = "add " + cities[i].station;
+                vlc.run(command); 
+                cities[i].isPlaying = true; 
+            }
+        } else {
+            cities[i].isNear = false;  
+            cities[i].isPlaying = false;              
+        }
+
+    }
     
-    ofPopMatrix();
+    glPopMatrix();
+
+    
+    ofSetColor(200, 50, 50);
+    ofDrawBitmapString("press c to toggle calibrate mode, r to reset", 600,640); 
+    ofDrawBitmapString("Up and Down to adjust rotation", 600, 655); 
+    ofDrawBitmapString("Left and Right to adjust scale", 600, 670); 
+    ofDrawBitmapString("Drag the red dot to change location", 600, 685); 
+    
+    string textXY = "X Y coordinates: "+ofToString(gridX, 2) + " " + ofToString(gridY, 2);
+    ofDrawBitmapString(textXY, 600,700);
+    
+    string textScale = "Scale: "+ofToString(scaleFactor,2);
+    ofDrawBitmapString(textScale, 600,715);
+    
+    string textDegrees = "Degrees: "+ofToString(degreesFactor,2);
+    ofDrawBitmapString(textDegrees, 600,730);
+ 
   
+
 }
 
 //--------------------------------------------------------------
@@ -144,6 +146,7 @@ void testApp::keyPressed(int key){
     if (calibrateOn) {
     if (key == 'r') {
         scaleFactor = 0; 
+        degreesFactor = 0; 
         gridX = 0; 
         gridY = 0; 
     }
@@ -163,11 +166,7 @@ void testApp::keyReleased(int key){
 
 //--------------------------------------------------------------
 void testApp::mouseMoved(int x, int y ){
-    
-    mouseLoc.x = x;
-    mouseLoc.y = y; 
-    
-    //match these variables later
+
     mouseX = x; 
     mouseY = y; 
 
@@ -185,28 +184,21 @@ void testApp::mouseDragged(int x, int y, int button){
 
 //--------------------------------------------------------------
 void testApp::calibrate() {
-
-    ofPushMatrix(); 
-    ofTranslate(gridX,gridY);
-    ofScale(gridScaleX + scaleFactor, gridScaleY + scaleFactor);
-    ofRotateZ(degreesFactor);
     
     if (mouseX < gridX + buttonSize + 100 && mouseX > gridX - buttonSize - 100 && mouseY < gridY + buttonSize + 100 && mouseY > gridY - buttonSize - 100) {
         buttonCornerOn = true; 
     } else {
         buttonCornerOn = false; 
     }
-    ofPopMatrix(); 
+
 }
 
 //--------------------------------------------------------------
 void testApp::drawGrid(){
     
-    ofPushMatrix(); 
-    ofTranslate(gridX,gridY);
-    ofScale(gridScaleX + scaleFactor, gridScaleY + scaleFactor);
-    ofRotateZ(degreesFactor);
+
     ofNoFill(); 
+    ofSetColor(0, 0, 0);
     ofRect (0, 0, gridWidth, gridHeight); 
     
     for (int i = 0; i < gridWidth ; i += 20) {
@@ -225,8 +217,10 @@ void testApp::drawGrid(){
         ofSetColor(inactive);
     }
     ofCircle(0, 0, buttonSize);
-    
-    ofPopMatrix(); 
+
+ 
+    //draw text
+
     
 }
 
