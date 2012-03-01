@@ -2,60 +2,60 @@ TopenFrameworks
 v5
 r1
 cCheck dependencies
-cCompileC "/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofAppGlutWindow.o" /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/app/ofAppGlutWindow.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC "/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofAppRunner.o" /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/app/ofAppRunner.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC "/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofArduino.o" /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/communication/ofArduino.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC "/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofSerial.o" /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/communication/ofSerial.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC "/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofQtUtils-7805BED1DF6F668C.o" /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofQtUtils.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC "/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofQtUtils-7805BED1DF6F668C.o" /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofQtUtils.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC "/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofVideoPlayer.o" /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofVideoPlayer.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC "/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofVideoGrabber.o" /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofVideoGrabber.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC "/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofQuickTimeGrabber.o" /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofQuickTimeGrabber.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC "/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/of3dUtils.o" /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/3d/of3dUtils.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC "/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofEvents.o" /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/events/ofEvents.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC "/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofCamera.o" /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/3d/ofCamera.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC "/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofQuickTimePlayer.o" /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofQuickTimePlayer.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC "/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofEasyCam.o" /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/3d/ofEasyCam.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC "/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofNode.o" /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/3d/ofNode.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC "/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofBaseSoundPlayer.o" /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/sound/ofBaseSoundPlayer.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC "/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofSoundPlayer.o" /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/sound/ofSoundPlayer.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC "/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofFmodSoundPlayer.o" /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/sound/ofFmodSoundPlayer.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC "/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofSoundStream.o" /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/sound/ofSoundStream.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC "/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofMath.o" /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/math/ofMath.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC "/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofMatrix3x3.o" /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/math/ofMatrix3x3.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC "/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofMatrix4x4.o" /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/math/ofMatrix4x4.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC "/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofQuaternion.o" /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/math/ofQuaternion.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC "/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofVec2f.o" /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/math/ofVec2f.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC "/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofVec4f.o" /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/math/ofVec4f.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC "/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofColor.o" /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/types/ofColor.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC "/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofBaseTypes.o" /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/types/ofBaseTypes.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC "/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofFileUtils.o" /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofFileUtils.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC "/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofPoint.o" /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/types/ofPoint.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC "/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofRectangle.o" /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/types/ofRectangle.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC "/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofLog.o" /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofLog.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC "/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofSystemUtils.o" /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofSystemUtils.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC "/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofURLFileLoader.o" /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofURLFileLoader.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC "/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofUtils.o" /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofUtils.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC "/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofThread.o" /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofThread.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC "/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofGraphics.o" /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofGraphics.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC "/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofBitmapFont.o" /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofBitmapFont.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC "/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofImage.o" /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofImage.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC "/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofPixels.o" /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofPixels.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC "/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofTessellator.o" /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofTessellator.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC "/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofCairoRenderer.o" /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofCairoRenderer.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC "/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofTrueTypeFont.o" /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofTrueTypeFont.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC "/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofMesh.o" /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/3d/ofMesh.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC "/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofFbo.o" /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/gl/ofFbo.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC "/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofPolyline.o" /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofPolyline.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC "/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofGLRenderer.o" /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/gl/ofGLRenderer.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC "/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofMaterial.o" /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/gl/ofMaterial.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC "/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofLight.o" /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/gl/ofLight.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC "/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofShader.o" /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/gl/ofShader.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC "/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofTexture.o" /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/gl/ofTexture.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC "/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofVbo.o" /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/gl/ofVbo.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC "/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofVboMesh.o" /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/gl/ofVboMesh.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC "/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofRtAudioSoundStream.o" /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/sound/ofRtAudioSoundStream.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC "/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofPath.o" /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofPath.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/meR/Documents/Of/apps/spacial_media_radio/radio_1/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofAppGlutWindow.o /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/app/ofAppGlutWindow.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/meR/Documents/Of/apps/spacial_media_radio/radio_1/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofArduino.o /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/communication/ofArduino.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/meR/Documents/Of/apps/spacial_media_radio/radio_1/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofAppRunner.o /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/app/ofAppRunner.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/meR/Documents/Of/apps/spacial_media_radio/radio_1/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofSerial.o /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/communication/ofSerial.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/meR/Documents/Of/apps/spacial_media_radio/radio_1/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofQtUtils-7805BED1DF6F668C.o /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofQtUtils.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/meR/Documents/Of/apps/spacial_media_radio/radio_1/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofQtUtils-7805BED1DF6F668C.o /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofQtUtils.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/meR/Documents/Of/apps/spacial_media_radio/radio_1/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofVideoPlayer.o /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofVideoPlayer.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/meR/Documents/Of/apps/spacial_media_radio/radio_1/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofVideoGrabber.o /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofVideoGrabber.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/meR/Documents/Of/apps/spacial_media_radio/radio_1/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofEvents.o /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/events/ofEvents.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/meR/Documents/Of/apps/spacial_media_radio/radio_1/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofQuickTimeGrabber.o /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofQuickTimeGrabber.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/meR/Documents/Of/apps/spacial_media_radio/radio_1/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofQuickTimePlayer.o /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofQuickTimePlayer.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/meR/Documents/Of/apps/spacial_media_radio/radio_1/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/of3dUtils.o /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/3d/of3dUtils.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/meR/Documents/Of/apps/spacial_media_radio/radio_1/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofCamera.o /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/3d/ofCamera.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/meR/Documents/Of/apps/spacial_media_radio/radio_1/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofEasyCam.o /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/3d/ofEasyCam.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/meR/Documents/Of/apps/spacial_media_radio/radio_1/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofNode.o /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/3d/ofNode.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/meR/Documents/Of/apps/spacial_media_radio/radio_1/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofBaseSoundPlayer.o /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/sound/ofBaseSoundPlayer.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/meR/Documents/Of/apps/spacial_media_radio/radio_1/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofFmodSoundPlayer.o /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/sound/ofFmodSoundPlayer.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/meR/Documents/Of/apps/spacial_media_radio/radio_1/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofSoundStream.o /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/sound/ofSoundStream.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/meR/Documents/Of/apps/spacial_media_radio/radio_1/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofSoundPlayer.o /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/sound/ofSoundPlayer.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/meR/Documents/Of/apps/spacial_media_radio/radio_1/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofMath.o /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/math/ofMath.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/meR/Documents/Of/apps/spacial_media_radio/radio_1/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofMatrix4x4.o /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/math/ofMatrix4x4.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/meR/Documents/Of/apps/spacial_media_radio/radio_1/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofMatrix3x3.o /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/math/ofMatrix3x3.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/meR/Documents/Of/apps/spacial_media_radio/radio_1/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofQuaternion.o /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/math/ofQuaternion.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/meR/Documents/Of/apps/spacial_media_radio/radio_1/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofVec2f.o /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/math/ofVec2f.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/meR/Documents/Of/apps/spacial_media_radio/radio_1/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofVec4f.o /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/math/ofVec4f.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/meR/Documents/Of/apps/spacial_media_radio/radio_1/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofBaseTypes.o /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/types/ofBaseTypes.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/meR/Documents/Of/apps/spacial_media_radio/radio_1/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofColor.o /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/types/ofColor.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/meR/Documents/Of/apps/spacial_media_radio/radio_1/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofPoint.o /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/types/ofPoint.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/meR/Documents/Of/apps/spacial_media_radio/radio_1/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofFileUtils.o /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofFileUtils.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/meR/Documents/Of/apps/spacial_media_radio/radio_1/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofSystemUtils.o /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofSystemUtils.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/meR/Documents/Of/apps/spacial_media_radio/radio_1/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofRectangle.o /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/types/ofRectangle.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/meR/Documents/Of/apps/spacial_media_radio/radio_1/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofLog.o /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofLog.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/meR/Documents/Of/apps/spacial_media_radio/radio_1/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofThread.o /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofThread.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/meR/Documents/Of/apps/spacial_media_radio/radio_1/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofURLFileLoader.o /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofURLFileLoader.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/meR/Documents/Of/apps/spacial_media_radio/radio_1/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofUtils.o /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofUtils.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/meR/Documents/Of/apps/spacial_media_radio/radio_1/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofGraphics.o /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofGraphics.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/meR/Documents/Of/apps/spacial_media_radio/radio_1/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofTessellator.o /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofTessellator.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/meR/Documents/Of/apps/spacial_media_radio/radio_1/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofImage.o /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofImage.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/meR/Documents/Of/apps/spacial_media_radio/radio_1/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofPixels.o /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofPixels.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/meR/Documents/Of/apps/spacial_media_radio/radio_1/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofBitmapFont.o /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofBitmapFont.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/meR/Documents/Of/apps/spacial_media_radio/radio_1/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofCairoRenderer.o /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofCairoRenderer.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/meR/Documents/Of/apps/spacial_media_radio/radio_1/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofMesh.o /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/3d/ofMesh.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/meR/Documents/Of/apps/spacial_media_radio/radio_1/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofPolyline.o /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofPolyline.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/meR/Documents/Of/apps/spacial_media_radio/radio_1/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofFbo.o /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/gl/ofFbo.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/meR/Documents/Of/apps/spacial_media_radio/radio_1/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofLight.o /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/gl/ofLight.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/meR/Documents/Of/apps/spacial_media_radio/radio_1/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofGLRenderer.o /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/gl/ofGLRenderer.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/meR/Documents/Of/apps/spacial_media_radio/radio_1/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofTrueTypeFont.o /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofTrueTypeFont.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/meR/Documents/Of/apps/spacial_media_radio/radio_1/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofMaterial.o /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/gl/ofMaterial.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/meR/Documents/Of/apps/spacial_media_radio/radio_1/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofShader.o /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/gl/ofShader.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/meR/Documents/Of/apps/spacial_media_radio/radio_1/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofTexture.o /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/gl/ofTexture.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/meR/Documents/Of/apps/spacial_media_radio/radio_1/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofVbo.o /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/gl/ofVbo.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/meR/Documents/Of/apps/spacial_media_radio/radio_1/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofVboMesh.o /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/gl/ofVboMesh.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/meR/Documents/Of/apps/spacial_media_radio/radio_1/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofPath.o /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofPath.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/meR/Documents/Of/apps/spacial_media_radio/radio_1/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofRtAudioSoundStream.o /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/sound/ofRtAudioSoundStream.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
 cLibtool /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../lib/osx/openFrameworksDebug.a normal i386
 
 N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk
@@ -324,223 +324,6 @@ N/Users/meR/Documents/Of/apps/spacial_media_radio/radio_1/Build/Intermediates/op
 c000000004F491C73000000000000222A
 t1330191475
 s8746
-
-N/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/of3dUtils.o
-t1330191481
-s28676
-
-N/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofAppGlutWindow.o
-t1330191479
-s156736
-
-N/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofAppRunner.o
-t1330191479
-s223980
-
-N/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofArduino.o
-t1330191479
-s711188
-
-N/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofBaseSoundPlayer.o
-t1330191480
-s27536
-
-N/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofBaseTypes.o
-t1330191484
-s77840
-
-N/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofBitmapFont.o
-t1330191486
-s132508
-
-N/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofCairoRenderer.o
-t1330191489
-s609360
-
-N/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofCamera.o
-t1330191481
-s118924
-
-N/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofColor.o
-t1330191484
-s158300
-
-N/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofEasyCam.o
-t1330191481
-s203300
-
-N/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofEvents.o
-t1330191482
-s1442120
-
-N/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofFbo.o
-t1330191490
-s318956
-
-N/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofFileUtils.o
-t1330191486
-s470896
-
-N/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofFmodSoundPlayer.o
-t1330191481
-s87696
-
-N/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofGLRenderer.o
-t1330191491
-s434120
-
-N/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofGraphics.o
-t1330191487
-s558524
-
-N/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofImage.o
-t1330191488
-s414116
-
-N/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofLight.o
-t1330191491
-s189100
-
-N/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofLog.o
-t1330191485
-s273048
-
-N/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofMaterial.o
-t1330191490
-s41812
-
-N/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofMath.o
-t1330191482
-s130424
-
-N/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofMatrix3x3.o
-t1330191483
-s76076
-
-N/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofMatrix4x4.o
-t1330191483
-s191008
-
-N/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofMesh.o
-t1330191489
-s379860
-
-N/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofNode.o
-t1330191481
-s154476
-
-N/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofPath.o
-t1330191493
-s457004
-
-N/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofPixels.o
-t1330191487
-s224032
-
-N/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofPoint.o
-t1330191484
-s27520
-
-N/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofPolyline.o
-t1330191490
-s370124
-
-N/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofQtUtils-7805BED1DF6F668C.o
-t1330191479
-s71776
-
-N/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofQuaternion.o
-t1330191483
-s104944
-
-N/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofQuickTimeGrabber.o
-t1330191481
-s129096
-
-N/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofQuickTimePlayer.o
-t1330191481
-s123664
-
-N/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofRectangle.o
-t1330191484
-s52444
-
-N/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofRtAudioSoundStream.o
-t1330191492
-s156272
-
-N/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofSerial.o
-t1330191478
-s171264
-
-N/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofShader.o
-t1330191491
-s252988
-
-N/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofSoundPlayer.o
-t1330191482
-s83460
-
-N/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofSoundStream.o
-t1330191482
-s79156
-
-N/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofSystemUtils.o
-t1330191485
-s57524
-
-N/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofTessellator.o
-t1330191488
-s251968
-
-N/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofTexture.o
-t1330191492
-s205208
-
-N/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofThread.o
-t1330191485
-s48308
-
-N/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofTrueTypeFont.o
-t1330191490
-s616484
-
-N/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofURLFileLoader.o
-t1330191487
-s593892
-
-N/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofUtils.o
-t1330191486
-s330752
-
-N/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofVbo.o
-t1330191492
-s178688
-
-N/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofVboMesh.o
-t1330191492
-s178416
-
-N/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofVec2f.o
-t1330191483
-s42768
-
-N/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofVec4f.o
-t1330191483
-s42832
-
-N/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofVideoGrabber.o
-t1330191479
-s158208
-
-N/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofVideoPlayer.o
-t1330191479
-s146492
-
-N/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/openFrameworksDebug.LinkFileList
-c000000004F4BD93F00000000000024B2
-t1330370879
-s9394
 
 N/Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../../libs/FreeImage/include/FreeImage.h
 c000000004D2C9F78000000000000D2C9
@@ -1672,11 +1455,6 @@ c000000004D55801A0000000000002531
 t1297448986
 s9521
 
-N/Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofQtUtils.h
-c000000004D55801A00000000000006B5
-t1297448986
-s1717
-
 N/Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofQuickTimeGrabber.cpp
 c000000004E0C88480000000000005713
 t1309444168
@@ -1698,7 +1476,7 @@ t1310310204
 s8678
 
 N/Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../lib/osx/openFrameworksDebug.a
-t1330370883
+t1330191494
 s25844936
 
 CBuild AST from /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/3d/of3dUtils.cpp
@@ -1862,166 +1640,7 @@ r0
 
 CCheck dependencies
 r0
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesa9892a0359fdb441^9eb52b0359fdb441^---0#1#0#--18"Check dependencies36"3BA4BBA1-2FA4-41CB-9ABF-80F124EE6D15-
-
-CCompileC "/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/of3dUtils.o" /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/3d/of3dUtils.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-r0
-
-CCompileC "/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofAppGlutWindow.o" /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/app/ofAppGlutWindow.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-r0
-
-CCompileC "/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofAppRunner.o" /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/app/ofAppRunner.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-r0
-
-CCompileC "/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofArduino.o" /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/communication/ofArduino.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-r0
-
-CCompileC "/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofBaseSoundPlayer.o" /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/sound/ofBaseSoundPlayer.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-r0
-
-CCompileC "/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofBaseTypes.o" /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/types/ofBaseTypes.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-r0
-
-CCompileC "/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofBitmapFont.o" /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofBitmapFont.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-r0
-
-CCompileC "/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofCairoRenderer.o" /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofCairoRenderer.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-r0
-
-CCompileC "/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofCamera.o" /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/3d/ofCamera.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-r0
-
-CCompileC "/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofColor.o" /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/types/ofColor.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-r0
-
-CCompileC "/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofEasyCam.o" /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/3d/ofEasyCam.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-r0
-
-CCompileC "/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofEvents.o" /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/events/ofEvents.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-r0
-
-CCompileC "/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofFbo.o" /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/gl/ofFbo.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-r0
-
-CCompileC "/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofFileUtils.o" /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofFileUtils.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-r0
-
-CCompileC "/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofFmodSoundPlayer.o" /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/sound/ofFmodSoundPlayer.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-r0
-
-CCompileC "/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofGLRenderer.o" /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/gl/ofGLRenderer.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-r0
-
-CCompileC "/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofGraphics.o" /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofGraphics.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-r0
-
-CCompileC "/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofImage.o" /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofImage.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-r0
-
-CCompileC "/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofLight.o" /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/gl/ofLight.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-r0
-
-CCompileC "/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofLog.o" /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofLog.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-r0
-
-CCompileC "/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofMaterial.o" /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/gl/ofMaterial.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-r0
-
-CCompileC "/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofMath.o" /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/math/ofMath.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-r0
-
-CCompileC "/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofMatrix3x3.o" /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/math/ofMatrix3x3.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-r0
-
-CCompileC "/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofMatrix4x4.o" /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/math/ofMatrix4x4.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-r0
-
-CCompileC "/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofMesh.o" /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/3d/ofMesh.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-r0
-
-CCompileC "/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofNode.o" /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/3d/ofNode.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-r0
-
-CCompileC "/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofPath.o" /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofPath.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-r0
-
-CCompileC "/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofPixels.o" /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofPixels.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-r0
-
-CCompileC "/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofPoint.o" /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/types/ofPoint.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-r0
-
-CCompileC "/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofPolyline.o" /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofPolyline.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-r0
-
-CCompileC "/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofQtUtils-7805BED1DF6F668C.o" /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofQtUtils.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-r0
-
-CCompileC "/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofQuaternion.o" /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/math/ofQuaternion.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-r0
-
-CCompileC "/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofQuickTimeGrabber.o" /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofQuickTimeGrabber.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-r0
-
-CCompileC "/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofQuickTimePlayer.o" /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofQuickTimePlayer.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-r0
-
-CCompileC "/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofRectangle.o" /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/types/ofRectangle.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-r0
-
-CCompileC "/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofRtAudioSoundStream.o" /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/sound/ofRtAudioSoundStream.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-r0
-
-CCompileC "/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofSerial.o" /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/communication/ofSerial.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-r0
-
-CCompileC "/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofShader.o" /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/gl/ofShader.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-r0
-
-CCompileC "/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofSoundPlayer.o" /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/sound/ofSoundPlayer.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-r0
-
-CCompileC "/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofSoundStream.o" /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/sound/ofSoundStream.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-r0
-
-CCompileC "/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofSystemUtils.o" /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofSystemUtils.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-r0
-
-CCompileC "/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofTessellator.o" /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofTessellator.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-r0
-
-CCompileC "/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofTexture.o" /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/gl/ofTexture.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-r0
-
-CCompileC "/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofThread.o" /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofThread.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-r0
-
-CCompileC "/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofTrueTypeFont.o" /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofTrueTypeFont.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-r0
-
-CCompileC "/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofURLFileLoader.o" /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofURLFileLoader.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-r0
-
-CCompileC "/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofUtils.o" /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofUtils.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-r0
-
-CCompileC "/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofVbo.o" /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/gl/ofVbo.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-r0
-
-CCompileC "/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofVboMesh.o" /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/gl/ofVboMesh.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-r0
-
-CCompileC "/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofVec2f.o" /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/math/ofVec2f.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-r0
-
-CCompileC "/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofVec4f.o" /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/math/ofVec4f.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-r0
-
-CCompileC "/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofVideoGrabber.o" /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofVideoGrabber.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-r0
-
-CCompileC "/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofVideoPlayer.o" /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofVideoPlayer.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesd3bed95c55f9b441^7fa6da5c55f9b441^---0#1#0#--18"Check dependencies36"26C99980-3228-4469-92D5-21A5171FF459-
 
 CCompileC /Users/meR/Documents/Of/apps/spacial_media_radio/radio_1/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/of3dUtils.o /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/3d/of3dUtils.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
 s351884279.675295
@@ -2801,8 +2420,8 @@ oclang: warning: -lpthread: 'linker' input unused when '-c' is present
 lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection119"Compile /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofVideoPlayer.cpp61ffddf353f9b441^5e69b9f753f9b441^-70"clang: warning: -lpthread: 'linker' input unused when '-c' is present-0#0#0#-19%DVTDocumentLocation2@127"file://localhost/Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofVideoPlayer.cpp0000000000000000^3360"CompileC /Users/meR/Documents/Of/apps/spacial_media_radio/radio_1/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofVideoPlayer.o ../../../openFrameworks/video/ofVideoPlayer.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wno-newline-eof -Wc++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -Wno-deprecated-declarations -Wno-invalid-offsetof -mmacosx-version-min=10.6 -g -mssse3 -Wno-conversion -Wno-sign-conversion -I/Users/meR/Documents/Of/apps/spacial_media_radio/radio_1/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/openFrameworksDebug.hmap -I/Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../lib/osx/include -I../../../../libs/openFrameworks -I../../../../libs/openFrameworks/3d -I../../../../libs/openFrameworks/app -I../../../../libs/openFrameworks/communication -I../../../../libs/openFrameworks/events -I../../../../libs/openFrameworks/gl -I../../../../libs/openFrameworks/graphics -I../../../../libs/openFrameworks/math -I../../../../libs/openFrameworks/sound -I../../../../libs/openFrameworks/types -I../../../../libs/openFrameworks/utils -I../../../../libs/openFrameworks/video -I../../../../libs/poco/include -I../../../../libs/freetype/include -I../../../../libs/freetype/include/freetype2 -I../../../../libs/fmodex/include -I../../../../libs/glew/include -I../../../../libs/FreeImage/include -I../../../../libs/tess2/include -I../../../../libs/cairo/include/cairo -I../../../../libs/rtaudio/include -I/Users/meR/Documents/Of/apps/spacial_media_radio/radio_1/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/DerivedSources/i386 -I/Users/meR/Documents/Of/apps/spacial_media_radio/radio_1/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/DerivedSources -F/Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../lib/osx -D__MACOSX_CORE__ -lpthread -MMD -MT dependencies -MF /Users/meR/Documents/Of/apps/spacial_media_radio/radio_1/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofVideoPlayer.d --serialize-diagnostics /Users/meR/Documents/Of/apps/spacial_media_radio/radio_1/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofVideoPlayer.dia -c /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofVideoPlayer.cpp -o /Users/meR/Documents/Of/apps/spacial_media_radio/radio_1/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofVideoPlayer.o36"64DB1E55-ABDC-409D-A4D9-A4FE0D951C74-
 
 CLibtool /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../lib/osx/openFrameworksDebug.a normal i386
-s352063679.286402
-e352063683.449725
+s351884293.374147
+e351884294.408700
 r1
 xLibtool
 x/Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../lib/osx/openFrameworksDebug.a
@@ -2814,12 +2433,12 @@ o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/
 o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: warning same member name (ErrorHandler.o) in output file used for input files: ../../../../libs/poco/lib/osx/PocoXML.a(ErrorHandler.o) and: ../../../../libs/poco/lib/osx/PocoFoundation.a(ErrorHandler.o) due to use of basename, truncation and blank padding
 o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: warning same member name (Event.o) in output file used for input files: ../../../../libs/poco/lib/osx/PocoXML.a(Event.o) and: ../../../../libs/poco/lib/osx/PocoFoundation.a(Event.o) due to use of basename, truncation and blank padding
 o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: warning same member name (Timer.o) in output file used for input files: ../../../../libs/poco/lib/osx/PocoFoundation.a(Timer.o) and: ../../../../libs/poco/lib/osx/PocoUtil.a(Timer.o) due to use of basename, truncation and blank padding
-o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: warning same member name (ofQtUtils-7805BED1DF6F668C.o) in output file used for input files: /Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofQtUtils-7805BED1DF6F668C.o and: /Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofQtUtils-7805BED1DF6F668C.o (due to use of basename, truncation, blank padding or duplicate input files)
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: warning same member name (ofQtUtils-7805BED1DF6F668C.o) in output file used for input files: /Users/meR/Documents/Of/apps/spacial_media_radio/radio_1/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofQtUtils-7805BED1DF6F668C.o and: /Users/meR/Documents/Of/apps/spacial_media_radio/radio_1/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofQtUtils-7805BED1DF6F668C.o (due to use of basename, truncation, blank padding or duplicate input files)
 o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: ../../../../libs/poco/lib/osx/PocoFoundation.a(ByteOrder.o) has no symbols
 o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: ../../../../libs/poco/lib/osx/PocoFoundation.a(String.o) has no symbols
 o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: ../../../../libs/poco/lib/osx/PocoXML.a(XMLString.o) has no symbols
 o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: ../../../../libs/FreeImage/lib/osx/freeimage.a(FreeImageC.o-i386) has no symbols
 o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: ../../../../libs/FreeImage/lib/osx/freeimage.a(libmng_chunk_xs.o-i386) has no symbols
 o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: ../../../../libs/FreeImage/lib/osx/freeimage.a(libmng_trace.o-i386) has no symbols
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Libtool ../../lib/osx/openFrameworksDebug.a normal i386546f49bf10fcb441^d52173c310fcb441^---0#0#0#--1449"Libtool ../../lib/osx/openFrameworksDebug.a normal i386    cd /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only i386 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk -L/Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../lib/osx -filelist "/Users/meR/Documents/Of/apps/spacial_media_radio/radio_lia _from_xml/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/openFrameworksDebug.LinkFileList" ../../../../libs/poco/lib/osx/PocoFoundation.a ../../../../libs/poco/lib/osx/PocoNet.a ../../../../libs/poco/lib/osx/PocoXML.a ../../../../libs/poco/lib/osx/PocoUtil.a ../../../../libs/tess2/lib/osx/tess2.a ../../../../libs/glew/lib/osx/glew.a ../../../../libs/FreeImage/lib/osx/freeimage.a ../../../../libs/freetype/lib/osx/freetype.a ../../../../libs/glut/lib/osx/GLUT.framework/Versions/A/GLUT ../../../../libs/fmodex/lib/osx/libfmodex.dylib -framework AGL -framework ApplicationServices -framework AudioToolbox -framework Carbon -framework CoreAudio -framework CoreFoundation -framework CoreServices -framework OpenGL -framework QuickTime -framework GLUT -o /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../lib/osx/openFrameworksDebug.a36"9BAB9F31-9696-4707-BBD9-E83734BD8514-
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Libtool ../../lib/osx/openFrameworksDebug.a normal i38602d95f0554f9b441^cfa1680654f9b441^---0#0#0#--1435"Libtool ../../lib/osx/openFrameworksDebug.a normal i386    cd /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only i386 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk -L/Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../lib/osx -filelist /Users/meR/Documents/Of/apps/spacial_media_radio/radio_1/Build/Intermediates/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/openFrameworksDebug.LinkFileList ../../../../libs/poco/lib/osx/PocoFoundation.a ../../../../libs/poco/lib/osx/PocoNet.a ../../../../libs/poco/lib/osx/PocoXML.a ../../../../libs/poco/lib/osx/PocoUtil.a ../../../../libs/tess2/lib/osx/tess2.a ../../../../libs/glew/lib/osx/glew.a ../../../../libs/FreeImage/lib/osx/freeimage.a ../../../../libs/freetype/lib/osx/freetype.a ../../../../libs/glut/lib/osx/GLUT.framework/Versions/A/GLUT ../../../../libs/fmodex/lib/osx/libfmodex.dylib -framework AGL -framework ApplicationServices -framework AudioToolbox -framework Carbon -framework CoreAudio -framework CoreFoundation -framework CoreServices -framework OpenGL -framework QuickTime -framework GLUT -o /Users/meR/Documents/Of/libs/openFrameworksCompiled/project/osx/../../lib/osx/openFrameworksDebug.a36"61B29A2F-5D36-45DA-8760-0EFAB943BCCD-
 

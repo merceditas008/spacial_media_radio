@@ -6,7 +6,7 @@ void testApp::setup(){
     ofBackground(190, 220, 230 );
 
     
-    vlc.setup("/Users/meR   /vlc.sock"); 
+    vlc.setup("/Users/meR/vlc.sock"); 
      
     
     int yLoc = ofGetScreenHeight()/2;
