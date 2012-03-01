@@ -23,7 +23,7 @@ class testApp : public ofBaseApp{
 		void dragEvent(ofDragInfo dragInfo);
 		void gotMessage(ofMessage msg);
     
-        City cities[129]; 
+        City cities[3]; 
         ofPoint mouseLoc; 
     
         //vlc

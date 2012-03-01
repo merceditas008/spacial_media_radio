@@ -71,6 +71,8 @@ public:
 	ofEvent<TuioObject> objectUpdated;
 	
 	TuioClient * client;
+    
+    ofVec2f returnCursor(); 
 	
 protected:
 	bool bVerbose, bIsConnected;

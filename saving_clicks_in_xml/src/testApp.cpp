@@ -54,12 +54,9 @@ void testApp::mousePressed(int x, int y, int button){
 		int tagNum = XML.addTag("PT");
         XML.setValue("PT:city ", tagNum, tagNum);
 		XML.setValue("PT:X", x, tagNum);
-        printf("%i x \n", x);
 		XML.setValue("PT:Y", y, tagNum);
-        printf("%i y \n", y);
-        
         tagNum++;
-       // printf("%i", tagNum);
+        printf("%i", tagNum);
 }
 
 //--------------------------------------------------------------

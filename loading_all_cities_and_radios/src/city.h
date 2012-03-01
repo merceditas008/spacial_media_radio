@@ -17,35 +17,25 @@ class City {
 
     public:
     City ();
-<<<<<<< HEAD
     ofVec2f loc; 
-=======
-    ofPoint loc; 
->>>>>>> upstream/master
     string station;
     string name;
     
     void adjustVol(); 
     void display(); 
-<<<<<<< HEAD
     ofPoint getLocation(); 
     
-=======
->>>>>>> upstream/master
     void play(); 
     bool isNear; 
     bool isPlaying; 
     
     int volume; 
     
-<<<<<<< HEAD
     float scaleFactor; 
     float scaleTotalX, scaleTotalY; 
     float degreesFactor; 
     int gridX, gridY; 
     
-=======
->>>>>>> upstream/master
 
 };
 

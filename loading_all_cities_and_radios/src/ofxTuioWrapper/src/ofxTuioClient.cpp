@@ -61,12 +61,49 @@ void ofxTuioClient::drawCursors(){
 			ofEllipse(cur->getX()*ofGetWidth(), cur->getY()*ofGetHeight(), 10.0, 10.0);
 			string str = "SessionId: "+ofToString((int)(cur->getSessionID()));
 			ofDrawBitmapString(str, cur->getX()*ofGetWidth()-10.0, cur->getY()*ofGetHeight()+25.0);
+        cout << "INSIDE FUNCTION " << cur->getX()*ofGetWidth() << endl; 
 			str = "CursorId: "+ofToString((int)(cur->getCursorID()));
 			ofDrawBitmapString(str, cur->getX()*ofGetWidth()-10.0, cur->getY()*ofGetHeight()+40.0);
 		//}
 	}
 	client->unlockCursorList();
 }
+
+
+//----------------------------------------------------
+
+ofVec2f ofxTuioClient::returnCursor(){
+    std::list<TuioCursor*> cursorList = client->getTuioCursors();
+	std::list<TuioCursor*>::iterator tit;
+	client->lockCursorList();
+    ofVec2f ourCursor; 
+	for (tit=cursorList.begin(); tit != cursorList.end(); tit++) {
+		TuioCursor * cur = (*tit);
+		//if(tcur!=0){
+        //TuioCursor cur = *tcur;
+        glColor3f(0.0,0.0,0.0);
+        //ofEllipse(cur->getX()*ofGetWidth(), cur->getY()*ofGetHeight(), 10.0, 10.0);
+        //string str = "SessionId: "+ofToString((int)(cur->getSessionID()));
+        //ofDrawBitmapString(str, cur->getX()*ofGetWidth()-10.0, cur->getY()*ofGetHeight()+25.0);
+        //str = "CursorId: "+ofToString((int)(cur->getCursorID()));
+        //ofDrawBitmapString(str, cur->getX()*ofGetWidth()-10.0, cur->getY()*ofGetHeight()+40.0);
+		//}
+        
+        ourCursor.x = cur->getX()*ofGetWidth();
+        ourCursor.y = cur->getY()*ofGetHeight();
+	}
+	client->unlockCursorList();
+    
+    
+    return ourCursor; 
+    
+}
+
+
+
+//----------------------------------------------------
+
+
 
 void ofxTuioClient::drawObjects(){
     std::list<TuioObject*> objectList = client->getTuioObjects();

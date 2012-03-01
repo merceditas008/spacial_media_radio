@@ -8,10 +8,7 @@
 
 #include <iostream>
 #include "city.h"
-<<<<<<< HEAD
 #include "testApp.h"
-=======
->>>>>>> upstream/master
 
 using namespace std; 
 
@@ -21,21 +18,15 @@ City::City () {
 }
 
 void City::display() {
-<<<<<<< HEAD
     
 
     ofCircle( loc, 5);
 
-=======
-    ofCircle( loc, 5);
-    
->>>>>>> upstream/master
 }
 
 void City::play() {
 
 
-<<<<<<< HEAD
 }
 
 ofPoint City::getLocation () {
@@ -45,6 +36,3 @@ ofPoint City::getLocation () {
     
 }
 
-=======
-}
->>>>>>> upstream/master

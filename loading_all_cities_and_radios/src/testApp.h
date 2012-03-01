@@ -4,37 +4,38 @@
 #include "ofxVLCRemote.h"
 #include "city.h"
 #include "ofxXmlSettings.h"
+#include "ofxTuioClient.h"
 
 
 class testApp : public ofBaseApp{
-
-	public:
-		void setup();
-		void update();
-		void draw();
-
-		void keyPressed  (int key);
-		void keyReleased(int key);
-		void mouseMoved(int x, int y );
-		void mouseDragged(int x, int y, int button);
-		void mousePressed(int x, int y, int button);
-		void mouseReleased(int x, int y, int button);
-		void windowResized(int w, int h);
-		void dragEvent(ofDragInfo dragInfo);
-		void gotMessage(ofMessage msg);
     
-        City cities[129]; 
-        ofPoint mouseLoc; 
+public:
+    void setup();
+    void update();
+    void draw();
     
-        //vlc
-        ofxVLCRemote vlc; 
+    void keyPressed  (int key);
+    void keyReleased(int key);
+    void mouseMoved(int x, int y );
+    void mouseDragged(int x, int y, int button);
+    void mousePressed(int x, int y, int button);
+    void mouseReleased(int x, int y, int button);
+    void windowResized(int w, int h);
+    void dragEvent(ofDragInfo dragInfo);
+    void gotMessage(ofMessage msg);
     
-        //XML
-        ofxXmlSettings XML;
-<<<<<<< HEAD
+    City cities[129]; 
+    ofPoint mouseLoc; 
     
-        //calibration
+    //vlc
+    ofxVLCRemote vlc; 
+    
+    //XML
+    ofxXmlSettings XML;
+    
+    //calibration
     bool calibrateOn; 
+    bool rotation;
     void calibrate(); 
     void drawGrid(); 
     int gridWidth, gridHeight; 
@@ -44,14 +45,16 @@ class testApp : public ofBaseApp{
     bool buttonCornerOn; 
     ofColor active, inactive; 
     int mouseX, mouseY; 
+    ofVec2f knob; 
     
     float scaleFactor; 
-    float scaleTotalX, scaleTotalY; 
     float degreesFactor; 
     
-    ofVec3f newLoc;
-=======
->>>>>>> upstream/master
-
-    //bool playing; 
+    //tuio
+    ofxTuioClient myTuio;
+	
+	void touchDown(ofTouchEventArgs & touch);
+	void touchUp(ofTouchEventArgs & touch);
+	void touchMoved(ofTouchEventArgs & touch);
+    
 };
