@@ -7,41 +7,19 @@ void testApp::setup(){
     vlc.setup("/Users/meR/vlc.sock"); 
     
     //we load the xml file with all the data from the cities : x,y,name city, radio station
-    XML.loadFile("new_radios.xml");
+    XML.loadFile("mySettings2.xml");
     
     //we load the array with the data from our xml file
     
-    XML.pushTag("document");
-    int num_cities=XML.getNumTags("row");
-    cout <<num_cities<<endl;
-    for (int i=0; i<num_cities; i++){
-        cities[i].loc.x= XML.getValue("row:X",0,i);
-        cout <<cities[i].loc.x<<endl;
-        cities[i].loc.y= XML.getValue("row:Y",0,i);
-        cout <<cities[i].loc.y<<endl;
-        cities[i].isPlaying = false; 
-        cities[i].name= XML.getValue("row:name"," ",i);
-        cout <<cities[i].name<<endl;
-        cities[i].station= XML.getValue("row:radio"," ",i);
-        cout <<cities[i].station<<endl;
-    }
-    XML.popTag();
-    /*int num_cities=XML.getNumTags("PT:X");
-    cout <<num_cities<<endl;
+    int num_cities=XML.getNumTags("PT:X");
     for (int i=0; i<num_cities; i++){
         cities[i].loc.x= XML.getValue("PT:X",0,i);
-        cout <<cities[i].loc.x<<endl;
         cities[i].loc.y= XML.getValue("PT:Y",0,i);
-        cout <<cities[i].loc.y<<endl;
         cities[i].isPlaying = false; 
         cities[i].name= XML.getValue("PT:CITY","",i);
-        cout <<cities[i].name<<endl;
         cities[i].station= XML.getValue("PT:Radio"," ",i);
-        cout <<cities[i].station<<endl;
-        
-    }*/
-    
-
+                
+    }
 
      
     
@@ -49,7 +27,7 @@ void testApp::setup(){
 
 //--------------------------------------------------------------
 void testApp::update(){
-    for (int i = 0; i < 129; i++) {
+    for (int i = 0; i < 3; i++) {
         float d = ofDist(cities[i].loc.x, cities[i].loc.y,mouseLoc.x, mouseLoc.y); //magnitude
         d = ofClamp(d, 0, 150);
         
@@ -58,8 +36,8 @@ void testApp::update(){
             int vol = ofMap(d, 0, 15, 100, 0);
             cities[i].volume = vol; 
             string setVol = "volume " + cities[i].volume;
-            //cout << setVol << endl; 
-           // cout << cities[i].name << endl;
+            cout << setVol << endl; 
+            cout << cities[i].name << endl;
             //vlc.run(setVol);
             
             
@@ -87,7 +65,7 @@ void testApp::draw(){
     ofFill();
     //ofSetColor(200);
 	//ofSetHexColor(0xe0be21);
-    for (int i = 0; i < 129; i++) {
+    for (int i = 0; i < 3; i++) {
         if (cities[i].isNear) {
             ofSetHexColor(0xe0be21);
         } else {
