@@ -1,0 +1,853 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 42;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		BBAB23CB13894F3D00AA2426 /* GLUT.framework in CopyFiles */ = {isa = PBXBuildFile; fileRef = BBAB23BE13894E4700AA2426 /* GLUT.framework */; };
+		C817BB7214FD310B00D95D96 /* App.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C817BB6C14FD310B00D95D96 /* App.cpp */; };
+		C817BB7314FD310B00D95D96 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C817BB6E14FD310B00D95D96 /* main.cpp */; };
+		C817BB7414FD310B00D95D96 /* testApp.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C817BB7014FD310B00D95D96 /* testApp.cpp */; };
+		C8B70CAD14F6B12C00B3DAA6 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C8B70CAA14F6B12C00B3DAA6 /* main.cpp */; };
+		C8B70CAE14F6B12C00B3DAA6 /* testApp.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C8B70CAB14F6B12C00B3DAA6 /* testApp.cpp */; };
+		C8B70CB314F6B16E00B3DAA6 /* ofxTuioClient.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C8B70CAF14F6B16E00B3DAA6 /* ofxTuioClient.cpp */; };
+		C8B70CB414F6B16E00B3DAA6 /* ofxTuioServer.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C8B70CB114F6B16E00B3DAA6 /* ofxTuioServer.cpp */; };
+		C8B70CCD14F6B39000B3DAA6 /* TuioClient.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C8B70CC214F6B39000B3DAA6 /* TuioClient.cpp */; };
+		C8B70CCE14F6B39000B3DAA6 /* TuioServer.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C8B70CC914F6B39000B3DAA6 /* TuioServer.cpp */; };
+		C8B70CCF14F6B39000B3DAA6 /* TuioTime.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C8B70CCB14F6B39000B3DAA6 /* TuioTime.cpp */; };
+		C8B70E7914F6BB9F00B3DAA6 /* OscSender.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C8B70E5E14F6BB9E00B3DAA6 /* OscSender.cpp */; };
+		C8B70E7A14F6BB9F00B3DAA6 /* TcpSender.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C8B70E6014F6BB9E00B3DAA6 /* TcpSender.cpp */; };
+		C8B70E7B14F6BB9F00B3DAA6 /* TuioBlob.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C8B70E6214F6BB9E00B3DAA6 /* TuioBlob.cpp */; };
+		C8B70E7C14F6BB9F00B3DAA6 /* TuioClient.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C8B70E6414F6BB9E00B3DAA6 /* TuioClient.cpp */; };
+		C8B70E7D14F6BB9F00B3DAA6 /* TuioContainer.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C8B70E6614F6BB9E00B3DAA6 /* TuioContainer.cpp */; };
+		C8B70E7E14F6BB9F00B3DAA6 /* TuioCursor.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C8B70E6814F6BB9E00B3DAA6 /* TuioCursor.cpp */; };
+		C8B70E7F14F6BB9F00B3DAA6 /* TuioDispatcher.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C8B70E6A14F6BB9E00B3DAA6 /* TuioDispatcher.cpp */; };
+		C8B70E8014F6BB9F00B3DAA6 /* TuioManager.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C8B70E6D14F6BB9E00B3DAA6 /* TuioManager.cpp */; };
+		C8B70E8114F6BB9F00B3DAA6 /* TuioObject.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C8B70E6F14F6BB9E00B3DAA6 /* TuioObject.cpp */; };
+		C8B70E8214F6BB9F00B3DAA6 /* TuioPoint.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C8B70E7114F6BB9F00B3DAA6 /* TuioPoint.cpp */; };
+		C8B70E8314F6BB9F00B3DAA6 /* TuioServer.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C8B70E7314F6BB9F00B3DAA6 /* TuioServer.cpp */; };
+		C8B70E8414F6BB9F00B3DAA6 /* TuioTime.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C8B70E7514F6BB9F00B3DAA6 /* TuioTime.cpp */; };
+		C8B70E8514F6BB9F00B3DAA6 /* UdpSender.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C8B70E7714F6BB9F00B3DAA6 /* UdpSender.cpp */; };
+		C8B70EEE14F6BF5800B3DAA6 /* osc.a in Frameworks */ = {isa = PBXBuildFile; fileRef = C8B70EE214F6BF5800B3DAA6 /* osc.a */; };
+		C8B70EEF14F6BF5800B3DAA6 /* ofxOscBundle.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C8B70EE614F6BF5800B3DAA6 /* ofxOscBundle.cpp */; };
+		C8B70EF014F6BF5800B3DAA6 /* ofxOscMessage.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C8B70EE814F6BF5800B3DAA6 /* ofxOscMessage.cpp */; };
+		C8B70EF114F6BF5800B3DAA6 /* ofxOscReceiver.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C8B70EEA14F6BF5800B3DAA6 /* ofxOscReceiver.cpp */; };
+		C8B70EF214F6BF5800B3DAA6 /* ofxOscSender.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C8B70EEC14F6BF5800B3DAA6 /* ofxOscSender.cpp */; };
+		E4328149138ABC9F0047C5CB /* openFrameworksDebug.a in Frameworks */ = {isa = PBXBuildFile; fileRef = E4328148138ABC890047C5CB /* openFrameworksDebug.a */; };
+		E45BE97B0E8CC7DD009D7055 /* AGL.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E45BE9710E8CC7DD009D7055 /* AGL.framework */; };
+		E45BE97C0E8CC7DD009D7055 /* ApplicationServices.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E45BE9720E8CC7DD009D7055 /* ApplicationServices.framework */; };
+		E45BE97D0E8CC7DD009D7055 /* AudioToolbox.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E45BE9730E8CC7DD009D7055 /* AudioToolbox.framework */; };
+		E45BE97E0E8CC7DD009D7055 /* Carbon.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E45BE9740E8CC7DD009D7055 /* Carbon.framework */; };
+		E45BE97F0E8CC7DD009D7055 /* CoreAudio.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E45BE9750E8CC7DD009D7055 /* CoreAudio.framework */; };
+		E45BE9800E8CC7DD009D7055 /* CoreFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E45BE9760E8CC7DD009D7055 /* CoreFoundation.framework */; };
+		E45BE9810E8CC7DD009D7055 /* CoreServices.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E45BE9770E8CC7DD009D7055 /* CoreServices.framework */; };
+		E45BE9830E8CC7DD009D7055 /* OpenGL.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E45BE9790E8CC7DD009D7055 /* OpenGL.framework */; };
+		E45BE9840E8CC7DD009D7055 /* QuickTime.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E45BE97A0E8CC7DD009D7055 /* QuickTime.framework */; };
+		E4C2424710CC5A17004149E2 /* AppKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E4C2424410CC5A17004149E2 /* AppKit.framework */; };
+		E4C2424810CC5A17004149E2 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E4C2424510CC5A17004149E2 /* Cocoa.framework */; };
+		E4C2424910CC5A17004149E2 /* IOKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E4C2424610CC5A17004149E2 /* IOKit.framework */; };
+		E4EB6799138ADC1D00A09F29 /* GLUT.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBAB23BE13894E4700AA2426 /* GLUT.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		E4328147138ABC890047C5CB /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = E4328143138ABC890047C5CB /* openFrameworksLib.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = E4B27C1510CBEB8E00536013;
+			remoteInfo = openFrameworks;
+		};
+		E4EEB9AB138B136A00A80321 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = E4328143138ABC890047C5CB /* openFrameworksLib.xcodeproj */;
+			proxyType = 1;
+			remoteGlobalIDString = E4B27C1410CBEB8E00536013;
+			remoteInfo = openFrameworks;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		E4C2427710CC5ABF004149E2 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 10;
+			files = (
+				BBAB23CB13894F3D00AA2426 /* GLUT.framework in CopyFiles */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		BBAB23BE13894E4700AA2426 /* GLUT.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GLUT.framework; path = ../../../libs/glut/lib/osx/GLUT.framework; sourceTree = "<group>"; };
+		C817BB6C14FD310B00D95D96 /* App.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = App.cpp; sourceTree = "<group>"; };
+		C817BB6D14FD310B00D95D96 /* App.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = App.h; sourceTree = "<group>"; };
+		C817BB6E14FD310B00D95D96 /* main.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		C817BB6F14FD310B00D95D96 /* Particles.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Particles.h; sourceTree = "<group>"; };
+		C817BB7014FD310B00D95D96 /* testApp.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = testApp.cpp; sourceTree = "<group>"; };
+		C817BB7114FD310B00D95D96 /* testApp.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = testApp.h; sourceTree = "<group>"; };
+		C8B70CAA14F6B12C00B3DAA6 /* main.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = main.cpp; path = ../../../../addons/ofxTuioWrapper/example/src/main.cpp; sourceTree = "<group>"; };
+		C8B70CAB14F6B12C00B3DAA6 /* testApp.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = testApp.cpp; path = ../../../../addons/ofxTuioWrapper/example/src/testApp.cpp; sourceTree = "<group>"; };
+		C8B70CAC14F6B12C00B3DAA6 /* testApp.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = testApp.h; path = ../../../../addons/ofxTuioWrapper/example/src/testApp.h; sourceTree = "<group>"; };
+		C8B70CAF14F6B16E00B3DAA6 /* ofxTuioClient.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = ofxTuioClient.cpp; sourceTree = "<group>"; };
+		C8B70CB014F6B16E00B3DAA6 /* ofxTuioClient.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ofxTuioClient.h; sourceTree = "<group>"; };
+		C8B70CB114F6B16E00B3DAA6 /* ofxTuioServer.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = ofxTuioServer.cpp; sourceTree = "<group>"; };
+		C8B70CB214F6B16E00B3DAA6 /* ofxTuioServer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ofxTuioServer.h; sourceTree = "<group>"; };
+		C8B70CC114F6B39000B3DAA6 /* Doxyfile */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Doxyfile; sourceTree = "<group>"; };
+		C8B70CC214F6B39000B3DAA6 /* TuioClient.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = TuioClient.cpp; sourceTree = "<group>"; };
+		C8B70CC314F6B39000B3DAA6 /* TuioClient.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TuioClient.h; sourceTree = "<group>"; };
+		C8B70CC414F6B39000B3DAA6 /* TuioContainer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TuioContainer.h; sourceTree = "<group>"; };
+		C8B70CC514F6B39000B3DAA6 /* TuioCursor.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TuioCursor.h; sourceTree = "<group>"; };
+		C8B70CC614F6B39000B3DAA6 /* TuioListener.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TuioListener.h; sourceTree = "<group>"; };
+		C8B70CC714F6B39000B3DAA6 /* TuioObject.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TuioObject.h; sourceTree = "<group>"; };
+		C8B70CC814F6B39000B3DAA6 /* TuioPoint.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TuioPoint.h; sourceTree = "<group>"; };
+		C8B70CC914F6B39000B3DAA6 /* TuioServer.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = TuioServer.cpp; sourceTree = "<group>"; };
+		C8B70CCA14F6B39000B3DAA6 /* TuioServer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TuioServer.h; sourceTree = "<group>"; };
+		C8B70CCB14F6B39000B3DAA6 /* TuioTime.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = TuioTime.cpp; sourceTree = "<group>"; };
+		C8B70CCC14F6B39000B3DAA6 /* TuioTime.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TuioTime.h; sourceTree = "<group>"; };
+		C8B70E5D14F6BB9E00B3DAA6 /* LibExport.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = LibExport.h; path = ../../TUIO/LibExport.h; sourceTree = "<group>"; };
+		C8B70E5E14F6BB9E00B3DAA6 /* OscSender.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = OscSender.cpp; path = ../../TUIO/OscSender.cpp; sourceTree = "<group>"; };
+		C8B70E5F14F6BB9E00B3DAA6 /* OscSender.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = OscSender.h; path = ../../TUIO/OscSender.h; sourceTree = "<group>"; };
+		C8B70E6014F6BB9E00B3DAA6 /* TcpSender.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = TcpSender.cpp; path = ../../TUIO/TcpSender.cpp; sourceTree = "<group>"; };
+		C8B70E6114F6BB9E00B3DAA6 /* TcpSender.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = TcpSender.h; path = ../../TUIO/TcpSender.h; sourceTree = "<group>"; };
+		C8B70E6214F6BB9E00B3DAA6 /* TuioBlob.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = TuioBlob.cpp; path = ../../TUIO/TuioBlob.cpp; sourceTree = "<group>"; };
+		C8B70E6314F6BB9E00B3DAA6 /* TuioBlob.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = TuioBlob.h; path = ../../TUIO/TuioBlob.h; sourceTree = "<group>"; };
+		C8B70E6414F6BB9E00B3DAA6 /* TuioClient.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = TuioClient.cpp; path = ../../TUIO/TuioClient.cpp; sourceTree = "<group>"; };
+		C8B70E6514F6BB9E00B3DAA6 /* TuioClient.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = TuioClient.h; path = ../../TUIO/TuioClient.h; sourceTree = "<group>"; };
+		C8B70E6614F6BB9E00B3DAA6 /* TuioContainer.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = TuioContainer.cpp; path = ../../TUIO/TuioContainer.cpp; sourceTree = "<group>"; };
+		C8B70E6714F6BB9E00B3DAA6 /* TuioContainer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = TuioContainer.h; path = ../../TUIO/TuioContainer.h; sourceTree = "<group>"; };
+		C8B70E6814F6BB9E00B3DAA6 /* TuioCursor.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = TuioCursor.cpp; path = ../../TUIO/TuioCursor.cpp; sourceTree = "<group>"; };
+		C8B70E6914F6BB9E00B3DAA6 /* TuioCursor.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = TuioCursor.h; path = ../../TUIO/TuioCursor.h; sourceTree = "<group>"; };
+		C8B70E6A14F6BB9E00B3DAA6 /* TuioDispatcher.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = TuioDispatcher.cpp; path = ../../TUIO/TuioDispatcher.cpp; sourceTree = "<group>"; };
+		C8B70E6B14F6BB9E00B3DAA6 /* TuioDispatcher.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = TuioDispatcher.h; path = ../../TUIO/TuioDispatcher.h; sourceTree = "<group>"; };
+		C8B70E6C14F6BB9E00B3DAA6 /* TuioListener.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = TuioListener.h; path = ../../TUIO/TuioListener.h; sourceTree = "<group>"; };
+		C8B70E6D14F6BB9E00B3DAA6 /* TuioManager.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = TuioManager.cpp; path = ../../TUIO/TuioManager.cpp; sourceTree = "<group>"; };
+		C8B70E6E14F6BB9E00B3DAA6 /* TuioManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = TuioManager.h; path = ../../TUIO/TuioManager.h; sourceTree = "<group>"; };
+		C8B70E6F14F6BB9E00B3DAA6 /* TuioObject.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = TuioObject.cpp; path = ../../TUIO/TuioObject.cpp; sourceTree = "<group>"; };
+		C8B70E7014F6BB9F00B3DAA6 /* TuioObject.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = TuioObject.h; path = ../../TUIO/TuioObject.h; sourceTree = "<group>"; };
+		C8B70E7114F6BB9F00B3DAA6 /* TuioPoint.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = TuioPoint.cpp; path = ../../TUIO/TuioPoint.cpp; sourceTree = "<group>"; };
+		C8B70E7214F6BB9F00B3DAA6 /* TuioPoint.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = TuioPoint.h; path = ../../TUIO/TuioPoint.h; sourceTree = "<group>"; };
+		C8B70E7314F6BB9F00B3DAA6 /* TuioServer.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = TuioServer.cpp; path = ../../TUIO/TuioServer.cpp; sourceTree = "<group>"; };
+		C8B70E7414F6BB9F00B3DAA6 /* TuioServer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = TuioServer.h; path = ../../TUIO/TuioServer.h; sourceTree = "<group>"; };
+		C8B70E7514F6BB9F00B3DAA6 /* TuioTime.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = TuioTime.cpp; path = ../../TUIO/TuioTime.cpp; sourceTree = "<group>"; };
+		C8B70E7614F6BB9F00B3DAA6 /* TuioTime.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = TuioTime.h; path = ../../TUIO/TuioTime.h; sourceTree = "<group>"; };
+		C8B70E7714F6BB9F00B3DAA6 /* UdpSender.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = UdpSender.cpp; path = ../../TUIO/UdpSender.cpp; sourceTree = "<group>"; };
+		C8B70E7814F6BB9F00B3DAA6 /* UdpSender.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = UdpSender.h; path = ../../TUIO/UdpSender.h; sourceTree = "<group>"; };
+		C8B70ECD14F6BF5800B3DAA6 /* install.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = install.xml; sourceTree = "<group>"; };
+		C8B70ED214F6BF5800B3DAA6 /* IpEndpointName.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IpEndpointName.h; sourceTree = "<group>"; };
+		C8B70ED314F6BF5800B3DAA6 /* NetworkingUtils.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NetworkingUtils.h; sourceTree = "<group>"; };
+		C8B70ED414F6BF5800B3DAA6 /* PacketListener.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PacketListener.h; sourceTree = "<group>"; };
+		C8B70ED514F6BF5800B3DAA6 /* TimerListener.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TimerListener.h; sourceTree = "<group>"; };
+		C8B70ED614F6BF5800B3DAA6 /* UdpSocket.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UdpSocket.h; sourceTree = "<group>"; };
+		C8B70ED814F6BF5800B3DAA6 /* MessageMappingOscPacketListener.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MessageMappingOscPacketListener.h; sourceTree = "<group>"; };
+		C8B70ED914F6BF5800B3DAA6 /* OscException.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OscException.h; sourceTree = "<group>"; };
+		C8B70EDA14F6BF5800B3DAA6 /* OscHostEndianness.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OscHostEndianness.h; sourceTree = "<group>"; };
+		C8B70EDB14F6BF5800B3DAA6 /* OscOutboundPacketStream.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OscOutboundPacketStream.h; sourceTree = "<group>"; };
+		C8B70EDC14F6BF5800B3DAA6 /* OscPacketListener.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OscPacketListener.h; sourceTree = "<group>"; };
+		C8B70EDD14F6BF5800B3DAA6 /* OscPrintReceivedElements.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OscPrintReceivedElements.h; sourceTree = "<group>"; };
+		C8B70EDE14F6BF5800B3DAA6 /* OscReceivedElements.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OscReceivedElements.h; sourceTree = "<group>"; };
+		C8B70EDF14F6BF5800B3DAA6 /* OscTypes.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OscTypes.h; sourceTree = "<group>"; };
+		C8B70EE214F6BF5800B3DAA6 /* osc.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = osc.a; sourceTree = "<group>"; };
+		C8B70EE414F6BF5800B3DAA6 /* ofxOsc.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ofxOsc.h; sourceTree = "<group>"; };
+		C8B70EE514F6BF5800B3DAA6 /* ofxOscArg.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ofxOscArg.h; sourceTree = "<group>"; };
+		C8B70EE614F6BF5800B3DAA6 /* ofxOscBundle.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = ofxOscBundle.cpp; sourceTree = "<group>"; };
+		C8B70EE714F6BF5800B3DAA6 /* ofxOscBundle.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ofxOscBundle.h; sourceTree = "<group>"; };
+		C8B70EE814F6BF5800B3DAA6 /* ofxOscMessage.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = ofxOscMessage.cpp; sourceTree = "<group>"; };
+		C8B70EE914F6BF5800B3DAA6 /* ofxOscMessage.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ofxOscMessage.h; sourceTree = "<group>"; };
+		C8B70EEA14F6BF5800B3DAA6 /* ofxOscReceiver.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = ofxOscReceiver.cpp; sourceTree = "<group>"; };
+		C8B70EEB14F6BF5800B3DAA6 /* ofxOscReceiver.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ofxOscReceiver.h; sourceTree = "<group>"; };
+		C8B70EEC14F6BF5800B3DAA6 /* ofxOscSender.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = ofxOscSender.cpp; sourceTree = "<group>"; };
+		C8B70EED14F6BF5800B3DAA6 /* ofxOscSender.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ofxOscSender.h; sourceTree = "<group>"; };
+		E4328143138ABC890047C5CB /* openFrameworksLib.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = openFrameworksLib.xcodeproj; path = ../../../libs/openFrameworksCompiled/project/osx/openFrameworksLib.xcodeproj; sourceTree = SOURCE_ROOT; };
+		E45BE9710E8CC7DD009D7055 /* AGL.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AGL.framework; path = /System/Library/Frameworks/AGL.framework; sourceTree = "<absolute>"; };
+		E45BE9720E8CC7DD009D7055 /* ApplicationServices.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = ApplicationServices.framework; path = /System/Library/Frameworks/ApplicationServices.framework; sourceTree = "<absolute>"; };
+		E45BE9730E8CC7DD009D7055 /* AudioToolbox.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AudioToolbox.framework; path = /System/Library/Frameworks/AudioToolbox.framework; sourceTree = "<absolute>"; };
+		E45BE9740E8CC7DD009D7055 /* Carbon.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Carbon.framework; path = /System/Library/Frameworks/Carbon.framework; sourceTree = "<absolute>"; };
+		E45BE9750E8CC7DD009D7055 /* CoreAudio.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreAudio.framework; path = /System/Library/Frameworks/CoreAudio.framework; sourceTree = "<absolute>"; };
+		E45BE9760E8CC7DD009D7055 /* CoreFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreFoundation.framework; path = /System/Library/Frameworks/CoreFoundation.framework; sourceTree = "<absolute>"; };
+		E45BE9770E8CC7DD009D7055 /* CoreServices.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreServices.framework; path = /System/Library/Frameworks/CoreServices.framework; sourceTree = "<absolute>"; };
+		E45BE9790E8CC7DD009D7055 /* OpenGL.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = OpenGL.framework; path = /System/Library/Frameworks/OpenGL.framework; sourceTree = "<absolute>"; };
+		E45BE97A0E8CC7DD009D7055 /* QuickTime.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuickTime.framework; path = /System/Library/Frameworks/QuickTime.framework; sourceTree = "<absolute>"; };
+		E4B69B5B0A3A1756003C02F2 /* emptyExampleDebug.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = emptyExampleDebug.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		E4B6FCAD0C3E899E008CF71C /* openFrameworks-Info.plist */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = text.plist.xml; path = "openFrameworks-Info.plist"; sourceTree = "<group>"; };
+		E4C2424410CC5A17004149E2 /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = /System/Library/Frameworks/AppKit.framework; sourceTree = "<absolute>"; };
+		E4C2424510CC5A17004149E2 /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = /System/Library/Frameworks/Cocoa.framework; sourceTree = "<absolute>"; };
+		E4C2424610CC5A17004149E2 /* IOKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = IOKit.framework; path = /System/Library/Frameworks/IOKit.framework; sourceTree = "<absolute>"; };
+		E4EB691F138AFCF100A09F29 /* CoreOF.xcconfig */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xcconfig; name = CoreOF.xcconfig; path = ../../../libs/openFrameworksCompiled/project/osx/CoreOF.xcconfig; sourceTree = SOURCE_ROOT; };
+		E4EB6923138AFD0F00A09F29 /* Project.xcconfig */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xcconfig; path = Project.xcconfig; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		E4B69B590A3A1756003C02F2 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E4EB6799138ADC1D00A09F29 /* GLUT.framework in Frameworks */,
+				E4328149138ABC9F0047C5CB /* openFrameworksDebug.a in Frameworks */,
+				E45BE97B0E8CC7DD009D7055 /* AGL.framework in Frameworks */,
+				E45BE97C0E8CC7DD009D7055 /* ApplicationServices.framework in Frameworks */,
+				E45BE97D0E8CC7DD009D7055 /* AudioToolbox.framework in Frameworks */,
+				E45BE97E0E8CC7DD009D7055 /* Carbon.framework in Frameworks */,
+				E45BE97F0E8CC7DD009D7055 /* CoreAudio.framework in Frameworks */,
+				E45BE9800E8CC7DD009D7055 /* CoreFoundation.framework in Frameworks */,
+				E45BE9810E8CC7DD009D7055 /* CoreServices.framework in Frameworks */,
+				E45BE9830E8CC7DD009D7055 /* OpenGL.framework in Frameworks */,
+				E45BE9840E8CC7DD009D7055 /* QuickTime.framework in Frameworks */,
+				E4C2424710CC5A17004149E2 /* AppKit.framework in Frameworks */,
+				E4C2424810CC5A17004149E2 /* Cocoa.framework in Frameworks */,
+				E4C2424910CC5A17004149E2 /* IOKit.framework in Frameworks */,
+				C8B70EEE14F6BF5800B3DAA6 /* osc.a in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		BB4B014C10F69532006C3DED /* addons */ = {
+			isa = PBXGroup;
+			children = (
+				C8B70C9714F6B11B00B3DAA6 /* ofxTuioWrapper */,
+			);
+			name = addons;
+			sourceTree = "<group>";
+		};
+		BBAB23C913894ECA00AA2426 /* system frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				E4C2424410CC5A17004149E2 /* AppKit.framework */,
+				E4C2424510CC5A17004149E2 /* Cocoa.framework */,
+				E4C2424610CC5A17004149E2 /* IOKit.framework */,
+				E45BE9710E8CC7DD009D7055 /* AGL.framework */,
+				E45BE9720E8CC7DD009D7055 /* ApplicationServices.framework */,
+				E45BE9730E8CC7DD009D7055 /* AudioToolbox.framework */,
+				E45BE9740E8CC7DD009D7055 /* Carbon.framework */,
+				E45BE9750E8CC7DD009D7055 /* CoreAudio.framework */,
+				E45BE9760E8CC7DD009D7055 /* CoreFoundation.framework */,
+				E45BE9770E8CC7DD009D7055 /* CoreServices.framework */,
+				E45BE9790E8CC7DD009D7055 /* OpenGL.framework */,
+				E45BE97A0E8CC7DD009D7055 /* QuickTime.framework */,
+			);
+			name = "system frameworks";
+			sourceTree = "<group>";
+		};
+		BBAB23CA13894EDB00AA2426 /* 3rd party frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				BBAB23BE13894E4700AA2426 /* GLUT.framework */,
+			);
+			name = "3rd party frameworks";
+			sourceTree = "<group>";
+		};
+		C8B70C9714F6B11B00B3DAA6 /* ofxTuioWrapper */ = {
+			isa = PBXGroup;
+			children = (
+				C8B70CA014F6B11B00B3DAA6 /* src */,
+			);
+			name = ofxTuioWrapper;
+			path = ../../../addons/ofxTuioWrapper;
+			sourceTree = "<group>";
+		};
+		C8B70CA014F6B11B00B3DAA6 /* src */ = {
+			isa = PBXGroup;
+			children = (
+				C8B70CAF14F6B16E00B3DAA6 /* ofxTuioClient.cpp */,
+				C8B70CB014F6B16E00B3DAA6 /* ofxTuioClient.h */,
+				C8B70CB114F6B16E00B3DAA6 /* ofxTuioServer.cpp */,
+				C8B70CB214F6B16E00B3DAA6 /* ofxTuioServer.h */,
+			);
+			path = src;
+			sourceTree = "<group>";
+		};
+		C8B70CC014F6B39000B3DAA6 /* TUIO */ = {
+			isa = PBXGroup;
+			children = (
+				C8B70E5D14F6BB9E00B3DAA6 /* LibExport.h */,
+				C8B70E5E14F6BB9E00B3DAA6 /* OscSender.cpp */,
+				C8B70E5F14F6BB9E00B3DAA6 /* OscSender.h */,
+				C8B70E6014F6BB9E00B3DAA6 /* TcpSender.cpp */,
+				C8B70E6114F6BB9E00B3DAA6 /* TcpSender.h */,
+				C8B70E6214F6BB9E00B3DAA6 /* TuioBlob.cpp */,
+				C8B70E6314F6BB9E00B3DAA6 /* TuioBlob.h */,
+				C8B70E6414F6BB9E00B3DAA6 /* TuioClient.cpp */,
+				C8B70E6514F6BB9E00B3DAA6 /* TuioClient.h */,
+				C8B70E6614F6BB9E00B3DAA6 /* TuioContainer.cpp */,
+				C8B70E6714F6BB9E00B3DAA6 /* TuioContainer.h */,
+				C8B70E6814F6BB9E00B3DAA6 /* TuioCursor.cpp */,
+				C8B70E6914F6BB9E00B3DAA6 /* TuioCursor.h */,
+				C8B70E6A14F6BB9E00B3DAA6 /* TuioDispatcher.cpp */,
+				C8B70E6B14F6BB9E00B3DAA6 /* TuioDispatcher.h */,
+				C8B70E6C14F6BB9E00B3DAA6 /* TuioListener.h */,
+				C8B70E6D14F6BB9E00B3DAA6 /* TuioManager.cpp */,
+				C8B70E6E14F6BB9E00B3DAA6 /* TuioManager.h */,
+				C8B70E6F14F6BB9E00B3DAA6 /* TuioObject.cpp */,
+				C8B70E7014F6BB9F00B3DAA6 /* TuioObject.h */,
+				C8B70E7114F6BB9F00B3DAA6 /* TuioPoint.cpp */,
+				C8B70E7214F6BB9F00B3DAA6 /* TuioPoint.h */,
+				C8B70E7314F6BB9F00B3DAA6 /* TuioServer.cpp */,
+				C8B70E7414F6BB9F00B3DAA6 /* TuioServer.h */,
+				C8B70E7514F6BB9F00B3DAA6 /* TuioTime.cpp */,
+				C8B70E7614F6BB9F00B3DAA6 /* TuioTime.h */,
+				C8B70E7714F6BB9F00B3DAA6 /* UdpSender.cpp */,
+				C8B70E7814F6BB9F00B3DAA6 /* UdpSender.h */,
+				C8B70CC114F6B39000B3DAA6 /* Doxyfile */,
+				C8B70CC214F6B39000B3DAA6 /* TuioClient.cpp */,
+				C8B70CC314F6B39000B3DAA6 /* TuioClient.h */,
+				C8B70CC414F6B39000B3DAA6 /* TuioContainer.h */,
+				C8B70CC514F6B39000B3DAA6 /* TuioCursor.h */,
+				C8B70CC614F6B39000B3DAA6 /* TuioListener.h */,
+				C8B70CC714F6B39000B3DAA6 /* TuioObject.h */,
+				C8B70CC814F6B39000B3DAA6 /* TuioPoint.h */,
+				C8B70CC914F6B39000B3DAA6 /* TuioServer.cpp */,
+				C8B70CCA14F6B39000B3DAA6 /* TuioServer.h */,
+				C8B70CCB14F6B39000B3DAA6 /* TuioTime.cpp */,
+				C8B70CCC14F6B39000B3DAA6 /* TuioTime.h */,
+			);
+			name = TUIO;
+			path = ../../../../../../Downloads/TUIO_CPP/TUIO;
+			sourceTree = "<group>";
+		};
+		C8B70ECC14F6BF5800B3DAA6 /* ofxOsc */ = {
+			isa = PBXGroup;
+			children = (
+				C8B70ECD14F6BF5800B3DAA6 /* install.xml */,
+				C8B70ECE14F6BF5800B3DAA6 /* libs */,
+				C8B70EE314F6BF5800B3DAA6 /* src */,
+			);
+			name = ofxOsc;
+			path = ../../../../addons/ofxOsc;
+			sourceTree = "<group>";
+		};
+		C8B70ECE14F6BF5800B3DAA6 /* libs */ = {
+			isa = PBXGroup;
+			children = (
+				C8B70ECF14F6BF5800B3DAA6 /* oscpack */,
+			);
+			path = libs;
+			sourceTree = "<group>";
+		};
+		C8B70ECF14F6BF5800B3DAA6 /* oscpack */ = {
+			isa = PBXGroup;
+			children = (
+				C8B70ED014F6BF5800B3DAA6 /* include */,
+				C8B70EE014F6BF5800B3DAA6 /* lib */,
+			);
+			path = oscpack;
+			sourceTree = "<group>";
+		};
+		C8B70ED014F6BF5800B3DAA6 /* include */ = {
+			isa = PBXGroup;
+			children = (
+				C8B70ED114F6BF5800B3DAA6 /* ip */,
+				C8B70ED714F6BF5800B3DAA6 /* osc */,
+			);
+			path = include;
+			sourceTree = "<group>";
+		};
+		C8B70ED114F6BF5800B3DAA6 /* ip */ = {
+			isa = PBXGroup;
+			children = (
+				C8B70ED214F6BF5800B3DAA6 /* IpEndpointName.h */,
+				C8B70ED314F6BF5800B3DAA6 /* NetworkingUtils.h */,
+				C8B70ED414F6BF5800B3DAA6 /* PacketListener.h */,
+				C8B70ED514F6BF5800B3DAA6 /* TimerListener.h */,
+				C8B70ED614F6BF5800B3DAA6 /* UdpSocket.h */,
+			);
+			path = ip;
+			sourceTree = "<group>";
+		};
+		C8B70ED714F6BF5800B3DAA6 /* osc */ = {
+			isa = PBXGroup;
+			children = (
+				C8B70ED814F6BF5800B3DAA6 /* MessageMappingOscPacketListener.h */,
+				C8B70ED914F6BF5800B3DAA6 /* OscException.h */,
+				C8B70EDA14F6BF5800B3DAA6 /* OscHostEndianness.h */,
+				C8B70EDB14F6BF5800B3DAA6 /* OscOutboundPacketStream.h */,
+				C8B70EDC14F6BF5800B3DAA6 /* OscPacketListener.h */,
+				C8B70EDD14F6BF5800B3DAA6 /* OscPrintReceivedElements.h */,
+				C8B70EDE14F6BF5800B3DAA6 /* OscReceivedElements.h */,
+				C8B70EDF14F6BF5800B3DAA6 /* OscTypes.h */,
+			);
+			path = osc;
+			sourceTree = "<group>";
+		};
+		C8B70EE014F6BF5800B3DAA6 /* lib */ = {
+			isa = PBXGroup;
+			children = (
+				C8B70EE114F6BF5800B3DAA6 /* osx */,
+			);
+			path = lib;
+			sourceTree = "<group>";
+		};
+		C8B70EE114F6BF5800B3DAA6 /* osx */ = {
+			isa = PBXGroup;
+			children = (
+				C8B70EE214F6BF5800B3DAA6 /* osc.a */,
+			);
+			path = osx;
+			sourceTree = "<group>";
+		};
+		C8B70EE314F6BF5800B3DAA6 /* src */ = {
+			isa = PBXGroup;
+			children = (
+				C8B70EE414F6BF5800B3DAA6 /* ofxOsc.h */,
+				C8B70EE514F6BF5800B3DAA6 /* ofxOscArg.h */,
+				C8B70EE614F6BF5800B3DAA6 /* ofxOscBundle.cpp */,
+				C8B70EE714F6BF5800B3DAA6 /* ofxOscBundle.h */,
+				C8B70EE814F6BF5800B3DAA6 /* ofxOscMessage.cpp */,
+				C8B70EE914F6BF5800B3DAA6 /* ofxOscMessage.h */,
+				C8B70EEA14F6BF5800B3DAA6 /* ofxOscReceiver.cpp */,
+				C8B70EEB14F6BF5800B3DAA6 /* ofxOscReceiver.h */,
+				C8B70EEC14F6BF5800B3DAA6 /* ofxOscSender.cpp */,
+				C8B70EED14F6BF5800B3DAA6 /* ofxOscSender.h */,
+			);
+			path = src;
+			sourceTree = "<group>";
+		};
+		E4328144138ABC890047C5CB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				E4328148138ABC890047C5CB /* openFrameworksDebug.a */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		E45BE5980E8CC70C009D7055 /* frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				BBAB23CA13894EDB00AA2426 /* 3rd party frameworks */,
+				BBAB23C913894ECA00AA2426 /* system frameworks */,
+			);
+			name = frameworks;
+			sourceTree = "<group>";
+		};
+		E4B69B4A0A3A1720003C02F2 = {
+			isa = PBXGroup;
+			children = (
+				E4B6FCAD0C3E899E008CF71C /* openFrameworks-Info.plist */,
+				E4EB6923138AFD0F00A09F29 /* Project.xcconfig */,
+				E4B69E1C0A3A1BDC003C02F2 /* src */,
+				E4EEC9E9138DF44700A80321 /* openFrameworks */,
+				BB4B014C10F69532006C3DED /* addons */,
+				E45BE5980E8CC70C009D7055 /* frameworks */,
+				E4B69B5B0A3A1756003C02F2 /* emptyExampleDebug.app */,
+			);
+			sourceTree = "<group>";
+		};
+		E4B69E1C0A3A1BDC003C02F2 /* src */ = {
+			isa = PBXGroup;
+			children = (
+				C817BB6C14FD310B00D95D96 /* App.cpp */,
+				C817BB6D14FD310B00D95D96 /* App.h */,
+				C817BB6E14FD310B00D95D96 /* main.cpp */,
+				C817BB6F14FD310B00D95D96 /* Particles.h */,
+				C817BB7014FD310B00D95D96 /* testApp.cpp */,
+				C817BB7114FD310B00D95D96 /* testApp.h */,
+				C8B70ECC14F6BF5800B3DAA6 /* ofxOsc */,
+				C8B70CC014F6B39000B3DAA6 /* TUIO */,
+				C8B70CAA14F6B12C00B3DAA6 /* main.cpp */,
+				C8B70CAB14F6B12C00B3DAA6 /* testApp.cpp */,
+				C8B70CAC14F6B12C00B3DAA6 /* testApp.h */,
+			);
+			path = src;
+			sourceTree = SOURCE_ROOT;
+		};
+		E4EEC9E9138DF44700A80321 /* openFrameworks */ = {
+			isa = PBXGroup;
+			children = (
+				E4EB691F138AFCF100A09F29 /* CoreOF.xcconfig */,
+				E4328143138ABC890047C5CB /* openFrameworksLib.xcodeproj */,
+			);
+			name = openFrameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		E4B69B5A0A3A1756003C02F2 /* emptyExample */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = E4B69B5F0A3A1757003C02F2 /* Build configuration list for PBXNativeTarget "emptyExample" */;
+			buildPhases = (
+				E4B69B580A3A1756003C02F2 /* Sources */,
+				E4B69B590A3A1756003C02F2 /* Frameworks */,
+				E4B6FFFD0C3F9AB9008CF71C /* ShellScript */,
+				E4C2427710CC5ABF004149E2 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				E4EEB9AC138B136A00A80321 /* PBXTargetDependency */,
+			);
+			name = emptyExample;
+			productName = myOFApp;
+			productReference = E4B69B5B0A3A1756003C02F2 /* emptyExampleDebug.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		E4B69B4C0A3A1720003C02F2 /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = E4B69B4D0A3A1720003C02F2 /* Build configuration list for PBXProject "emptyExample" */;
+			compatibilityVersion = "Xcode 2.4";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				English,
+				Japanese,
+				French,
+				German,
+			);
+			mainGroup = E4B69B4A0A3A1720003C02F2;
+			productRefGroup = E4B69B4A0A3A1720003C02F2;
+			projectDirPath = "";
+			projectReferences = (
+				{
+					ProductGroup = E4328144138ABC890047C5CB /* Products */;
+					ProjectRef = E4328143138ABC890047C5CB /* openFrameworksLib.xcodeproj */;
+				},
+			);
+			projectRoot = "";
+			targets = (
+				E4B69B5A0A3A1756003C02F2 /* emptyExample */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXReferenceProxy section */
+		E4328148138ABC890047C5CB /* openFrameworksDebug.a */ = {
+			isa = PBXReferenceProxy;
+			fileType = archive.ar;
+			path = openFrameworksDebug.a;
+			remoteRef = E4328147138ABC890047C5CB /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+/* End PBXReferenceProxy section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		E4B6FFFD0C3F9AB9008CF71C /* ShellScript */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "cp -f ../../../libs/fmodex/lib/osx/libfmodex.dylib \"$TARGET_BUILD_DIR/$PRODUCT_NAME.app/Contents/MacOS/libfmodex.dylib\"; install_name_tool -change ./libfmodex.dylib @executable_path/libfmodex.dylib \"$TARGET_BUILD_DIR/$PRODUCT_NAME.app/Contents/MacOS/$PRODUCT_NAME\";";
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		E4B69B580A3A1756003C02F2 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C8B70CAD14F6B12C00B3DAA6 /* main.cpp in Sources */,
+				C8B70CAE14F6B12C00B3DAA6 /* testApp.cpp in Sources */,
+				C8B70CB314F6B16E00B3DAA6 /* ofxTuioClient.cpp in Sources */,
+				C8B70CB414F6B16E00B3DAA6 /* ofxTuioServer.cpp in Sources */,
+				C8B70CCD14F6B39000B3DAA6 /* TuioClient.cpp in Sources */,
+				C8B70CCE14F6B39000B3DAA6 /* TuioServer.cpp in Sources */,
+				C8B70CCF14F6B39000B3DAA6 /* TuioTime.cpp in Sources */,
+				C8B70E7914F6BB9F00B3DAA6 /* OscSender.cpp in Sources */,
+				C8B70E7A14F6BB9F00B3DAA6 /* TcpSender.cpp in Sources */,
+				C8B70E7B14F6BB9F00B3DAA6 /* TuioBlob.cpp in Sources */,
+				C8B70E7C14F6BB9F00B3DAA6 /* TuioClient.cpp in Sources */,
+				C8B70E7D14F6BB9F00B3DAA6 /* TuioContainer.cpp in Sources */,
+				C8B70E7E14F6BB9F00B3DAA6 /* TuioCursor.cpp in Sources */,
+				C8B70E7F14F6BB9F00B3DAA6 /* TuioDispatcher.cpp in Sources */,
+				C8B70E8014F6BB9F00B3DAA6 /* TuioManager.cpp in Sources */,
+				C8B70E8114F6BB9F00B3DAA6 /* TuioObject.cpp in Sources */,
+				C8B70E8214F6BB9F00B3DAA6 /* TuioPoint.cpp in Sources */,
+				C8B70E8314F6BB9F00B3DAA6 /* TuioServer.cpp in Sources */,
+				C8B70E8414F6BB9F00B3DAA6 /* TuioTime.cpp in Sources */,
+				C8B70E8514F6BB9F00B3DAA6 /* UdpSender.cpp in Sources */,
+				C8B70EEF14F6BF5800B3DAA6 /* ofxOscBundle.cpp in Sources */,
+				C8B70EF014F6BF5800B3DAA6 /* ofxOscMessage.cpp in Sources */,
+				C8B70EF114F6BF5800B3DAA6 /* ofxOscReceiver.cpp in Sources */,
+				C8B70EF214F6BF5800B3DAA6 /* ofxOscSender.cpp in Sources */,
+				C817BB7214FD310B00D95D96 /* App.cpp in Sources */,
+				C817BB7314FD310B00D95D96 /* main.cpp in Sources */,
+				C817BB7414FD310B00D95D96 /* testApp.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		E4EEB9AC138B136A00A80321 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = openFrameworks;
+			targetProxy = E4EEB9AB138B136A00A80321 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		E4B69B4E0A3A1720003C02F2 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = E4EB6923138AFD0F00A09F29 /* Project.xcconfig */;
+			buildSettings = {
+				ARCHS = "$(NATIVE_ARCH_ACTUAL)";
+				CONFIGURATION_BUILD_DIR = "$(SRCROOT)/bin/";
+				COPY_PHASE_STRIP = NO;
+				DEAD_CODE_STRIPPING = YES;
+				GCC_AUTO_VECTORIZATION = YES;
+				GCC_ENABLE_SSE3_EXTENSIONS = YES;
+				GCC_ENABLE_SUPPLEMENTAL_SSE3_INSTRUCTIONS = YES;
+				GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+				GCC_MODEL_TUNING = G5;
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_ABOUT_DEPRECATED_FUNCTIONS = NO;
+				GCC_WARN_ABOUT_INVALID_OFFSETOF_MACRO = NO;
+				GCC_WARN_ALLOW_INCOMPLETE_PROTOCOL = NO;
+				GCC_WARN_UNINITIALIZED_AUTOS = NO;
+				GCC_WARN_UNUSED_VALUE = NO;
+				GCC_WARN_UNUSED_VARIABLE = NO;
+				OTHER_CPLUSPLUSFLAGS = (
+					"-D__MACOSX_CORE__",
+					"-lpthread",
+				);
+			};
+			name = Debug;
+		};
+		E4B69B4F0A3A1720003C02F2 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = E4EB6923138AFD0F00A09F29 /* Project.xcconfig */;
+			buildSettings = {
+				ARCHS = "$(NATIVE_ARCH_ACTUAL)";
+				CONFIGURATION_BUILD_DIR = "$(SRCROOT)/bin/";
+				COPY_PHASE_STRIP = YES;
+				DEAD_CODE_STRIPPING = YES;
+				GCC_AUTO_VECTORIZATION = YES;
+				GCC_ENABLE_SSE3_EXTENSIONS = YES;
+				GCC_ENABLE_SUPPLEMENTAL_SSE3_INSTRUCTIONS = YES;
+				GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+				GCC_MODEL_TUNING = G5;
+				GCC_OPTIMIZATION_LEVEL = 3;
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_UNROLL_LOOPS = YES;
+				GCC_WARN_ABOUT_DEPRECATED_FUNCTIONS = NO;
+				GCC_WARN_ABOUT_INVALID_OFFSETOF_MACRO = NO;
+				GCC_WARN_ALLOW_INCOMPLETE_PROTOCOL = NO;
+				GCC_WARN_UNINITIALIZED_AUTOS = NO;
+				GCC_WARN_UNUSED_VALUE = NO;
+				GCC_WARN_UNUSED_VARIABLE = NO;
+				OTHER_CPLUSPLUSFLAGS = (
+					"-D__MACOSX_CORE__",
+					"-lpthread",
+				);
+			};
+			name = Release;
+		};
+		E4B69B600A3A1757003C02F2 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COPY_PHASE_STRIP = NO;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(FRAMEWORK_SEARCH_PATHS_QUOTED_FOR_TARGET_1)",
+				);
+				FRAMEWORK_SEARCH_PATHS_QUOTED_FOR_TARGET_1 = "\"$(SRCROOT)/../../../libs/glut/lib/osx\"";
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_FIX_AND_CONTINUE = YES;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_MODEL_TUNING = G4;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/Carbon.framework/Headers/Carbon.h";
+				INFOPLIST_FILE = "openFrameworks-Info.plist";
+				INSTALL_PATH = "$(HOME)/Applications";
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_1)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_2)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_3)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_4)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_5)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_6)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_7)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_8)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_9)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_10)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_11)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_12)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_13)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_14)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_15)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_2)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_3)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_7)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_8)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_9)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_10)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_11)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_12)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_13)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_16)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_17)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_18)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_19)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_20)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_21)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_22)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_23)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_24)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_25)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_26)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_27)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_28)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_29)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_30)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_31)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_32)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_33)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_34)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_35)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_36)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_37)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_38)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_39)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_40)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_41)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_42)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_43)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_44)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_45)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_46)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_47)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_48)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_49)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_50)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_51)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_52)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_1)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_2)",
+				);
+				LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_1 = "\"$(SRCROOT)/../../../../../Downloads/TUIO_CPP/sdl/lib\"";
+				LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_2 = "\"$(SRCROOT)/../../../addons/ofxOsc/libs/oscpack/lib/osx\"";
+				PREBINDING = NO;
+				PRODUCT_NAME = "$(TARGET_NAME)Debug";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		E4B69B610A3A1757003C02F2 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COPY_PHASE_STRIP = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(FRAMEWORK_SEARCH_PATHS_QUOTED_FOR_TARGET_1)",
+				);
+				FRAMEWORK_SEARCH_PATHS_QUOTED_FOR_TARGET_1 = "\"$(SRCROOT)/../../../libs/glut/lib/osx\"";
+				GCC_ENABLE_FIX_AND_CONTINUE = NO;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+				GCC_MODEL_TUNING = G4;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/Carbon.framework/Headers/Carbon.h";
+				INFOPLIST_FILE = "openFrameworks-Info.plist";
+				INSTALL_PATH = "$(HOME)/Applications";
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_1)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_2)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_3)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_4)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_5)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_6)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_7)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_8)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_9)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_10)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_11)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_12)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_13)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_14)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_15)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_2)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_1)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_3)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_7)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_8)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_9)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_10)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_11)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_12)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_13)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_16)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_17)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_18)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_19)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_20)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_21)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_22)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_23)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_24)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_25)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_26)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_27)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_28)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_29)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_30)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_31)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_32)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_33)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_34)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_35)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_36)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_37)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_38)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_39)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_40)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_41)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_42)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_43)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_44)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_45)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_46)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_47)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_48)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_49)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_50)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_51)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_1)",
+					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_2)",
+				);
+				LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_1 = "\"$(SRCROOT)/../../../../../Downloads/TUIO_CPP/sdl/lib\"";
+				LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_2 = "\"$(SRCROOT)/../../../addons/ofxOsc/libs/oscpack/lib/osx\"";
+				PREBINDING = NO;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		E4B69B4D0A3A1720003C02F2 /* Build configuration list for PBXProject "emptyExample" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E4B69B4E0A3A1720003C02F2 /* Debug */,
+				E4B69B4F0A3A1720003C02F2 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		E4B69B5F0A3A1757003C02F2 /* Build configuration list for PBXNativeTarget "emptyExample" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E4B69B600A3A1757003C02F2 /* Debug */,
+				E4B69B610A3A1757003C02F2 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = E4B69B4C0A3A1720003C02F2 /* Project object */;
+}

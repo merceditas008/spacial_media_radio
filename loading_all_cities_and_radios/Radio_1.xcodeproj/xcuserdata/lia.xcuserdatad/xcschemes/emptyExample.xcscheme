@@ -14,7 +14,11 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "E4B69B5A0A3A1756003C02F2"
+<<<<<<< HEAD
                BuildableName = "Radio_1.app"
+=======
+               BuildableName = "emptyExample.app"
+>>>>>>> upstream/master
                BlueprintName = "Radio_1"
                ReferencedContainer = "container:Radio_1.xcodeproj">
             </BuildableReference>
@@ -32,7 +36,11 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "E4B69B5A0A3A1756003C02F2"
+<<<<<<< HEAD
             BuildableName = "Radio_1.app"
+=======
+            BuildableName = "emptyExample.app"
+>>>>>>> upstream/master
             BlueprintName = "Radio_1"
             ReferencedContainer = "container:Radio_1.xcodeproj">
          </BuildableReference>
@@ -50,7 +58,11 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "E4B69B5A0A3A1756003C02F2"
+<<<<<<< HEAD
             BuildableName = "Radio_1.app"
+=======
+            BuildableName = "emptyExample.app"
+>>>>>>> upstream/master
             BlueprintName = "Radio_1"
             ReferencedContainer = "container:Radio_1.xcodeproj">
          </BuildableReference>
@@ -68,7 +80,11 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "E4B69B5A0A3A1756003C02F2"
+<<<<<<< HEAD
             BuildableName = "Radio_1.app"
+=======
+            BuildableName = "emptyExample.app"
+>>>>>>> upstream/master
             BlueprintName = "Radio_1"
             ReferencedContainer = "container:Radio_1.xcodeproj">
          </BuildableReference>

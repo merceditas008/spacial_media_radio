@@ -4,7 +4,11 @@
 void testApp::setup(){
     
     ofBackground(190, 220, 230 );
+<<<<<<< HEAD
     vlc.setup("/Users/lia/vlc.sock"); 
+=======
+    vlc.setup("/Users/meR/vlc.sock"); 
+>>>>>>> upstream/master
     
     //we load the xml file with all the data from the cities : x,y,name city, radio station
     XML.loadFile("new_radios.xml");
@@ -26,6 +30,7 @@ void testApp::setup(){
         cout <<cities[i].station<<endl;
     }
     XML.popTag();
+<<<<<<< HEAD
     
     //setup calibration
     gridWidth = 720; 
@@ -47,12 +52,32 @@ void testApp::setup(){
     inactive.r = 100;
     inactive.g = 100; 
     inactive.b = 100; 
+=======
+    /*int num_cities=XML.getNumTags("PT:X");
+    cout <<num_cities<<endl;
+    for (int i=0; i<num_cities; i++){
+        cities[i].loc.x= XML.getValue("PT:X",0,i);
+        cout <<cities[i].loc.x<<endl;
+        cities[i].loc.y= XML.getValue("PT:Y",0,i);
+        cout <<cities[i].loc.y<<endl;
+        cities[i].isPlaying = false; 
+        cities[i].name= XML.getValue("PT:CITY","",i);
+        cout <<cities[i].name<<endl;
+        cities[i].station= XML.getValue("PT:Radio"," ",i);
+        cout <<cities[i].station<<endl;
+        
+    }*/
+    
+
+
+>>>>>>> upstream/master
      
     
 }
 
 //--------------------------------------------------------------
 void testApp::update(){
+<<<<<<< HEAD
     
 }
 
@@ -91,25 +116,49 @@ void testApp::draw(){
         cout << "city location" <<  cities[5].getLocation().x << endl; 
         d = ofClamp(d, 0, 15);
             
+=======
+    for (int i = 0; i < 129; i++) {
+        float d = ofDist(cities[i].loc.x, cities[i].loc.y,mouseLoc.x, mouseLoc.y); //magnitude
+        d = ofClamp(d, 0, 150);
+        
+
+>>>>>>> upstream/master
         if (d < 15) {
             int vol = ofMap(d, 0, 15, 100, 0);
             cities[i].volume = vol; 
             string setVol = "volume " + cities[i].volume;
+<<<<<<< HEAD
             
             cities[i].isNear = true;  
             
+=======
+            //cout << setVol << endl; 
+           // cout << cities[i].name << endl;
+            //vlc.run(setVol);
+            
+            
+           cities[i].isNear = true;  
+           
+>>>>>>> upstream/master
             if (!cities[i].isPlaying) {
                 string command = "add " + cities[i].station;
                 vlc.run(command); 
                 cities[i].isPlaying = true; 
             }
+<<<<<<< HEAD
         } else {
             cities[i].isNear = false;  
+=======
+             } else {
+            cities[i].isNear = false;  
+            //vlc.run("stop"); 
+>>>>>>> upstream/master
             cities[i].isPlaying = false;              
         }
 
     }
     
+<<<<<<< HEAD
     glPopMatrix();
 
     
@@ -129,10 +178,13 @@ void testApp::draw(){
     ofDrawBitmapString(textDegrees, 600,730);
  
   
+=======
+>>>>>>> upstream/master
 
 }
 
 //--------------------------------------------------------------
+<<<<<<< HEAD
 void testApp::keyPressed(int key){
     
     if (key == 'c') {
@@ -161,10 +213,34 @@ void testApp::keyPressed(int key){
 
 //--------------------------------------------------------------
 void testApp::keyReleased(int key){
+=======
+void testApp::draw(){
+    ofEnableSmoothing();
+    ofFill();
+    //ofSetColor(200);
+	//ofSetHexColor(0xe0be21);
+    for (int i = 0; i < 129; i++) {
+        if (cities[i].isNear) {
+            ofSetHexColor(0xe0be21);
+        } else {
+        ofSetColor(0);
+        }
+        cities[i].display(); 
+    }
+    
+    
+    
+  
+}
+
+//--------------------------------------------------------------
+void testApp::keyPressed(int key){
+>>>>>>> upstream/master
 
 }
 
 //--------------------------------------------------------------
+<<<<<<< HEAD
 void testApp::mouseMoved(int x, int y ){
 
     mouseX = x; 
@@ -190,10 +266,22 @@ void testApp::calibrate() {
     } else {
         buttonCornerOn = false; 
     }
+=======
+void testApp::keyReleased(int key){
 
 }
 
 //--------------------------------------------------------------
+void testApp::mouseMoved(int x, int y ){
+    
+    mouseLoc.x = x;
+    mouseLoc.y = y; 
+>>>>>>> upstream/master
+
+}
+
+//--------------------------------------------------------------
+<<<<<<< HEAD
 void testApp::drawGrid(){
     
 
@@ -222,6 +310,10 @@ void testApp::drawGrid(){
     //draw text
 
     
+=======
+void testApp::mouseDragged(int x, int y, int button){
+
+>>>>>>> upstream/master
 }
 
 //--------------------------------------------------------------

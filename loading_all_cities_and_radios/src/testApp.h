@@ -31,6 +31,7 @@ class testApp : public ofBaseApp{
     
         //XML
         ofxXmlSettings XML;
+<<<<<<< HEAD
     
         //calibration
     bool calibrateOn; 
@@ -49,6 +50,8 @@ class testApp : public ofBaseApp{
     float degreesFactor; 
     
     ofVec3f newLoc;
+=======
+>>>>>>> upstream/master
 
     //bool playing; 
 };
